@@ -18,27 +18,27 @@ public class MyDataParser
 {
     public static Dictionary<int, ItemData > ItemList = new Dictionary<int, ItemData>();
     
-	public static void Main(string[] args) 
-	{
-		ParseDescriptions();
-		Console.WriteLine(ItemList[0].ItemName); // Should print "Blank"
-		Console.ReadKey();
-	}
+    public static void Main(string[] args) 
+    {
+	ParseDescriptions();
+	Console.WriteLine(ItemList[0].ItemName); // Should print "Blank"
+        Console.ReadKey();
+    }
 	
     public static void ParseDescriptions() 
     {
-		foreach (var j in File.ReadAllLines("CoreData.txt")))
-		{
-			if (String.IsNullOrEmpty(j) || j.StartsWith("//")) continue;
+	foreach (var j in File.ReadAllLines("CoreData.txt")))
+	{
+	    if (String.IsNullOrEmpty(j) || j.StartsWith("//")) continue;
 
-			string[] str = j.Split('|');
-			int id = Convert.ToInt32(str[0]);
-			string itemName = str[1];
-			var item = new ItemData();
-			item.ItemName = str[1];
-			ItemDesc[id] = item;
-		}
+	    string[] str = j.Split('|');
+	    int id = Convert.ToInt32(str[0]);
+	    string itemName = str[1];
+	    var item = new ItemData();
+	    item.ItemName = str[1];
+	    ItemDesc[id] = item;
 	}
+    }
 }
 
 public class ItemData 
