@@ -1,0 +1,200 @@
+//ID|Element|Ability|Description|Cooldown|Prefix|Suffix
+
+////////////
+//AIR PETS//
+////////////
+1180|Air|Possession|Possesses the target into using a random skill on the wrong target.|20|ecto|ghost
+3738|Air|Phantom Pain|Inflicts phantasmal damage, which heals back over 10s. Inflict 30 Air damage.|10|polter|geist
+876|Air|Chirp|Cheep adorably. Inflicts 9 Air damage. Can't be blocked.|5|chee|chick
+1376|Air|Soaring|Passive - 20% chance to dodge attacks.|0|yeonn|alligi
+3396|Air|Enthrall|Mesmerize your enemy, so it can do nothing but swap out for 6s. Inflicts 10 Air Damage.|20|love|bird
+1948|Air|Shock Blast|Electrocute for a 1s stun. Inflicts 18 Air damage.|10|elec|vira
+3430|Air|Lucky Strike|Attack enemy with a chance to inflict 1 - 50 Air damage.|10|luck|lucky
+1540|Air|Swoop|Attack, and dodge all attacks for 2s. Inflicts 15 Air Damage.|10|hooti|hoppi
+1150|Air|Stun Ray|Stuns the target for 3s, making them unable to act. Inflicts 10 Air damage.|10|zorb|nik
+2484|Air|Wish|Bring your partner back to life with 30% health! Inflicts 30 Air damage.|999|jini|genie
+1670|Air|Windspeed|Passive - all cooldowns are 2s shorter (minimum 1s).|0|summer|kite
+2066|Air|Cosmic Barrage|Crush the target with a comet from the heavens. Inflicts 36 Air damage. Can't be dodged.|20|cosmi|korn
+1968|Air|Doom|Mark the target for death in 20s. The effect can be erased by simply swapping pets.|30|doom|mortis
+882|Air|Acrobatics|Dodge all attacks for 5s.|10|butter|fly
+2762|Air|Pineapple Bomb|Lob a heavy pineapple. Inflicts 18 Air damage.|9|pina|flyer
+1232|Air|Sonic Burst|Blast sonic waves. Inflicts 9 Air damage. Can't be dodged.|5|flappi|bat
+3640|Air|Psyblade|Shoot a mind blade, causing psychic backlash to you for 4 damage. Inflicts 12 Air damage.|5|pearl|pede
+3644|Air|Face Slap|Smack the target in the face, enraging them to inflict 25% more damage for 10s. The rage stacks up to 20 times. Inflicts 12 Air damage.|5|purpur|squirm
+3678|Air|Mind Swap|Take all the positive effects on your opponent, and give all your negative effects to them.|10|neuro|brain
+4150|Air|Gift of Growganoth|Passive - Heal 7 health every 5s when not active.|0|ocu|stare
+4294|Air|Static Charge|Each time you take damage, gain 1 static charge (up to 10). This skill launches them all at once, for 5 damage each.|3|betti|doll
+
+//Dinos
+4048|Air|Precision Strike A|If the opponent attempts to dodge or block, hits for 25% more damage. Inflicts 7 Air damage. Can't be dodged or blocked.|5|spyro|dhon
+4050|Air|Critical Strike A|If the opponent attempts to dodge or block, hits for 50% more damage. Inflicts 17 Air damage. Can't be dodged or blocked.|15|terra|saarus
+4052|Air|Precision Crush A|If the opponent attempts to dodge or block, hits for 10% more damage. Inflicts 25 Air damage. Can't be dodged or blocked.|19|terro|tyrus
+4054|Air|Precision Attack A|If the opponent attempts to dodge or block, hits for 17% more damage. Inflicts 11 Air damage. Can't be dodged or blocked.|9|ptyra|topps
+4056|Air|Dino Dive A|Against a Water opponent, inflicts +50% damage (on top of normal bonus.) Inflicts 10 Air damage.|6|alpo|dron
+4058|Air|Dino Slam A|Against a Water opponent, inflicts +100% damage (on top of normal bonus). Inflicts 15 Air damage.|10|apito|snorus
+4060|Air|Dino Chomp A|Against a Water opponent, inflicts +25% damage (on top of normal bonus). Inflicts 18 Air damage.|10|appoto|drex
+4062|Air|Dino Charge A|Against a Water opponent, inflicts +60% damage (on top of normal bonus). Inflicts 14 Air damage.|8|upato|reops
+4064|Air|Piercing Jaws A|Causes trauma, preventing the target from healing for 4s. Inflicts 15 Air damage.|10|torino|dom
+4066|Air|Grinding Jaws A|Causes Trauma, preventing the target from healing for 30s. Inflicts 3 Air damage.|20|teranno|portus
+4068|Air|Crushing Jaws A|Causes trauma, preventing the target for 3s. Inflicts 29 Air damage.|16|trano|grex
+4070|Air|Crushing Beak A|Causes Trauma, preventing the target from healing for 7 seconds. Inflicts 19 Air damage.|13|turano|flops
+4072|Air|Defensive Flurry A|Strike and then block attacks for 2s. Inflicts 12 Air damage.|10|thrisera|dunn
+4074|Air|Defensive Bash A|Strike and then block attacks for 7s. Inflicts 10 Air damage|20|tripoto|sarris
+4076|Air|Defensive Bite A|Strike and then block attacks for 2s. Inflicts 22 Air damage.|18|trycera|rech
+4078|Air|Defensive Gore A|Strike and then block attacks for 4s. Inflicts 16 Air damage.|13|terra|clops
+
+4476|Air|Taste The Rainbow|Blast a rainbow beam that inflicts damage of a random element. Inflicts 16 Air damage.|8|rain|bow
+4514|Air|Draining Beam|Drain the enemy. Any skills they have on cooldown will take 3s longer to recharge. Inflicst 5 Air damage.|10|hanta|sin
+4528|Air|Exoskeleton|Negative effects on you have 2s shorter duration (minimum 1s).|0|lady|bug
+4936|Air|Floaty Bomb|Lob a heavy balloon at your foes. Inflicts 18 Air damage.|9|red|floater
+4940|Air|Bouncy Barrier|Bounce attacks back for 25 damage if hit within 4s.|11|bloo|bouncer
+4938|Air|Pumped Up|Pump yourself up to regenerate health. Heals 30 life.|20|boon|bloon
+5004|Air|Playful Wind|Grants you a 15% chance to do double damage for 8 seconds. Inflicts 6 Air damage.|4|spry|spyte
+5122|Air|Self Sacrifice|If struck in the next 4 seconds, avoid it completely and swap out instead (if able to swap). The moke left behind helps your teammate dodge all attacks for 4 seconds. Isn't visible to your enemy.|20|rapid|giver
+
+//////////////
+//EARTH PETS//
+//////////////
+1742|Earth|Pounce|Leap to strike! Inflicts 9 Earth damage.|4|puppi|pup
+878|Earth|Wallow|Wallow in the mud, healing yourself. Heals 20 life.|10|piggi|piggy
+2032|Earth|Hairball|Launch a hairball. Gross. Inflitcts 10 Earth damage.|5|puddi|kat
+1014|Earth|Needles|For 15s, inflict 5 Earth damage when you are hit.|10|tumble|weed
+2584|Earth|Mud Glob|For 10s, the target's abilities recharge half as fast. Inflicts 20 Earth damage.|40|mud|dirt
+1648|Earth|Rainbow Beam|Fire a blast of mythical colors. Inflicts 11 Earth Damage. Can't be blocked.|6|uni|corn
+1350|Earth|Mammoth Heart|Passive - Maximum life is 30% higher.|0|mam|moth
+2986|Earth|Howl|Boost your damage by 25% for 30s.|30|lupo|wolf
+3642|Earth|Stoneform|Turn to stone, blocking attacks for 5s.|10|grok|wiggle
+3634|Earth|Toxic Cloud|Weather Effect. Spread poison over the whole battle, hurting everyone for 4 Earth damage every 5s, lasting 60s. Replaces any other active Weather Effect.|60|verdi|worm
+870|Earth|Trample|Force opponent to swap pets.|7|moo|calf
+3216|Earth|Antler Bash|Smash them with your mighty antlers! Inflicts 22 Earth damage. Can't be blocked.|12|moos|moose
+2494|Earth|Hop|Hop.|3|babi|bunny
+2702|Earth|Cower|Blocks all attacks for 7s.|15|mickey|may
+1400|Earth|Punch, Build, Grow|Punch hits for 8 Earth damage. Build builds a wall that blocks attacks for 1s. Grow adds 4 damage to Punch and 1s to Build, stacking up to 5 times.|6|mini|topian
+1552|Earth|Big Sharp Pointy Teeth|Murder violently. Inflicts 30 Earth damage.|15|hoppi|rabbit
+1586|Earth|Stubborn|Passive - Suffers 25% less damage from all attacks.|0|burro|burro
+1512|Earth|Get Lucky|Grants 25% chance of hitting for double damage for 10s.|20|lepre|chaun
+3886|Earth|Count Sheep|Weather Effect. Put everybody to sleep for 8s. Replaces any other active weather effect.|40|lil|sheep
+3800|Earth|Charge|Disable your opponent's skills for 3 seconds. Inflicts 16 Earth damage.|6|rhino|ceros
+4110|Earth|Pollen Barrage|Spew pollen. Consumes your positive effects to add 15 damage per effect. Inflicts 15 Earth damage.|12|flora|flor
+
+//Dinos
+4016|Earth|Precision Strike E|If the opponent attempts to dodge or block, hits for 25% more damage. Inflicts 7 Earth damage. Can't be dodged or blocked.|5|pterra|nodon
+4018|Earth|Critical Strike E|If the opponent attempts to dodge or block, hits for 50% more damage. Inflicts 17 Earth damage. Can't be dodged or blocked.|15|tera|apatus
+4020|Earth|Precision Crush E|If the opponent attempts to dodge or block, hits for 10% more damage. Inflicts 25 Earth damage. Can't be dodged or blocked.|19|tyra|sorex
+4022|Earth|Precision Attack E|If the opponent attempts to dodge or block, hits for 17% more damage. Inflicts 11 Earth damage. Can't be dodged or blocked.|9|pterano|trix
+4024|Earth|Dino Dive E|Against an Air opponent, inflicts +50% damage (on top of normal bonus.) Inflicts 10 Earth damage.|6|umpato|dun
+4026|Earth|Dino Slam E|Against an Air opponent, inflicts +100% damage (on top of normal bonus). Inflicts 15 Earth damage.|10|potato|torus
+4028|Earth|Dino Chomp E|Against an Air opponent, inflicts +25% damage  (on top of normal bonus). Inflicts 18 Earth damage.|10|pato|tyranus
+4030|Earth|Dino Charge E|Against an Air opponent, inflicts +60% damage (on top of normal bonus). Inflicts 14 Earth damage.|8|aparto|keratops
+4032|Earth|Piercing Jaws E|Causes trauma, preventing the target from healing for 4s. Inflicts 15 Earth damage.|10|kyrano|dawn
+4034|Earth|Grinding Jaws E|Causes Trauma, preventing the target from healing for 30s. Inflicts 3 Earth damage.|20|gyrano|pots
+4036|Earth|Crushing Jaws E|Causes trauma, preventing the target for 3s. Inflicts 29 Earth damage.|16|tyran|trex
+4038|Earth|Crushing Beak E|Causes Trauma, preventing the target from healing for 7 seconds. Inflicts 19 Earth damage.|13|torano|thops
+4040|Earth|Defensive Flurry E|Strike and then block attacks for 2s. Inflicts 12 Earth damage.|10|tresera|dahon
+4042|Earth|Defensive Bash E|Strike and then block attacks for 7s. Inflicts 10 Earth damage|20|tropato|sarrus
+4044|Earth|Defensive Bite E|Strike and then block attacks for 2s. Inflicts 22 Earth damage.|18|trecera|prex
+4046|Earth|Defensive Gore E|Strike and then block attacks for 4s. Inflicts 16 Earth damage.|13|thricera|tahps
+
+4508|Earth|Unearthly Beam|Shoot a beam. If the enemy has any negative effects, one is vaporized for an extra 15 damage. Inflicts 10 Earth Damage.|10|synth|synth
+4478|Earth|Bursting Spores|Bite, infecting with spores that burst after 6s for 15 damage. Inflicts 10 Earth damage.|10|zombi|hound
+4770|Earth|Sticky Spider Web|Prevent opponent from swapping out for 5s, dealing 4 Earth damage every second for 5s.|20|arachno|spider
+5006|Earth|Playtime|Grants you a 30% chance to do double damage for 4 seconds. Inflicts 5 Earth damage.|15|wood|wood
+5124|Earth|Draining Roots|Drain life from the target, healing you for the same amount. Inflicts 30 Earth damage.|30|dry|nymph
+
+/////////////
+//FIRE PETS//
+/////////////
+1254|Fire|Disco Fever|Infect the target to dance for 4s, unable to do anything other than swap out, and suffering 5 Fire damage per second.|20|retro|virio
+1760|Fire|Spirit Swap|Force opponent to swap and transfer all status effects to the new enemy. Inflicts 10 Fire damage.|10|pyro|spirit
+1892|Fire|Claws Out|Strike back for 35 Fire damage if hit within 4s.|15|leo|lion
+900|Fire|Fire Breath|Ignite the target for 3 Fire damage plus 3 more per second for 4 seconds. Inflicts 3 Fire damage.|6|draco|dragon
+2512|Fire|Sugar Rush|For 10s, your abilities recharge twice as fast for both your pets.|60|marsh|mallow
+1576|Fire|Party Breath|Attack, hitting both enemy pet say once. Inflicts 10 Fire damage to each one.|10|festi|fiesta
+2224|Fire|Glowing Nose|Ignite them with rays from your nose, doing 2 Fire damage per second for 10s. inflicts 10 Fire damage.|12|rudo|elk
+1974|Fire|Nightmares|Terrify the target into messing up their skills 50% of the time for 6s. Inflicts 10 Fire damage.|20|night|virii
+1868|Fire|Purple Haze|Weather Effect. Cover the world in burning haze for 10s, increasing all Fire damage by 25%, and reducing all other damage by 25%. Replaces any other active Weather Effect.|30|proto|drake
+1782|Fire|BURNINATE!|Vaporize the target with a massive stream of flame. Inflicts 40 Fire damage. Can't be dodged or blocked.|40|legend|legend
+1998|Fire|Deathfire|Drain life from the target, healing you for the same amount. Deals 10 Fire damage.|10|skele|skull
+2854|Fire|Firestorm|Weather Effect. Ignite the planet! Everybody burns for 8 Fire damage every 2s, lasting 10s. Replaces any other active Weather Effect.|60|char|nix
+3680|Fire|Toasties|Summons a toasty friend who inflicts 2 Fire damage every 3s.|6|burn|pyros
+3596|Fire|Surprise!|Prepare a surprise: If the opponent swaps out within 4s, hit both enemies for 25 Fire damage. Isn't visible to your enemy.|22|candy|pal
+3736|Fire|Flaming Tongue|Lick your wounds, but then you burn 5 Fire damage per second for 7s. Heal 40 life.|15|demon|dog
+3632|Fire|Death Ray|If this beat destroys its target, it also hits the target's partner. Inflicts 24 Fire damage.|13|rubi|silk
+3638|Fire|Absorb|Absorb incoming energy for 2s - any attacks that would hurt you will heal you instead.|15|ebon|crawl
+3646|Fire|Liquify|Melt down the enemy so they take 25% more damage for 5s.|20|yella|verm
+3686|Fire|Lockdown|Smack the target with a lock, keeping them from swapping out for 4s. Deals 17 Fire damage.|10|lock|bot
+4374|Fire|Party Foul|Attack when inactive! 5 Fire damage attack is used automatically when inactive.|5|parti|fowl
+4254|Fire|Desperate Bite|Inflicts 1% more damage for every 1% of life you are missing. Deals 10 Fire damage.|7|foxi|fox
+
+//Dinos
+3952|Fire|Dino Dive F|If the opponent attempts to dodge or block, hits for 25% more damage. Inflicts 7 Fire damage. Can't be dodged or blocked.|5|apatto|dahn
+3954|Fire|Critical Strike F|If the opponent attempts to dodge or block, hits for 50% more damage. Inflicts 17 Fire damage. Can't be dodged or blocked.|15|pteri|sorus
+3956|Fire|Precision Crush F|If the opponent attempts to dodge or block, hits for 10% more damage. Inflicts 25 Fire damage. Can't be dodged or blocked.|19|teri|reks
+3958|Fire|Precision Attack F|If the opponent attempts to dodge or block, hits for 17% more damage. Inflicts 11 Fire damage. Can't be dodged or blocked.|9|ptery|toppus
+3960|Fire|Precision Strike F|Against an Earth opponent, inflicts +50% damage (on top of normal bonus.) Inflicts 10 Fire damage.|6|ptero|don
+3962|Fire|Dino Slam F|Against an Earth opponent, inflicts +100% damage (on top of normal bonus). Inflicts 15 Fire damage.|10|apato|sarus
+3964|Fire|Dino Chomp F|Against an Earth opponent, inflicts +25% damage  (on top of normal bonus). Inflicts 18 Fire damage.|10|appato|recks
+3966|Fire|Dino Charge F|Against an Earth opponent, inflicts +60% damage (on top of normal bonus). Inflicts 14 Fire damage.|8|apo|cereops
+3968|Fire|Piercing Jaws F|Causes trauma, preventing the target from healing for 4s. Inflicts 15 Fire damage.|10|tyrini|nodun
+3970|Fire|Grinding Jaws F|Causes Trauma, preventing the target from healing for 30s. Inflicts 3 Fire damage.|20|tyrani|patos
+3972|Fire|Crushing Jaws F|Causes trauma, preventing the target for 3s. Inflicts 29 Fire damage.|16|tyranno|sauros
+3974|Fire|Crushing Beak F|Causes Trauma, preventing the target from healing for 7 seconds. Inflicts 19 Fire damage.|13|tyrauno|tox
+3976|Fire|Defensive Flurry F|Strike and then block attacks for 2s. Inflicts 12 Fire damage.|10|trisera|dohn
+3978|Fire|Defensive Bash F|Strike and then block attacks for 7s. Inflicts 10 Fire damage|20|tripato|sorrus
+3980|Fire|Defensive Bite F|Strike and then block attacks for 2s. Inflicts 22 Fire damage.|18|triseri|recs
+3982|Fire|Defensive Gore F|Strike and then block attacks for 4s. Inflicts 16 Fire damage.|13|tricera|tops
+
+4664|Fire|Pepper|Pepper your foes with this rapid-fire attack. Inflicts 6 Fire damage.|3|jala|peno
+5002|Fire|Playful Fire|Grants you a 10% chance to do double damage for 5 seconds. Inflicts 15 Fire damage.|8|spri|sprite
+5540|Fire|Slime Kiss|Terrify the target to have 100% chance of messing up their skills for 10 seconds.|30|siren|wet
+5414|Fire|Ginger Blast|Deals 25% more damage. Cooldowns go twice as fast.|30|baked|sweet
+5572|Fire|Acid Spit|Spray acid that burns the target for 10 Fire damage per second lasting for 5 seconds.|20|?|?
+
+//////////////
+//WATER PETS//
+//////////////
+4252|Water|Trick Escape|If struck in the next 4s, avoid it completely and swap out if able to). Teammate gets ability to dodge for 4s. Is not visible to enemy.|20|peng|nguyen
+1252|Water|Infect|Infect the target for 6 Water damage per second lasting 7s.|20|viro|virus
+3168|Water|Corrosion|Spray acid that increases damage given by 10% for 10s. Stacks up to 20 times. Inflicts 6 Water damage.|4|straw|berry
+910|Water|Supercharge|Charge up your next skill with +50% damage.|10|franken|stein
+1394|Water|Maul|Smash and slash! Inflicts 14 Water damage.|7|ursa|bear
+3238|Water|That's Cold|Freeze your teammate and throw their frozen body at the other team, hitting each for half your teammate's current health.|30|snow|snow
+2240|Water|Influenza|Infect the target for 2 Water damage per second over 25s.|15|winter|flu
+1214|Water|Black Magic|Makes your target's abilities fail 10% of the time for the next 20s. Inflicts 10 Water Damage that can't be dodged.|10|fami|cat
+2450|Water|Diamond Block|Prevent the target from swapping out for 10s.|30|dima|saur
+3166|Water|Regrowth|Heal 4 health every second for 10s.|20|goop|slime
+2800|Water|Frosty Slide|Chill the target, making its abilities take 2s longer to recharge if used in the next 5s. Inflicts 9 Water damage.|5|ping|guin
+1190|Water|Bad Luck|Cross the target's path, making them do -25% damage, and suffer +25% damage, for 8s.|30|kitti|kitty
+2222|Water|Winter Gift|Give a gift to your teammate, healing them. Heals 30 life.|15|rein|deer
+1250|Water|Reanimate|If beaten within 5s, resurrect with 50% life.|20|franci|steina
+2212|Water|Crystal Spikes|A blast of razor-sharp crystals. Inflicts 15 Water damage. Can't be blocked.|8|crysta|saurus
+1946|Water|Ice Laser|Freeze the target for 5s. Frozen targets can't even swap out.|30|ici|cow
+1378|Water|Frost Breath|Freeze the target for 2s. Frozen targets can't even swap out. Inflicts 10 Water damage.|10|iso|zard
+3648|Water|Soothing Mist|Weather Effect. Heal everyone for 6 life every 5s, lasting 30s. Replaces any other active weather effect.|60|aqua|wurm
+3636|Water|Toss Cookies|Purge yourself of harmful effects, inflicting 10 Water damage per effect removed.|20|blu|wormy
+
+//Dinos
+3984|Water|Precision Strike W|If the opponent attempts to dodge or block, hits for 25% more damage. Inflicts 7 Water damage. Can't be dodged or blocked.|5|ptyro|donn
+3986|Water|Critical Strike W|If the opponent attempts to dodge or block, hits for 50% more damage. Inflicts 17 Water damage. Can't be dodged or blocked.|15|ptoro|serus
+3988|Water|Precision Crush W|If the opponent attempts to dodge or block, hits for 10% more damage. Inflicts 25 Water damage. Can't be dodged or blocked.|19|tyro|rexx
+3990|Water|Precision Attack W|If the opponent attempts to dodge or block, hits for 17% more damage. Inflicts 11 Water damage. Can't be dodged or blocked.|9|tero|tapas
+3992|Water|Dino Dive W|Against a Fire opponent, inflicts +50% damage (on top of normal bonus.) Inflicts 10 Water damage.|6|apto|donon
+3994|Water|Dino Slam W|Against a Fire opponent, inflicts +100% damage (on top of normal bonus). Inflicts 15 Water damage.|10|apoto|shorus
+3996|Water|Dino Chomp W|Against a Fire opponent, inflicts +25% damage  (on top of normal bonus). Inflicts 18 Water damage.|10|hapato|frex
+3998|Water|Dino Charge W|Against a Fire opponent, inflicts +60% damage (on top of normal bonus). Inflicts 14 Water damage.|8|appo|trops
+4000|Water|Piercing Jaws W|Causes trauma, preventing the target from healing for 4s. Inflicts 15 Water damage.|10|tira|nadun
+4002|Water|Grinding Jaws W|Causes Trauma, preventing the target from healing for 30s. Inflicts 3 Water damage.|20|tyranna|potus
+4004|Water|Crushing Jaws W|Causes trauma, preventing the target for 3s. Inflicts 29 Water damage.|16|tiranno|rex
+4006|Water|Crushing Beak W|Causes Trauma, preventing the target from healing for 7 seconds. Inflicts 19 Water damage.|13|tyran|topik
+4008|Water|Defensive Flurry W|Strike and then block attacks for 2s. Inflicts 12 Water damage.|10|tritera|starus
+4010|Water|Defensive Bash W|Strike and then block attacks for 7s. Inflicts 10 Water damage|20|tripati|starus
+4012|Water|Defensive Bite W|Strike and then block attacks for 2s. Inflicts 22 Water damage.|18|triseru|brex
+4014|Water|Defensive Gore W|Strike and then block attacks for 4s. Inflicts 16 Water damage.|13|dricera|crops
+4332|Water|Dawn of the Dead|Passive - Revive dead partner on death.|999|zom|zom
+4362|Water|Mist Form|Become ethereal for 10s, reducing all damage taken by 50%.|30|howl|howl
+4512|Water|Mysterious Beam|Drain your molecules to shoot a beam. This leaves you ethereal for 4s, taking 50% less damage. Inflicts 10 Water damage.|15|myst|synt
+4608|Water|Duck's Back|Automatically resist a negative effect completely.|30|duck|duck
+5008|Water|Playful Water|Grants you a 20% chance to do double damage for 4 seconds. Inflicts 10 Water damage.|6|wet|drop
+4760|Water|Spit Mud|For 5s, the target's abilities recharge half as fast. Inflicts 20 Water damage.|12|frog|frog
+5570|Water|Snappy Jaws|Causes trauma and prevents the opponent from healing for 10s. Inflicts 15 Water damage.|10|snappy|jaws
+5480|Water|Super Slap|Stuns the target for 5s, making them unable to act. Inflicts 20 Water damage.|20|glo|boxer
