@@ -20,7 +20,7 @@ public class MyDataParser
     
     public static void Main(string[] args) 
     {
-	ParseDescriptions();
+	ParseItemNames();
 	Console.WriteLine(ItemList[0].ItemName); // Should print "Blank"
         Console.ReadKey();
     }
