@@ -25,7 +25,7 @@ public class MyDataParser
         Console.ReadKey();
     }
 	
-    public static void ParseDescriptions() 
+    public static void ParseItemNames() 
     {
 	foreach (var j in File.ReadAllLines("CoreData.txt")))
 	{
