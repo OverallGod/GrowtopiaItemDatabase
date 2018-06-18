@@ -1,3 +1,9 @@
+/////////////////
+////SPLICABLES///
+/////////////////
+
+//ID|Splice Item 1|Splice Item 2|Last ID of random fruit tree (optional)
+
 // Door [R2] = Dirt Seed + Cave Background Seed
 12|3|15
 
