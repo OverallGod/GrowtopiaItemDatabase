@@ -1,5 +1,6 @@
 # GrowtopiaItemDatabase
 This is a database for the game Growtopia containing most recipes and core data, easily usable for developers.
+Feel free to open an issue if some of the data is wrong, or pull request if you have additional data you could add.
 
 ## Note
 This database was created by Nenkaai on the Growtopia Forums, Nenkai#4915. 
