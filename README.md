@@ -9,6 +9,9 @@ The descriptions are originally taken from awesome187, and updated/fixed by me.
 
 This project is licensed CC-BY-4.0, meaning you **must** provide credits before usage.
 
+## Raw to JSON
+A C# Project converting the data to JSON is included and compiled for Windows (you can download in the releases tab.) For other operating systems, .NET Core SDK 2.1 is required.
+
 # Parsing example in C#
 
 ```csharp
