@@ -21,6 +21,8 @@ namespace GTRawToJSON
             AddChi();
             AddPetBattleAbilities();
             AddStoreItems();
+			AddTreeData();
+			
             AddSplicingRecipes();
             AddMPinataRecipes();
             AddBurningRecipes();
@@ -124,7 +126,21 @@ namespace GTRawToJSON
                 }
             }
         }
+		
+		private static void AddTreeData()
+        {
+            Console.WriteLine("Parsing tree data...");
+            foreach (var j in File.ReadAllLines(Path.Combine("GrowtopiaItemDatabase", "Data", "TreeFruitMaxDrop.txt")))
+            {
+                if (String.IsNullOrEmpty(j) || j.StartsWith("//")) continue;
 
+                string[] str = j.Split('|');
+                int id = Convert.ToInt32(str[0]);
+                int TreeFruitMaxDrop = Convert.ToInt32(str[1]);
+                items[id].TreeFruitMaxDrop = TreeFruitMaxDrop;
+            }
+        }
+		
         private static void AddSplicingRecipes()
         {
             Console.WriteLine("Parsing splicable list...");

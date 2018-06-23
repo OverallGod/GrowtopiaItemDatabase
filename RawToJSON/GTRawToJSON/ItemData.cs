@@ -25,7 +25,8 @@ namespace GTRawToJSON
 
         public string Description;
         public string Chi;
-
+		public int TreeFruitMaxDrop = 4;
+		
         public PetBattleAbility PetBattleAbility;
         public StoreItem StoreItem;
 

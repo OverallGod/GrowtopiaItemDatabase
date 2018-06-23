@@ -25,10 +25,10 @@
 2978|STORE|GEM|8000
 
 // Guild
-6238|STORE|GEM|5000|During Block Bashers guild event.
-6244|STORE|GEM|5000
-6250|STORE|GEM|5000
-6256|STORE|GEM|5000
+6238|STORE|GEM|5000|During Block Bashers guild event
+6244|STORE|GEM|5000|During Harvest Heroes guild event
+6250|STORE|GEM|5000|During Surgery Stars guild event
+6256|STORE|GEM|5000|During Fishing Fanatics guild event
 
 // Weather Machines
 932|STORE|GEM|1000
@@ -86,3 +86,6 @@
 1438|STORE|TOKEN|200
 1742|STORE|TOKEN|200
 2952|STORE|TOKEN|200
+
+//Other
+3144|STORE|GEM|200000|During Night of the Comet
