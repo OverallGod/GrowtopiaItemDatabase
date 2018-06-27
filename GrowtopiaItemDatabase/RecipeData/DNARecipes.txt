@@ -2,8 +2,8 @@
 /////DNA RECIPES////
 ////////////////////
 
-ID/TYPE/DNAS
-DNA|
+//ID/TYPE/DNAS
+
 //A = 4082
 //C = 4084
 //G = 4086
