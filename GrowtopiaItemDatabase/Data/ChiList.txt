@@ -4657,3 +4657,406 @@
 // Growmoji Cry
 5812|EARTH
 
+// Growscan 9000
+6016|EARTH
+
+// Elements
+
+// Whip of Truth
+// Ring of Shrinking
+
+// Guitar Notes
+6030|WIND
+6032|WIND
+6034|WIND
+
+// Riding Axolotl
+// Riding Fiesta Axolotl
+// Feather Headdress
+// Fiesta Mariachi Guitar
+
+// Guacamoles
+6048|FIRE
+6050|FIRE
+6052|FIRE
+
+// Growmoji Cactus
+// Pinata Lasso
+// Bandolier
+// Dual Six Shooters
+
+// Dark Spirit Board
+6060|EARTH
+
+// Spirit Board
+6062|EARTH
+
+// Spirit Guide
+
+// Ghost-Be-Gone
+6066|WIND
+
+// Dumpster
+6068|EARTH
+
+// White Brick Wall
+
+// Fuse Box
+6072|EARTH
+
+// Otherworldly Block
+6074|EARTH
+
+// Otherworldly Warning Light
+
+// Boss Goo
+6078|WIND
+
+// Mind-Ghost-In-A-Jar
+6080|WIND
+
+// Ghost Trap
+6082|WIND
+
+// Containment Field Power Node
+6084|WIND
+
+// Neutron Power Glove
+6086|NONE
+
+// White Brick Pillar
+
+// Neutron Focus Core
+6090|WIND
+
+// Foil Hat
+// Summer Event Player Medal: Gold
+// Ectojuicer
+// Bamboo Frame
+
+// Pineapple Koa Lantern
+6100|FIRE
+
+// Pineapple Sign
+// Pine-ch Buggy
+
+// Pineapple Engine Part
+6114|WIND
+
+// Pineapple Wheel
+
+// Pineapple Plating
+6118|EARTH
+
+// Super Pineapple Guardian Charm
+// Growmoji Super Pineapple
+// Dumb Question 1
+// Dumb Question 2
+// Dumb Question 3
+// Summer Event Player Medal: Bronze
+// Summer Event Player Medal: Silver
+// Summer Event Guild Medal: Bronze
+// Summer Event Guild Medal: Silver
+// Summer Event Guild Medal: Gold
+// Extract-O-Snap
+
+// Extractor Dynamo
+6142|EARTH
+
+// Aurora Wings
+
+// SearBot - Level 1
+6146|EARTH
+
+// SearBot - Level 2
+// SearBot - Level 3
+// SearBot - Level 4
+
+// Deathtrap Wall
+6154|EARTH
+
+// Dimension Block
+
+// Royal Glit Bathtub
+6158|WATER
+
+// Royal Canopy Bed
+6160|WIND
+
+// Throne
+6162|EARTH
+
+// Banquet Dining Chair
+6164|EARTH
+
+// Banquet Table
+6166|EARTH
+
+// Castle Chandelier
+6168|FIRE
+
+// Iron Torch
+6170|FIRE
+
+// Suit of Armor
+6172|EARTH
+
+// Bear Wall Mount
+6174|EARTH
+
+// Gibbet 
+6176|EARTH
+
+// Castle Door
+6178|EARTH
+
+// Castle Stone
+6180|EARTH
+
+// Castle Stone Background
+6182|EARTH
+
+// Castle Turret
+6184|EARTH
+
+// Castle Sewage Pipe
+6186|EARTH
+
+// Royal Tunics
+6188|NONE
+6190|NONE
+6192|NONE
+
+// Guild Steed
+// Guild Night Stallion
+// Summer Token
+// Gold Architect Chest
+// Silver Architect Chest
+// Silver Architect Chest
+
+// Overstuffed Vintage Leather Armchair
+6206|EARTH
+
+// Articulated Reading Lamp
+6208|FIRE
+
+// Castle Moat 
+6210|EARTH
+
+// Surgical Tool Bag
+6112|EARTH
+
+// Holographic Mannequin
+6114|WIND
+
+// Architect Set
+6116|NONE
+6118|NONE
+6120|NONE
+6122|NONE
+
+// Architectural Diagrams
+6224|EARTH
+
+// Drafting Table
+6232|EARTH
+
+// Loaded Bookshelf
+6234|EARTH
+
+// Delicate/Pristines/Exquisites
+6236|NONE
+6236|NONE
+6238|NONE
+6240|NONE
+6242|NONE
+6244|NONE
+6246|NONE
+6248|NONE
+6250|NONE
+6252|NONE
+6254|NONE
+6256|NONE
+6258|NONE
+
+// Amulet of Force
+// Glove of the Giants
+
+// Summer Blaster Shirt
+6264|NONE
+
+// ULTRA Summer Blaster Shirt
+6266|NONE
+
+// Summer Blaster Pants
+6268|NONE
+
+// ULTRA Summer Blaster Pants
+6270|NONE
+
+// Growmoji Peace Sign
+// Growmoji Terrified Face
+// Growmoji Trollface
+// Weather Machine - Guild
+// Starship Transporter
+// World Architect
+6282|WATER
+
+// Flaming Aura
+
+// Storage Box Xtreme - Level 1
+6286|EARTH
+
+// Storage Box Xtreme - Level 2
+6288|EARTH
+
+// Storage Box Xtreme - Level 3
+6290|EARTH
+
+// Dumb Checkmark
+// Raptor Legs
+
+// Null Items 6296-6334
+
+// Red Shirt
+6346|NONE
+
+// Phase Blaster
+6350|NONE
+
+// Combat Rifle
+6358|NONE
+
+// Greezak Helmet
+6360|NONE
+
+6362|NONE
+
+// Greezak Horde - Warrior Armor
+6364|NONE
+
+// Shoulder Cannon
+6368|NONE
+
+// Thruster Boots
+6372|NONE
+
+// Startopian shield-blaster
+6382|NONE
+
+// Robot Legs
+6384|NONE
+
+// Starship Floor Tile
+6386|WIND
+
+// Starship Wall
+6388|WIND
+
+// Starship Transporter
+6392|WIND
+
+// Starship Console Panel
+6394|FIRE
+
+// Starship Porthole
+6396|WIND
+
+// Airlock
+6398|WIND
+
+// Starship Deck Ladders
+6400|FIRE
+
+// Looming Triffid
+6402|EARTH
+
+// Greezak Hive Floor
+6406|EARTH
+
+// Replicator
+6412|FIRE
+
+// Star Tool Droid
+6414|WATER
+
+// Star Fuel
+6416|FIRE
+
+// The Varlaak
+6410|EARTH
+
+// Buckazoid
+6418|WIND
+
+// Imperial Starship Blast
+6420|FIRE
+
+// Stellarix Starship Blast
+6422|FIRE
+
+// Greezak Starship Blast
+6424|FIRE
+
+// Starship Sickbay Bed
+6426|WIND
+
+//Helm/Reactor/Viewscreens
+6428|WIND
+6430|WIND
+6432|WIND
+6434|FIRE
+6436|FIRE
+6438|FIRE
+6440|EARTH
+6442|EARTH
+6444|EARTH
+
+6446|WIND
+6448|WIND
+6450|WIND
+6452|FIRE
+6454|FIRE
+6456|FIRE
+6458|EARTH
+6460|EARTH
+6462|EARTH
+
+6464|WIND
+6466|WIND
+6468|WIND
+6470|FIRE
+6472|FIRE
+6474|FIRE
+6476|EARTH
+6478|EARTH
+6480|EARTH
+
+6482|WIND
+6484|WIND
+6486|WIND
+6488|FIRE
+6490|FIRE
+6492|FIRE
+6494|EARTH
+6496|EARTH
+6498|EARTH
+
+// Vitahope Life Support System - Mk.I
+6512|WIND
+
+// Galactic Goodies
+6520|WIND
+6522|WIND
+6524|WIND
+6526|WIND
+6528|WIND
+6530|WIND
+6532|WIND
+6534|WIND
+6536|WIND
+6538|WIND
+6540|WIND
+
+// HyperTech Starship Blast
+6666|FIRE
