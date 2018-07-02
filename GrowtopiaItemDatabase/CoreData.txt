@@ -6211,7 +6211,7 @@
 6203|Silver Architect Chest Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6204|Bronze Architect Chest|999|NoSeed, Dropless|Consummable|5F462E|E68726|2|3600|None
 6205|Bronze Architect Chest Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6206|Overstuffed Vintage Leather Armchair|999|MultiFacing, NoSeed, Dropless|Foreground_Block|722810|BF4226|8|3600|None
+6206|Overstuffed Vintage Leather Armchair|999|MultiFacing, NoSeed, Dropless|Foreground_Block|722810|C6592E|8|3600|None
 6207|Overstuffed Vintage Leather Armchair Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6208|Articulated Reading Lamp|999|MultiFacing, Wrenchable, NoSeed, Dropless|Toggleable_Foreground|65635A|FFF0B1|8|3600|None
 6209|Articulated Reading Lamp Seed|999|NoSeed|Seed|000000|000000|20|0|None
@@ -6301,3 +6301,455 @@
 6293|Dumb Checkmark Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
 6294|Raptor Legs|999|NoSeed, Dropless|Clothing|317F27|44C532|0|3600|Pants
 6295|Raptor Legs Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6296|null_item6296|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|27DC3E|8F30F9|0|31|None
+6297|null_item6296 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6298|null_item6298|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|31E75D|DE1D47|0|31|None
+6299|null_item6298 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6300|null_item6300|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C82F4A|00F059|0|31|None
+6301|null_item6300 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6302|null_item6302|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB8F03|D7034B|0|31|None
+6303|null_item6302 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6304|null_item6304|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AD7923|06C57F|0|31|None
+6305|null_item6304 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6306|null_item6306|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EE1610|F3042B|0|31|None
+6307|null_item6306 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6308|null_item6308|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B9A644|A2B25C|0|31|None
+6309|null_item6308 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6310|null_item6310|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DD563B|EC3414|0|31|None
+6311|null_item6310 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6312|null_item6312|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D4D713|C2EC0E|0|31|None
+6313|null_item6312 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6314|null_item6314|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|01D167|618F6E|0|31|None
+6315|null_item6314 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6316|null_item6316|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|14C572|AF747B|0|31|None
+6317|null_item6316 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6318|null_item6318|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7FC961|0AF33F|0|31|None
+6319|null_item6318 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6320|null_item6320|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8DC34E|C93D39|0|31|None
+6321|null_item6320 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6322|null_item6322|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|24B568|F2312D|0|31|None
+6323|null_item6322 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6324|null_item6324|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E2350A|96FD0F|0|31|None
+6325|null_item6324 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6326|null_item6326|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|306F9D|CC317A|0|31|None
+6327|null_item6326 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6328|null_item6328|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|5FD85F|B3B950|0|31|None
+6329|null_item6328 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6330|null_item6330|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|74630A|8A6EA7|0|31|None
+6331|null_item6330 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6332|null_item6332|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|68BB2E|04C93A|0|31|None
+6333|null_item6332 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6334|null_item6334|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|36D672|8C9D03|0|31|None
+6335|null_item6334 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6336|null_item6336|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB931F|E27B4C|0|31|None
+6337|null_item6336 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6338|Mighty Tiger|999|NoSeed, Dropless|Clothing|F17E29|662F06|0|3600|Feet
+6339|Mighty Tiger Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6340|Startopian Empire - Uniform Pants|999|NoSeed, Dropless|Clothing|1F1D1D|A5A5A5|0|3600|Pants
+6341|Startopian Empire - Uniform Pants Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6342|Startopian Empire - Uniform Mini-Skirt|999|NoSeed, Dropless|Clothing|1F1D1D|A5A5A5|0|3600|Pants
+6343|Startopian Empire - Uniform Mini-Skirt Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6344|Startopian Empire - Command Class Uniform|999|NoSeed, Dropless|Clothing|1B1819|E2DB09|0|3600|Shirt
+6345|Startopian Empire - Command Class Uniform Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6346|Startopian Empire - Engineer Class Uniform|999|NoSeed, Dropless|Clothing|1B1819|B70505|0|3600|Shirt
+6347|Startopian Empire - Engineer Class Uniform Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6348|Startopian Empire - Medic Class Uniform|999|NoSeed, Dropless|Clothing|1B1819|06C962|0|3600|Shirt
+6349|Startopian Empire - Medic Class Uniform Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6350|Startopian Empire - Phase Blaster|999|NoSeed, Dropless|Clothing|8E8E8E|69D5FD|0|3600|Hand
+6351|Startopian Empire - Phase Blaster Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6352|Startopian Empire - Combat Troop Mk.II Helmet|999|NoSeed, Dropless|Clothing|5E5F5E|EAEAE9|0|3600|Hat
+6353|Startopian Empire - Combat Troop Mk.II Helmet Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6354|Startopian Empire - Combat Troop Mk.II Body Armor|999|NoSeed, Dropless|Clothing|5E5E5E|EBEAE9|0|3600|Shirt
+6355|Startopian Empire - Combat Troop Mk.II Body Armor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6356|Startopian Empire - Combat Troop Mk.II Leg Armor|999|NoSeed, Dropless|Clothing|313232|8C8C8B|0|3600|Pants
+6357|Startopian Empire - Combat Troop Mk.II Leg Armor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6358|Startopian Empire - Combat Rifle|999|NoSeed, Dropless|Clothing|5D6267|3EC6F9|0|3600|Hand
+6359|Startopian Empire - Combat Rifle Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6360|Greezak Horde - Warrior Helmet|999|NoSeed, Dropless|Clothing|959595|EBEBEB|0|3600|Hat
+6361|Greezak Horde - Warrior Helmet Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6362|Greezak Horde - Warrior Armor|999|NoSeed, Dropless|Clothing|9D9F83|252525|0|3600|Shirt
+6363|Greezak Horde - Warrior Armor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6364|Greezak Horde - Warrior Leg Armor|999|NoSeed, Dropless|Clothing|878970|252525|0|3600|Pants
+6365|Greezak Horde - Warrior Leg Armor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6366|Greezak Horde - Skull Necklace|999|NoSeed, Dropless|Clothing|A2A2A2|9E0B0F|0|3600|Chest
+6367|Greezak Horde - Skull Necklace Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6368|Greezak Horde - Shoulder Cannon|999|NoSeed, Dropless, Foreground|Clothing|AFBAB4|AC59D2|0|3600|Chest
+6369|Greezak Horde - Shoulder Cannon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6370|LordStar Environment Mask|999|NoSeed, Dropless|Clothing|222222|A4282B|0|3600|Face
+6371|LordStar Environment Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6372|Space Thruster Boost Boots|999|NoSeed, Dropless|Clothing|697A71|16EBEB|0|3600|Feet
+6373|Space Thruster Boost Boots Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6374|Alien Mind Protector|999|NoSeed, Dropless|Clothing|3CB878|F49AC1|0|3600|Hair
+6375|Alien Mind Protector Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6376|MagTron LightCycle|999|NoSeed, Dropless|Clothing|00FFFF|B8FAFE|0|3600|Feet
+6377|MagTron LightCycle Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6378|Ferungi Ears|999|NoSeed, Dropless, Foreground|Clothing|959595|C2C2C2|0|3600|Face
+6379|Ferungi Ears Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6380|Volcanix Ears|999|NoSeed, Dropless, Foreground|Clothing|959595|C2C2C2|0|3600|Face
+6381|Volcanix Ears Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6382|Startopian Empire - Force Shield & Phase Blaster|999|NoSeed, Dropless|Clothing|8E8E8E|00E4FF|0|3600|Hand
+6383|Startopian Empire - Force Shield & Phase Blaster Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6384|Robot Legs|999|NoSeed, Dropless|Clothing|ADADAD|636363|0|3600|Pants
+6385|Robot Legs Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6386|Starship Floor Tile|1|0|Foreground_Block|525152|737271|6|31|None
+6387|Starship Floor Tile Seed|1|0|Seed|000000|000000|20|0|None
+6388|Starship Wall|1|0|Background_Block|282E2A|00607A|6|31|None
+6389|Starship Wall Seed|1|0|Seed|000000|000000|20|0|None
+6390|Starship Door|999|Wrenchable, NoSeed, Dropless, NoShadow|Door|616161|BDBDBD|10|3600|None
+6391|Starship Door Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6392|Starship Transporter|999|MultiFacing, NoSeed, Dropless|Checkpoint|403F1D|DFDDC3|7|3600|None
+6393|Starship Transporter Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6394|Starship Console Panel|83|MultiFacing, NoShadow|Foreground_Block|282E2A|933D1A|6|574277|None
+6395|Starship Console Panel Seed|83|0|Seed|000000|000000|20|0|None
+6396|Starship Porthole|50|0|Background_Block|282E2A|86D7EC|6|126500|None
+6397|Starship Porthole Seed|50|0|Seed|000000|000000|20|0|None
+6398|Starship Airlock|999|NoSeed, Dropless, NoShadow|Toggleable_Deadly_Block|636A65|15244A|6|3600|None
+6399|Starship Airlock Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6400|Starship Deck Ladders|27|MultiFacing|Platform|9A9A9A|AFDA03|6|20493|None
+6401|Starship Deck Ladders Seed|27|0|Seed|000000|000000|20|0|None
+6402|Looming Triffid|999|MultiFacing, NoSeed, Dropless, Foreground|Foreground_Block|613875|477B70|6|3600|None
+6403|Looming Triffid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6404|Xenoid Acid Pool|999|NoSeed, Dropless|Spike|5F554B|63EF07|6|3600|None
+6405|Xenoid Acid Pool Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6406|Greezak Hive Floor|999|NoSeed, Dropless|Foreground_Block|9A6B42|705CAF|6|3600|None
+6407|Greezak Hive Floor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6408|Greezak Hive Wall|999|NoSeed, Dropless|Background_Block|312D40|B27642|6|3600|None
+6409|Greezak Hive Wall Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6410|The Varlaak|999|NoSeed, Dropless|Deadly_Block|673A2A|BB9E58|6|3600|None
+6411|The Varlaak Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6412|Replicator|999|MultiFacing, Wrenchable, NoSeed, Dropless|Oven|535353|5FD7D7|10|3600|None
+6413|Replicator Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6414|Star Tool Droid|999|MultiFacing, NoSeed, Permanent, Dropless, AutoPickup|Provider|F5CC31|E94737|10|3600|None
+6415|Star Tool Droid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6416|Star Fuel|999|NoSeed, Dropless|Consummable|9C9C9C|EFCC29|4|3600|None
+6417|Star Fuel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6418|Buckazoid|999|NoSeed, Dropless, Untradable|Component|A3C8D3|B8E8D2|2|3600|None
+6419|Buckazoid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6420|Imperial Starship Blast|999|NoSeed, Dropless|Consummable|A0626A|DEDEDE|6|3600|None
+6421|Imperial Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6422|Stellarix Starship Blast|999|NoSeed, Dropless|Consummable|A0626A|DEDEDE|6|3600|None
+6423|Stellarix Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6424|Greezak Starship Blast|999|NoSeed, Dropless|Consummable|A0626A|DEDEDE|6|3600|None
+6425|Greezak Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6426|Starship Sickbay Bed|999|MultiFacing, NoSeed, Dropless|Foreground_Block|CFB17E|32C39A|7|3600|None
+6427|Starship Sickbay Bed Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6428|Imperial Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|B1B1B1|0054A6|12|3600|None
+6429|Imperial Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6430|Imperial Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6431|Imperial Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6432|Imperial Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6433|Imperial Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6434|Imperial Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|585858|0072BC|12|3600|None
+6435|Imperial Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6436|Imperial Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|585858|0072BC|12|3600|None
+6437|Imperial Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6438|Imperial Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|585858|0072BC|12|3600|None
+6439|Imperial Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6440|Imperial Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|B1B1B1|0054A6|12|3600|None
+6441|Imperial Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6442|Imperial Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6443|Imperial Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6444|Imperial Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6445|Imperial Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6446|Stellarix Union Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6447|Stellarix Union Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6448|Stellarix Union Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6449|Stellarix Union Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6450|Stellarix Union Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6451|Stellarix Union Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6452|Stellarix Union Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6453|Stellarix Union Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6454|Stellarix Union Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6455|Stellarix Union Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6456|Stellarix Union Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6457|Stellarix Union Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6458|Stellarix Union Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6459|Stellarix Union Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6460|Stellarix Union Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6461|Stellarix Union Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6462|Stellarix Union Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6463|Stellarix Union Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6464|Greezak Horde Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6465|Greezak Horde Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6466|Greezak Horde Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6467|Greezak Horde Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6468|Greezak Horde Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6469|Greezak Horde Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6470|Greezak Horde Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6471|Greezak Horde Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6472|Greezak Horde Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6473|Greezak Horde Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6474|Greezak Horde Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6475|Greezak Horde Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6476|Greezak Horde Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6477|Greezak Horde Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6478|Greezak Horde Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6479|Greezak Horde Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6480|Greezak Horde Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6481|Greezak Horde Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6482|HyperTech Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6483|HyperTech Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6484|HyperTech Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6485|HyperTech Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6486|HyperTech Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6487|HyperTech Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6488|HyperTech Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6489|HyperTech Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6490|HyperTech Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6491|HyperTech Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6492|HyperTech Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6493|HyperTech Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6494|HyperTech Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6495|HyperTech Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6496|HyperTech Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6497|HyperTech Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6498|HyperTech Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6499|HyperTech Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6500|Bastion Tactical Console - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6501|Bastion Tactical Console - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6502|Bastion Tactical Console - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6503|Bastion Tactical Console - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6504|Bastion Tactical Console - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6505|Bastion Tactical Console - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6506|Oracle Science Station - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6507|Oracle Science Station - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6508|Oracle Science Station - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6509|Oracle Science Station - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6510|Oracle Science Station - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6511|Oracle Science Station - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6512|Vitahope Life Support System - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6513|Vitahope Life Support System - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6514|Vitahope Life Support System - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6515|Vitahope Life Support System - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6516|Vitahope Life Support System - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6517|Vitahope Life Support System - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6518|HyperShields|87|RandomGrow|Component|133B4D|158EB3|4|661113|None
+6519|HyperShields Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6520|AI Brain|87|RandomGrow|Component|133B4D|C5D17E|4|661113|None
+6521|AI Brain Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6522|Galactibolt|87|RandomGrow|Component|133B4D|7A99A3|4|661113|None
+6523|Galactibolt Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6524|Space Meds|87|RandomGrow|Component|133B4D|18B02F|4|661113|None
+6525|Space Meds Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6526|Teleporter Charge|87|RandomGrow|Component|133B4D|9D58FE|4|661113|None
+6527|Teleporter Charge Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6528|Gigablaster|87|RandomGrow|Component|133B4D|3EC6F9|4|661113|None
+6529|Gigablaster Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6530|Quadriscanner|87|RandomGrow|Component|133B4D|953829|4|661113|None
+6531|Quadriscanner Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6532|Tactical Drone|87|RandomGrow|Component|133B4D|CCCCCC|4|661113|None
+6533|Tactical Drone Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6534|Stellar Documents|87|RandomGrow|Component|133B4D|06BFE6|4|661113|None
+6535|Stellar Documents Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6536|Star Supplies|87|RandomGrow|Component|133B4D|FFF229|4|661113|None
+6537|Star Supplies Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6538|Cyborg Diplomat|87|RandomGrow|Component|133B4D|D52606|4|661113|None
+6539|Cyborg Diplomat Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6540|Growton Torpedo|87|RandomGrow|Component|133B4D|C6C6C6|4|661113|None
+6541|Growton Torpedo Seed|87|RandomGrow|Seed|000000|000000|20|0|None
+6542|Starship Floor Grill|51|0|Platform|9A6B42|B27642|6|134181|None
+6543|Starship Floor Grill Seed|51|0|Seed|000000|000000|20|0|None
+6544|Starship Light Wall|45|0|Background_Block|9A6B42|B27642|6|92475|None
+6545|Starship Light Wall Seed|45|0|Seed|000000|000000|20|0|None
+6546|Data Starship Hull|1|NoSeed, Dropless, Mod|Bedrock|D7AB18|B52AE5|4|31|None
+6547|Data Starship Hull Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6548|Starship Main Door|1|NoSeed, Dropless, NoShadow, Mod|Main_Door|DBDBDB|FFD11D|5|31|None
+6549|Starship Main Door Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6550|Starship Hull - INT Bottom|1|NoSeed, Dropless, Mod|Bedrock|C25EA5|F75762|4|31|None
+6551|Starship Hull - INT Bottom Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6552|Starship Hull - INT Top|1|NoSeed, Dropless, Mod|Bedrock|1AB015|72EA30|4|31|None
+6553|Starship Hull - INT Top Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6554|Starship Hull - INT Side|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|996D66|A55883|4|31|None
+6555|Starship Hull - INT Side Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6556|Starship Hull - INT Bottom Outer Corner|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|75D678|7086B8|4|31|None
+6557|Starship Hull - INT Bottom Outer Corner Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6558|Starship Hull - INT Top Outer Corner|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|A0E61E|EF546C|4|31|None
+6559|Starship Hull - INT Top Outer Corner Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6560|Starship Hull - INT Bottom Inner Corner|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|E10722|CF6432|4|31|None
+6561|Starship Hull - INT Bottom Inner Corner Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6562|Starship Hull - INT Top Inner Corner|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|34E836|8CA878|4|31|None
+6563|Starship Hull - INT Top Inner Corner Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6564|Starship Hull - EXT Roof|1|NoSeed, Dropless, Mod|Bedrock|CD7370|E9224F|4|31|None
+6565|Starship Hull - EXT Roof Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6566|Starship Hull - EXT Roof Top Corner (R)|1|NoSeed, Dropless, Mod|Bedrock|6FDC43|DC1E87|4|31|None
+6567|Starship Hull - EXT Roof Top Corner (R) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6568|Starship Hull - EXT Roof Bottom Corner (R)|1|NoSeed, Dropless, Mod|Bedrock|C4102D|40E36A|4|31|None
+6569|Starship Hull - EXT Roof Bottom Corner (R) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6570|Starship Hull - EXT Thrusters|1|NoSeed, Dropless, Mod|Bedrock|42F53C|79D73E|4|31|None
+6571|Starship Hull - EXT Thrusters Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6572|Starship Hull - EXT Top Thruster|1|NoSeed, Dropless, Mod|Bedrock|B7A834|88DD0A|4|31|None
+6573|Starship Hull - EXT Top Thruster Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6574|Starship Hull - EXT Bottom Thruster|1|NoSeed, Dropless, Mod|Bedrock|EE3085|F02D44|4|31|None
+6575|Starship Hull - EXT Bottom Thruster Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6576|Starship Hull - EXT Wall|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|D62B56|62BE2E|4|31|None
+6577|Starship Hull - EXT Wall Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6578|Starship Hull - EXT Top Wall|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|FA6551|80CC3A|4|31|None
+6579|Starship Hull - EXT Top Wall Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6580|Starship Hull - EXT Bottom Wall|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|73D15C|E6413B|4|31|None
+6581|Starship Hull - EXT Bottom Wall Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6582|Starship Hull - EXT Bottom Wall Corner (L)|1|NoSeed, Dropless, Mod|Bedrock|7AB296|0E6FA8|4|31|None
+6583|Starship Hull - EXT Bottom Wall Corner (L) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6584|Starship Hull - EXT Bottom Vent|1|NoSeed, Dropless, Mod|Bedrock|F4220D|D71352|4|31|None
+6585|Starship Hull - EXT Bottom Vent Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6586|Starship Hull - EXT Bottom Detail|1|NoSeed, Dropless, Mod|Bedrock|CB7375|27AF27|4|31|None
+6587|Starship Hull - EXT Bottom Detail Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6588|Starship Hull - EXT Bottom|1|NoSeed, Dropless, Mod|Bedrock|C65A3E|9D2D2E|4|31|None
+6589|Starship Hull - EXT Bottom Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6590|Starship Hull - EXT Bottom Wall Corner (R)|1|NoSeed, Dropless, Mod|Bedrock|BF8475|FF6C03|4|31|None
+6591|Starship Hull - EXT Bottom Wall Corner (R) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6592|Starship Hull - EXT Bottom Wall Inner Corner (R)|1|NoSeed, Dropless, Mod|Bedrock|C8265E|7FE002|4|31|None
+6593|Starship Hull - EXT Bottom Wall Inner Corner (R) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6594|Starship Hull - EXT Cockpit|1|NoSeed, Dropless, Mod|Bedrock|45AEA9|82D546|4|31|None
+6595|Starship Hull - EXT Cockpit Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6596|Starship Hull - EXT Top Roof Corner (L)|1|NoSeed, Dropless, Mod|Bedrock|8958D7|D38D28|4|31|None
+6597|Starship Hull - EXT Top Roof Corner (L) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6598|Starship Hull - EXT Roof (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|32FA2A|DA2697|4|31|None
+6599|Starship Hull - EXT Roof (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6600|Starship Hull - EXT Roof Top Corner (R) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|BB8E58|BC3F31|4|31|None
+6601|Starship Hull - EXT Roof Top Corner (R) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6602|Starship Hull - EXT Roof Bottom Corner (R) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|B01CC7|742F65|4|31|None
+6603|Starship Hull - EXT Roof Bottom Corner (R) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6604|Starship Hull - EXT Thrusters (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|4CEC4B|64C15A|4|31|None
+6605|Starship Hull - EXT Thrusters (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6606|Starship Hull - EXT Top Thruster (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|B91474|AA9B55|4|31|None
+6607|Starship Hull - EXT Top Thruster (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6608|Starship Hull - EXT Bottom Thruster (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|F03906|45D787|4|31|None
+6609|Starship Hull - EXT Bottom Thruster (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6610|Starship Hull - EXT Wall (GREEN)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|6FAA1D|EE4460|4|31|None
+6611|Starship Hull - EXT Wall (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6612|Starship Hull - EXT Top Wall (GREEN)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|CC2554|5CF262|4|31|None
+6613|Starship Hull - EXT Top Wall (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6614|Starship Hull - EXT Bottom Wall (GREEN)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|7D9C45|0BFC5A|4|31|None
+6615|Starship Hull - EXT Bottom Wall (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6616|Starship Hull - EXT Bottom Wall Corner (L) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|CA5C6A|34C356|4|31|None
+6617|Starship Hull - EXT Bottom Wall Corner (L) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6618|Starship Hull - EXT Bottom Vent (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|DD34B2|56FA21|4|31|None
+6619|Starship Hull - EXT Bottom Vent (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6620|Starship Hull - EXT Bottom Detail (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|17D315|60FC34|4|31|None
+6621|Starship Hull - EXT Bottom Detail (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6622|Starship Hull - EXT Bottom (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|E83532|F14F49|4|31|None
+6623|Starship Hull - EXT Bottom (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6624|Starship Hull - EXT Bottom Wall Corner (R) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|3ED310|D48516|4|31|None
+6625|Starship Hull - EXT Bottom Wall Corner (R) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6626|Starship Hull - EXT Bottom Wall Inner Corner (R) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|079873|37CC8B|4|31|None
+6627|Starship Hull - EXT Bottom Wall Inner Corner (R) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6628|Starship Hull - EXT Cockpit (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|56BA03|2BE419|4|31|None
+6629|Starship Hull - EXT Cockpit (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6630|Starship Hull - EXT Top Roof Corner (L) (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|2DC111|16CB91|4|31|None
+6631|Starship Hull - EXT Top Roof Corner (L) (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6632|Starship Hull - EXT Roof (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|D51093|58C84E|4|31|None
+6633|Starship Hull - EXT Roof (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6634|Starship Hull - EXT Roof Top Corner (R) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|C20249|87715C|4|31|None
+6635|Starship Hull - EXT Roof Top Corner (R) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6636|Starship Hull - EXT Roof Bottom Corner (R) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|4DCD95|416FA3|4|31|None
+6637|Starship Hull - EXT Roof Bottom Corner (R) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6638|Starship Hull - EXT Thrusters (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|A532D2|37E17B|4|31|None
+6639|Starship Hull - EXT Thrusters (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6640|Starship Hull - EXT Top Thruster (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|12FE34|C5301F|4|31|None
+6641|Starship Hull - EXT Top Thruster (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6642|Starship Hull - EXT Bottom Thruster (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|D4289F|27B644|4|31|None
+6643|Starship Hull - EXT Bottom Thruster (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6644|Starship Hull - EXT Wall (PURPLE)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|4DCD46|97C751|4|31|None
+6645|Starship Hull - EXT Wall (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6646|Starship Hull - EXT Top Wall (PURPLE)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|E67367|68C875|4|31|None
+6647|Starship Hull - EXT Top Wall (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6648|Starship Hull - EXT Bottom Wall (PURPLE)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|A3D23B|E52A2C|4|31|None
+6649|Starship Hull - EXT Bottom Wall (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6650|Starship Hull - EXT Bottom Wall Corner (L) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|D53E27|AF12D6|4|31|None
+6651|Starship Hull - EXT Bottom Wall Corner (L) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6652|Starship Hull - EXT Bottom Vent (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|26DB3B|F02F5B|4|31|None
+6653|Starship Hull - EXT Bottom Vent (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6654|Starship Hull - EXT Bottom Detail (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|BF5E6D|FD3111|4|31|None
+6655|Starship Hull - EXT Bottom Detail (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6656|Starship Hull - EXT Bottom (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|CE6338|43DE10|4|31|None
+6657|Starship Hull - EXT Bottom (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6658|Starship Hull - EXT Bottom Wall Corner (R) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|62F539|1EE60F|4|31|None
+6659|Starship Hull - EXT Bottom Wall Corner (R) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6660|Starship Hull - EXT Bottom Wall Inner Corner (R) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|FE407F|F5AF06|4|31|None
+6661|Starship Hull - EXT Bottom Wall Inner Corner (R) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6662|Starship Hull - EXT Cockpit (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|42CC74|96EE3F|4|31|None
+6663|Starship Hull - EXT Cockpit (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6664|Starship Hull - EXT Top Roof Corner (L) (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|EE2159|4AF713|4|31|None
+6665|Starship Hull - EXT Top Roof Corner (L) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6666|HyperTech Starship Blast|999|NoSeed, Dropless|Consummable|A0626A|DEDEDE|6|3600|None
+6667|HyperTech Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6668|null_item6668|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|82CF16|D05C56|0|31|None
+6669|null_item6668 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6670|null_item6670|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D7361D|22E92B|0|31|None
+6671|null_item6670 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6672|null_item6672|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BF7E64|F03E8F|0|31|None
+6673|null_item6672 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6674|null_item6674|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|6AC693|4DC06A|0|31|None
+6675|null_item6674 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6676|null_item6676|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|56C698|30DA33|0|31|None
+6677|null_item6676 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6678|null_item6678|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|49DE6D|E81B76|0|31|None
+6679|null_item6678 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6680|null_item6680|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|67D622|E0500E|0|31|None
+6681|null_item6680 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6682|null_item6682|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C2983A|F80A10|0|31|None
+6683|null_item6682 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6684|null_item6684|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7AD75E|58BA17|0|31|None
+6685|null_item6684 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6686|null_item6686|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|076B4D|FB1543|0|31|None
+6687|null_item6686 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6688|null_item6688|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D57927|CB7618|0|31|None
+6689|null_item6688 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6690|null_item6690|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A2F01A|06D477|0|31|None
+6691|null_item6690 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6692|null_item6692|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA00BC|52F43C|0|31|None
+6693|null_item6692 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6694|null_item6694|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D6850E|E37902|0|31|None
+6695|null_item6694 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6696|null_item6696|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E23A5E|2FEF21|0|31|None
+6697|null_item6696 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6698|Starship Hull - EXT Roof (RED)|1|NoSeed, Dropless, Mod|Bedrock|2E8C5B|2FDD84|4|31|None
+6699|Starship Hull - EXT Roof (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6700|Starship Hull - EXT Roof Top Corner (R) (RED)|1|NoSeed, Dropless, Mod|Bedrock|EF5305|C0716C|4|31|None
+6701|Starship Hull - EXT Roof Top Corner (R) (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6702|Starship Hull - EXT Roof Bottom Corner (R) (RED)|1|NoSeed, Dropless, Mod|Bedrock|50EB5E|E92050|4|31|None
+6703|Starship Hull - EXT Roof Bottom Corner (R) (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6704|Starship Hull - EXT Thrusters (RED)|1|NoSeed, Dropless, Mod|Bedrock|24E02D|C520AB|4|31|None
+6705|Starship Hull - EXT Thrusters (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6706|Starship Hull - EXT Top Thruster (RED)|1|NoSeed, Dropless, Mod|Bedrock|C01D7D|B9D03D|4|31|None
+6707|Starship Hull - EXT Top Thruster (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6708|Starship Hull - EXT Bottom Thruster (RED)|1|NoSeed, Dropless, Mod|Bedrock|F41697|0ADE29|4|31|None
+6709|Starship Hull - EXT Bottom Thruster (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6710|Starship Hull - EXT Wall (RED)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|C95682|B49106|4|31|None
+6711|Starship Hull - EXT Wall (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6712|Starship Hull - EXT Top Wall (RED)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|B227C8|32B038|4|31|None
+6713|Starship Hull - EXT Top Wall (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6714|Starship Hull - EXT Bottom Wall (RED)|1|MultiFacing, NoSeed, Dropless, Mod|Bedrock|5C7996|30D678|4|31|None
+6715|Starship Hull - EXT Bottom Wall (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6716|Starship Hull - EXT Bottom Wall Corner (L) (RED)|1|NoSeed, Dropless, Mod|Bedrock|38CF50|BA6B1D|4|31|None
+6717|Starship Hull - EXT Bottom Wall Corner (L) (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6718|Starship Hull - EXT Bottom Vent (RED)|1|NoSeed, Dropless, Mod|Bedrock|D57802|14F60E|4|31|None
+6719|Starship Hull - EXT Bottom Vent (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6720|Starship Hull - EXT Bottom Detail (RED)|1|NoSeed, Dropless, Mod|Bedrock|F3500D|D08371|4|31|None
+6721|Starship Hull - EXT Bottom Detail (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6722|Starship Hull - EXT Bottom (RED)|1|NoSeed, Dropless, Mod|Bedrock|DBD317|ED1160|4|31|None
+6723|Starship Hull - EXT Bottom (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6724|Starship Hull - EXT Bottom Wall Corner (R) (RED)|1|NoSeed, Dropless, Mod|Bedrock|DA208F|C24962|4|31|None
+6725|Starship Hull - EXT Bottom Wall Corner (R) (RED) Seed|1|0|Seed|000000|000000|20|0|None
+6726|Starship Hull - EXT Bottom Wall Inner Corner (R) (RED)|1|NoSeed, Dropless, Mod|Bedrock|9C8271|DF4997|4|31|None
+6727|Starship Hull - EXT Bottom Wall Inner Corner (R) (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6728|Starship Hull - EXT Cockpit (RED)|1|NoSeed, Dropless, Mod|Bedrock|11D06B|2EBE9F|4|31|None
+6729|Starship Hull - EXT Cockpit (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6730|Starship Hull - EXT Top Roof Corner (L) (RED)|1|NoSeed, Dropless, Mod|Bedrock|6F5387|35EB59|4|31|None
+6731|Starship Hull - EXT Top Roof Corner (L) (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6732|Star Tool Background|999|NoSeed, Dropless, Mod|Component|133B4D|198CAF|6|3600|None
+6733|Star Tool Background Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
+6734|Mega Buckazoid|999|NoSeed, Dropless, Untradable|Component|A3C8D3|B8E8D2|2|3600|None
+6735|Mega Buckazoid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6736|Starship Hull - EXT Metal Panel|1|NoSeed, Dropless, Mod|Bedrock|10BE83|ADD339|4|31|None
+6737|Starship Hull - EXT Metal Panel Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6738|Starship Hull - EXT Metal Panel (GREEN)|1|NoSeed, Dropless, Mod|Bedrock|D76D7C|DD0A79|4|31|None
+6739|Starship Hull - EXT Metal Panel (GREEN) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6740|Starship Hull - EXT Metal Panel (PURPLE)|1|NoSeed, Dropless, Mod|Bedrock|36D77E|14E141|4|31|None
+6741|Starship Hull - EXT Metal Panel (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6742|Starship Hull - EXT Metal Panel (RED)|1|NoSeed, Dropless, Mod|Bedrock|8EA453|DB5343|4|31|None
+6743|Starship Hull - EXT Metal Panel (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
+6744|Growmoji Alien|999|NoSeed, Dropless|Consummable|B80E1D|D5CBCC|5|3600|None
+6745|Growmoji Alien Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6746|Space|1|NoSeed, Dropless, Mod|Bedrock|EF6449|C24115|2|31|None
+6747|Space Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
