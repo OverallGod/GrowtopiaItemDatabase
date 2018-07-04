@@ -6301,16 +6301,16 @@
 6293|Dumb Checkmark Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
 6294|Raptor Legs|999|NoSeed, Dropless|Clothing|317F27|44C532|0|3600|Pants
 6295|Raptor Legs Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6296|null_item6296|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|27DC3E|8F30F9|0|31|None
-6297|null_item6296 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6298|null_item6298|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|31E75D|DE1D47|0|31|None
-6299|null_item6298 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6300|null_item6300|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C82F4A|00F059|0|31|None
-6301|null_item6300 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6302|null_item6302|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB8F03|D7034B|0|31|None
-6303|null_item6302 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6304|null_item6304|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AD7923|06C57F|0|31|None
-6305|null_item6304 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6296|Mirage Platform|999|NoSeed, Permanent, Dropless, AutoPickup|Foreground_Block|E8FAFC|5B8BDD|8|3600|None
+6297|Mirage Platform Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6298|Smoog the Great Dragon|999|NoSeed, Dropless|Clothing|4C5A02|C69C6D|0|3600|Feet
+6299|Smoog the Great Dragon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6300|Dancemaster's Crown|999|NoSeed, Dropless|Clothing|D7E5EC|FF9DF3|0|3600|Hat
+6301|Dancemaster's Crown Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6302|Summer Blaster Glasses|999|NoSeed, Dropless|Clothing|002157|FFF200|0|3600|Face
+6303|Summer Blaster Glasses Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6304|Ultra Summer Blaster Glasses|999|NoSeed, Dropless|Clothing|002157|FF89BF|0|3600|Face
+6305|Ultra Summer Blaster Glasses Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6306|null_item6306|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EE1610|F3042B|0|31|None
 6307|null_item6306 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6308|null_item6308|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B9A644|A2B25C|0|31|None
@@ -6673,16 +6673,16 @@
 6665|Starship Hull - EXT Top Roof Corner (L) (PURPLE) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
 6666|HyperTech Starship Blast|999|NoSeed, Dropless|Consummable|A0626A|DEDEDE|6|3600|None
 6667|HyperTech Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6668|null_item6668|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|82CF16|D05C56|0|31|None
-6669|null_item6668 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6670|null_item6670|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D7361D|22E92B|0|31|None
-6671|null_item6670 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6672|null_item6672|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BF7E64|F03E8F|0|31|None
-6673|null_item6672 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6674|null_item6674|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|6AC693|4DC06A|0|31|None
-6675|null_item6674 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6676|null_item6676|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|56C698|30DA33|0|31|None
-6677|null_item6676 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6668|Field Grass|72|0|Background_Block|0C8600|0FA000|3|375408|None
+6669|Field Grass Seed|72|0|Seed|000000|000000|20|0|None
+6670|World Cup Cleats|999|NoSeed, Dropless|Clothing|12425D|D72B3E|0|3600|Feet
+6671|World Cup Cleats Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6672|Growmoji Football|999|NoSeed, Dropless|Consummable|ECECEC|333333|5|3600|None
+6673|Growmoji Football Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6674|Ref's Jersey|44|NoSeed|Clothing|ECECEC|333333|0|86504|Shirt
+6675|Ref's Jersey Seed|44|NoSeed|Seed|000000|000000|20|0|None
+6676|World Cup Winner's Jersey|999|NoSeed, Dropless|Component|19567B|D72B3E|3|3600|None
+6677|World Cup Winner's Jersey Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6678|null_item6678|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|49DE6D|E81B76|0|31|None
 6679|null_item6678 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6680|null_item6680|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|67D622|E0500E|0|31|None

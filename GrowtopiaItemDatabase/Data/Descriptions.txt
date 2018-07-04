@@ -9376,12 +9376,21 @@
 // Raptor Legs
 6294|Everybody do the dinosaur! Pop on these prehistoric legs and leap into the fray with all the speed of an angry raptor! Just be careful, or you might go out the same way - with a fiery meteor!
 
-//Null items
-6296|
-6298|
-6300|
-6302|
-6304|
+// Mirage Platform
+6296|Get an eyeful of anything that passes over this vision-shifting tile! Its enhanced optics will twist and wrap any Growtopian who gets close!
+
+// Smoog
+6298|Ancient flames and armored scales await your command! Smoog is a proud and fearsome beast, but he's decided to allow you - yes, YOU - to have the honor of being his rider! Who needs horses or cars when you sit astride a mighty DRAGON?
+
+// Dancemaster's Crown
+6300|Let's boogie! Nobody can resist the awesome beat of the DANCEMASTER - and when you wear this gleaming helm, that's you! Use its funky power to get everybody's groove on and start a dance party at the drop of a hat! This hat, specifically.
+
+// Summer Blaster Glasses
+6302|Rock the season with the new Summer Blaster style! These glasses don't just say you're cool - they also say you're hot! Try to find another kind of eyewear that can do both! Go on, I'll wait...
+
+// ULTRA Summer Blaster Glasses
+6304|Rock the season with the new ULTRA Summer Blaster style! These glasses don't just say you're ULTRA COOL - they also say you're ULTRA HOT! Try to find another kind of eyewear in a such ultra way! Go on, I'll wait...
+
 6306|
 6308|
 6310|
@@ -9739,9 +9748,16 @@
 // Null Items
 6668|
 6670|
-6672|
-6674|
-6676|
+
+// Growmoji Football
+6672|Pop a football into your chat! Just consume this to add it to your available growmojis!
+
+// Ref's Jersey
+6674|Foul! Make the call with this jersey - you have to be right, because you're striped!
+
+// World Cup Winner's Jersey
+6676|To make this jersey, we had to steal a sports almanac from the distant future and used it to find the winners of this year's World Cup! However, to prevent a paradox, we're keeping it in this time-locked box until the results are official!
+
 6678|
 6680|
 6682|

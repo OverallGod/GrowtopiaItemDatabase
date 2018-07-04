@@ -4657,6 +4657,71 @@
 // Growmoji Cry
 5812|EARTH
 
+// Guild Flag Tatters
+5834|WIND
+5836|WIND
+5838|WIND
+5840|WIND
+5842|WIND
+5844|WIND
+5846|WIND
+5848|WIND
+5850|WIND
+5852|WIND
+
+// Guild Flag Arrow
+5854|WIND
+5856|WIND
+5858|WIND
+5860|WIND
+5862|WIND
+5864|WIND
+5866|WIND
+5868|WIND
+5870|WIND
+5872|WIND
+
+// Guild Flag Wave
+5874|WATER
+5876|WATER
+5878|WATER
+5880|WATER
+5882|WATER
+5884|WATER
+5886|WATER
+5888|WATER
+5890|WATER
+5892|WATER
+
+// Guild Flag Peak
+5894|EARTH
+5896|EARTH
+5898|EARTH
+5900|EARTH
+5902|EARTH
+5904|EARTH
+5906|EARTH
+5908|EARTH
+5910|EARTH
+5912|EARTH
+
+// Guild Flag Peak
+5914|FIRE
+5916|FIRE
+5918|FIRE
+5920|FIRE
+5922|FIRE
+5924|FIRE
+5926|FIRE
+5928|FIRE
+5930|FIRE
+5932|FIRE
+
+// Potions
+5934|FIRE
+5940|WATER
+5942|EARTH
+
 // Growscan 9000
 6016|EARTH
 
@@ -4692,6 +4757,7 @@
 6062|EARTH
 
 // Spirit Guide
+6064|NONE
 
 // Ghost-Be-Gone
 6066|WIND
@@ -4700,6 +4766,7 @@
 6068|EARTH
 
 // White Brick Wall
+6070|EARTH
 
 // Fuse Box
 6072|EARTH
@@ -4708,6 +4775,7 @@
 6074|EARTH
 
 // Otherworldly Warning Light
+6076|WIND
 
 // Boss Goo
 6078|WIND
@@ -4844,16 +4912,16 @@
 6210|EARTH
 
 // Surgical Tool Bag
-6112|EARTH
+6212|EARTH
 
 // Holographic Mannequin
-6114|WIND
+6214|WIND
 
 // Architect Set
-6116|NONE
-6118|NONE
-6120|NONE
-6122|NONE
+6216|NONE
+6218|NONE
+6220|NONE
+6222|NONE
 
 // Architectural Diagrams
 6224|EARTH
@@ -4894,11 +4962,15 @@
 // ULTRA Summer Blaster Pants
 6270|NONE
 
+// Growmoji Football
+6672|EARTH
+
 // Growmoji Peace Sign
 // Growmoji Terrified Face
 // Growmoji Trollface
 // Weather Machine - Guild
 // Starship Transporter
+
 // World Architect
 6282|WATER
 
@@ -4916,7 +4988,20 @@
 // Dumb Checkmark
 // Raptor Legs
 
-// Null Items 6296-6334
+// Mirage Platform
+6296|WIND
+
+// Smoog
+6298|NONE
+
+// Dancemaster's Crown
+6300|NONE
+
+// Summer Blaster Glasses
+6302|NONE
+
+// ULTRA Summer Blaster Glasses
+6304|NONE
 
 // Red Shirt
 6346|NONE
@@ -5057,6 +5142,15 @@
 6536|WIND
 6538|WIND
 6540|WIND
+
+// Field Grass
+6668|EARTH
+
+// Ref's Jersey
+6674|NONE
+
+// World Cup Winner's Jersey
+6676|EARTH
 
 // HyperTech Starship Blast
 6666|FIRE
