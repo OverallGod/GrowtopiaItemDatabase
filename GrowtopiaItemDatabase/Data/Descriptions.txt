@@ -9391,21 +9391,49 @@
 // ULTRA Summer Blaster Glasses
 6304|Rock the season with the new ULTRA Summer Blaster style! These glasses don't just say you're ULTRA COOL - they also say you're ULTRA HOT! Try to find another kind of eyewear in a such ultra way! Go on, I'll wait...
 
-6306|
-6308|
-6310|
-6312|
-6314|
-6316|
-6318|
-6320|
+// Bubble Machine
+6306|Bubble up! This machine will fill the air with bright and beautiful bubbles - perfect for a summer pool party, a sweet midnight rave pr a really classy pizza night.
+
+// Beach Ball
+6308|Inflated with extra summer fun! Bounce this onto the beach and relax in the sun and sand!
+
+// Watermelon
+6310|Juicy and sweet, but definitely NOT seedless! Take a bite and get ready to blast the world with weaponized watermelon!
+
+// Phoenix Sword
+6312|Swirling flame and eternal glory are yours, for you possess the blade of emperors: The Phoenix Sword! Astonishingly rare, incredibly powerful, and explosively sharp, this weapon will proclaim its wielder as a force to be reckoned with! Wield it well, for you are worthy.
+
+// Crushed Ice
+6314|Tasty! A summertime treat with a sweet kick and an icy crunch. Just don't eat it too fast!
+
+// Deep fried tropical ice cream
+6316|Now you're thinking with fryers! The only thing better than an icy cool treat is an icy cool treat wrapped in fried batter!
+
+// Firefin
+6318|The blazing fish is out of the water and at your side, happy to light your way with glowing gills and searing scales!
+
+// Flaming floaties
+6320|Not a strong swimmer? Toss these fire-themed floaties on and keep your arms dry! At least they'll be okay! Not sure about the rest of you, though...
+
 6322|
-6324|
-6326|
-6328|
-6330|
-6332|
-6334|
+
+// Deck Chair
+6324|Drop down and relax in the summertime with this playful deck chair! Now all you need is a deck!
+
+// Flying disc
+6326|Whirls through the air with a simple toss. I bet you could play a really fun version of golf with this!
+
+// Crab Wall Mount
+6328|Proud of your catch, but you don't want the responsibility of caring for it? Mount it to this wall plaque with your wrench! You can only display Perfect or Massive crabs and lobsters on this mount. Once a crab or lobster is mounted, it can never be removed.
+
+// Embers
+6330|Crackling sparks of a greater flame. What could these create?
+
+// Flaming Feathers
+6332|Capable of cutting through wind and rain like a hot knife through butter. Imagine what you could make with these if you got enough together...
+
+// DD Chimera Wings
+6334|Forged from bladed feathers of flame and fury, these wings will let you tear through the skies with the might of the chimera! Sponsored by Danieldd!
 6336|
 
 // Mighty Tiger
@@ -9417,10 +9445,14 @@
 // Startopian Empire - Uniform Mini-Skirt
 6342|Are you ready to travel the stars? To explore strange new worlds and fight for the story of Startopia? Then you'll need to look the part! This mini-skirt is expertly tailored and ready for space - get the rest of your uniform together and enlist today!
 
-//6344|
+// Command Shirt
+6344|Show everyone you're a ranked officer of Startopia! Those who bear the Command Class uniform have excellent leadership and political abilities. Wearing this also provides a slight boost to your ship rating for all Reputation-based skill checks!
 
 // Engineer Shirt
 6346|Show everyone you're a ranked officer of Startopia! Those who bear the Engineer Class uniform have excellent maintenance and system abilities. Wearing this also provides a slight boost to your ship rating for all Ship Health-based skill checks!
+
+// Medic Shirt
+6348|Show everyone you're a ranked officer of Startopia! Those who bear the Medic Class uniform have excellent personnel and healing abilities. Wearing this also provides a slight boost to your ship rating for all Crew-based skill checks!
 
 // Phase Blaster
 6350|Cut down vile Xenoid raiders, defend yourself against Greezak hunters, and make pirates shake in their stolen boots with a blast of hot plasma from a Startopian blaster! For the Empire! Made on Proxima Centauri II. All space rights reserved.
@@ -9742,11 +9774,14 @@
 6660|
 6662|
 6664|
+
 // HyperTech Starship Blast
 6666|Command your very own Starship and explore the cosmos! This blast contains a HyperTech ship, the finest craft in the galaxy! Comes with a full tank of gas, an Imperial Helm - Mk. I, Imperial Reactor - Mk. I and an Imperial Viewscreen - Mk. I, so you'll be all set for your adventure among the stars! Also comes with an assortment of space-age blocks!
 
-// Null Items
-6668|
+// Field Grass
+6668|Gleaming green and trimmed to regulation height, this grass is ready to host a ferocious match-up!
+
+// World Cup Cleats
 6670|
 
 // Growmoji Football
@@ -9758,19 +9793,20 @@
 // World Cup Winner's Jersey
 6676|To make this jersey, we had to steal a sports almanac from the distant future and used it to find the winners of this year's World Cup! However, to prevent a paradox, we're keeping it in this time-locked box until the results are official!
 
-6678|
+// Crime V2
+6678|Hide your identity with this red helmet - but not your might!
 6680|
 6682|
-6684|
+6684|Keep all your superheroing gadgets close at hand and well-organized with this helpful utility belt! Oh, and keep your pants up, too. That's important for fighting crime.
 6686|
-6688|
+6688|Hide your identity with this yellow helmet - but not your might!
 6690|
 6692|
+6694|All-purpose utility wings to carry you onto the heads of your villainous foes from on high!
+6696|Give evil the boot with our newest line of fighting footwear! Now in youthful yellow!
+6698|
 
 // Hulls
-6694|
-6696|
-6698|
 6700|
 6702|
 6704|

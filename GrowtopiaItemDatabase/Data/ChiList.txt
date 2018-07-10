@@ -4793,6 +4793,7 @@
 6086|NONE
 
 // White Brick Pillar
+6088|EARTH
 
 // Neutron Focus Core
 6090|WIND
@@ -5003,6 +5004,52 @@
 // ULTRA Summer Blaster Glasses
 6304|NONE
 
+// Bubble Machine
+6306|WATER
+
+// Beach Ball
+6308|NONE
+
+// Watermelon
+6310|NONE
+
+// Phoenix Sword
+6312|NONE
+
+// Crushed Ice
+6314|WATER
+
+// Deep fried tropical ice cream
+6316|WATER
+
+// Firefin Leash
+6318|NONE
+
+// Flaming floaties
+6320|NONE
+
+6322|
+
+// Deck Chair
+6324|EARTH
+
+// Flying disc
+6326|WIND
+
+// Crab Wall Mount
+6328|WATER
+
+// Embers
+6330|FIRE
+
+// Flaming Feathers
+6332|FIRE
+
+// DD Chimera Wings
+6334|NONE
+
+6336|
+
 // Red Shirt
 6346|NONE
 
@@ -5143,6 +5190,9 @@
 6538|WIND
 6540|WIND
 
+// HyperTech Starship Blast
+6666|FIRE
+
 // Field Grass
 6668|EARTH
 
@@ -5152,5 +5202,12 @@
 // World Cup Winner's Jersey
 6676|EARTH
 
-// HyperTech Starship Blast
-6666|FIRE
+// Crime V2
+6678|NONE
+6680|NONE
+6682|NONE
+6684|NONE
+6686|NONE
+6688|NONE
+6690|NONE
+6692|NONE

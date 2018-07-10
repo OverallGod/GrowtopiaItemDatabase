@@ -2438,34 +2438,38 @@
 5990|481|611
 
 // Sheet Music: Sharp Spanish Guitar [R26] = Sheet Music: Spanish Guitar + Death Spikes
-6032|6030|162
+6032|6031|163
 
 // Sheet Music: Flat Spanish Guitar [R19] = Sheet Music: Spanish Guitar + Rock
-6034|6030|10
+6034|6031|11
 
 // Spirit Board [R53] = Puzzle Brick + Cutting Board
-6062|1802|3470
+6062|1803|3471
 
 // Ghost Trap [R74] = Military Radio Seed + Ghost Jar Seed
-6082|786|3720
+6082|787|3721
 
 // Starship Console Panel [R83] = Starship Wall + Science Station
-6394|6388|928
+6394|6389|929
 
 // Starship Porthole [R50] = Starship Floor Tile + Porthole
-6396|6386|1160
+6396|6387|1161
 
 // Starship Deck Ladders [R27] = Starship Floor Tile + Ladder
-6400|6386|554
+6400|6387|555
 
 // Star Tools [R87] = Starship Console Panel + Teeny Blocks Seed
-6520|6394|3784|6540
+6520|6395|3785|6540
 
 // Starship Floor Grill [R51] = Sharship Floor Tile + Steel Girder
-6542|6386|622
+6542|6387|623
+
+// Starship Light Wall [R45] = Streetlamp + Starship Wall
+6544|993|6389
 
 // Field Grass [R72] = Stadium + Grass
-6668|2892|16
+6668|2893|17
 
 // Ref's Jersey [R44] = Checker Wallpaper + Card Block
-6674|284|742
+6674|285|743
+
