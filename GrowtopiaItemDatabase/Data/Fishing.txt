@@ -1,0 +1,242 @@
+/////////////////////
+// FISHING REWARDS //
+/////////////////////
+
+//ID|FISHING|MAX LB (0 for non fish)|Baits/Description
+
+// Winter Gift
+1360|FISHING|0|Candy Cane Bait
+
+// Tree Deco
+3204|FISHING|0|Candy Cane Bait
+
+// Snowcone
+3228|FISHING|0|Candy Cane Bait
+
+// Seaweed
+846|FISHING|0|Wiggly Worm, Shiny Flashy Bait, Salmon Eggs, Fishing Fly, Shrimp Lure
+
+// Fishnet
+344|FISHING|0|Wiggly Worm, Shiny Flashy Bait, Salmon Eggs, Fishing Fly, Shrimp Lure
+
+// Fishbowl
+444|FISHING|0|Shiny Flashy Bait, Salmon Eggs, Fishing Fly
+
+// Pumpkin Block
+1198|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Jack O' Block
+1200|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Lit Jack O' Block
+1202|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Candy Cane Bait Corn
+1208|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Sigil Of K'Tesh
+1220|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Cobweb
+1238|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Great White Shark
+1520|FISHING|0|Salmon Eggs, Shrimp Lure, Whizmo Gizmo
+
+// Jellyfish
+1522|FISHING|0|Fishing Fly, Shrimp Lure, Whizmo Gizmo
+
+// Battle Trout
+1542|FISHING|0|Salmon Eggs, Fishing Fly, Whizmo Gizmo
+
+// Hanging Thread
+1992|FISHING|0|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Goldfish
+3000|FISHING|15|Wiggly Worm, Shiny Flashy Bait, Salmon Eggs, Whizmo Gizmo
+
+// E-Z Rod
+3008|FISHING|0|Shrimp Lure
+
+// Shiny Flashy Bait
+3012|FISHING|0|Wiggly Worm
+
+// Salmon Eggs
+3014|FISHING|0|Shiny Flashy Bait
+
+// Fishing Fly
+3016|FISHING|0|Salmon Eggs
+
+// Shrimp Lure
+3018|FISHING|0|Fishing Fly
+
+// Electric Eel
+3022|FISHING|0|Shiny Flashy Bait, Shrimp Lure, Whizmo Gizmo
+
+// Whale
+3024|FISHING|200|Shrimp Lure, Whizmo Gizmo
+
+// Catfish
+3026|FISHING|30|Salmon Eggs, Fishing Fly, Whizmo Gizmo
+
+// Perch
+3028|FISHING|0|Wiggly Worm, Shiny Flashy Bait, Whizmo Gizmo
+
+// Dogfish
+3030|FISHING|50|Shiny Flashy Bait, Salmon Eggs, Whizmo Gizmo
+
+// Gar
+3032|FISHING|90|Salmon Eggs, Fishing Fly, Shrimp Lure, Whizmo Gizmo
+
+// Mahi
+3034|FISHING|120|Wiggly Worm, Shrimp Lure, Whizmo Gizmo
+
+// Sunfish
+3036|FISHING|160|Shiny Flashy Bait, Fishing Fly, Shrimp Lure, Whizmo Gizmo
+
+// Bass
+3038|FISHING|70|Wiggly Worm, Shiny Flashy Bait, Salmon Eggs, Fishing Fly, Whizmo Gizmo
+
+// Skeletal Shark
+3092|FISHING|200|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Ghost Fish
+3094|FISHING|200|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Demon Angler
+3096|FISHING|200|Minor Otherworldly Bait, Lesser Otherworldly Bait, Otherworldly Bait
+
+// Shield Fragment
+3184|FISHING|0|Wiggly Worm, Shiny Flashy Bait, Salmon Eggs, Fishing Fly, Shrimp Lure
+
+// Neon Squid
+3220|FISHING|200|Candy Cane Bait
+
+// Antarctic Ice Fish
+3222|FISHING|120|Candy Cane Bait
+
+// Gingerbread Fish
+3224|FISHING|150|Candy Cane Bait
+
+// Swedish Fish
+3226|FISHING|180|Candy Cane Bait
+
+// Rainbowfish
+3434|FISHING|150|Catch-of-the-Day Bait
+
+// Totally Legit Bunnyfish
+3436|FISHING|150|Catch-of-the-Day Bait
+
+// Seahorse
+3438|FISHING|150|Catch-of-the-Day Bait
+
+// Mutant Fish
+3440|FISHING|150|Catch-of-the-Day Bait
+
+// Lobster Trap
+3448|FISHING|0|Salmon Eggs, Fishing Fly, Shrimp Lure
+
+// Picasso Trigger Fish
+3544|FISHING|150|Catch-of-the-Day Bait
+
+// Axolotl
+3550|FISHING|150|Catch-of-the-Day Bait during Cinco De Mayo
+
+// Pineapple Fish
+3620|FISHING|150|Catch-of-the-Day Bait during Super Pineapple Week
+
+// Firefin
+3746|FISHING|150|Catch-of-the-Day Bait during Summerfest
+
+// Fish Wall Mount
+3810|FISHING|200|Salmon Eggs, Fishing Fly, Shrimp Lure
+
+// Stonefish
+3814|FISHING|160|Salmon Eggs, Fishing Fly, Whizmo Gizmo with Dark Cave background on water
+
+// Orca
+3820|FISHING|150|Catch-of-the-Day Bait
+
+// Sandshark
+4958|FISHING|200|Shrimp Lure, Whizmo Gizmo
+
+// Koi Fish
+5100|FISHING|150|Catch-of-the-Day Bait
+
+// Lobster
+3450|FISHING|150|Lobster Trap
+
+// Purple Shore Crab
+3452|FISHING|100|Lobster Trap
+
+// Alaskan
+3454|FISHING|200|Lobster Trap
+
+// Dungeonist
+3456|FISHING|100|Lobster Trap
+
+// Crowdad
+3458|FISHING|50|Lobster Trap
+
+// Hermit
+3460|FISHING|200|Lobster Trap
+
+// Mermaid Tail
+3464|FISHING|0|Lobster Trap
+
+// Octopus
+3812|FISHING|0|Lobster Trap
+
+// Pet Frog
+4760|FISHING|0|Lobster Trap
+
+// Mr. Narwhal
+5448|FISHING|200|Candy Cane Bait
+
+// Glass Piglet
+5450|FISHING|200|Candy Cane Bait
+
+// Maidmare
+5538|FISHING|160|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)
+
+// Double-Headed Angel-Devil Fish
+5544|FISHING|60|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)
+
+// Absolutely Real Elephant Fish
+5548|FISHING|60|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Cuttlefish
+5552|FISHING|160|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Alpha Great White Shark
+5574|FISHING|190|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Weird Manta Ray
+5580|FISHING|190|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)
+
+// Ice Crust Block
+5602|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Tentacle Beard
+5612|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Puffer Fish Block
+5614|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Queen Conch Sheel
+5616|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Davy Jones' Chest
+5618|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Fancy Fish Wall Mount
+5624|FISHING|0|Mega-Pellet Bait in ice water (Ice Crust Block + Hand Drill)
+
+// Radiation Block
+5620|FISHING|0|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)
+
+// Radiation Sign
+5622|FISHING|0|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)
+
+// Aqua Cave Crystal
+3584|FISHING|0|Uranium Glowing Bait in irradiated water (Uranium Block + Nuclear Detonator)

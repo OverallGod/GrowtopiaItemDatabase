@@ -9437,7 +9437,7 @@
 6336|
 
 // Mighty Tiger
-6338|The terror of dark jungles and rustling frields has been tamed! This awesome beast comes to you from distant lands, willing to lend its primal might - and incredible stride - to your efforts! Rise up to the challenge of your rivals with your new feline friend!
+6338|The terror of dark jungles and rustling fields has been tamed! This awesome beast comes to you from distant lands, willing to lend its primal might - and incredible stride - to your efforts! Rise up to the challenge of your rivals with your new feline friend!
 
 // Startopian Empire - Uniform Pants
 6340|Are you ready to travel the stars? To explore strange new worlds and fight for the story of Startopia? Then you'll need to look the part! These pants are vacuum-pressed and ready for space - get the rest of your uniform together and enlist today!
@@ -9715,6 +9715,9 @@
 // Starship Floor Grill
 6542|A slotted grill for a starship floor - perfect for clearing up gross alien pirates after you unleash a gigablaster on them!
 
+// Starship Light Wall 
+6544|Glowing with high-tech power! These walls are a must-have for the discerning starship captain - nobody wants to walk around on a dull ship, after all!
+
 // Starship Hulls
 6550|
 6552|
@@ -9782,7 +9785,7 @@
 6668|Gleaming green and trimmed to regulation height, this grass is ready to host a ferocious match-up!
 
 // World Cup Cleats
-6670|
+6670|Tap the ball into the goal and bask in the adoration of your fans with these eye-catching cleats!
 
 // Growmoji Football
 6672|Pop a football into your chat! Just consume this to add it to your available growmojis!

@@ -4792,7 +4792,7 @@
 // Neutron Power Glove
 6086|NONE
 
-// White Brick Pillar
+// White Brick Pilla
 6088|EARTH
 
 // Neutron Focus Core
@@ -5189,6 +5189,12 @@
 6536|WIND
 6538|WIND
 6540|WIND
+
+// Starship Floor Grill
+6542|WIND
+
+// Starship Light Wall
+6544|FIRE
 
 // HyperTech Starship Blast
 6666|FIRE
