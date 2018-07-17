@@ -2377,6 +2377,9 @@
 // Blue Eye Drops [R47] = Eye Cleaning Solution Seed + Dark Blue Block Seed
 5462|5467|2025
 
+// Eye Cleaning Solution [R25] = Waterfall Seed + Aqua Cave Crystal Seed
+5466|5035|3585
+
 // Fish Medicine [R72] = Seaweed Seed + Lemon Seed
 5532|847|4667
 

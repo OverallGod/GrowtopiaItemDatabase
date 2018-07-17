@@ -43,6 +43,7 @@
 3832|STORE|GEM|50000
 4774|STORE|GEM|20000
 4892|STORE|GEM|150000
+6420|STORE|GEM|20000
 
 // Awesome Items
 574|STORE|GEM|25000
@@ -86,6 +87,479 @@
 1438|STORE|TOKEN|200
 1742|STORE|TOKEN|200
 2952|STORE|TOKEN|200
+
+// Door Pack
+12|STORE|GEM|15|From the Door & Sign Hello Pack
+20|STORE|GEM|15|From the Door & Sign Hello Pack
+
+// Gangland
+462|STORE|GEM|5000|From the Gangland Style pack
+464|STORE|GEM|5000|From the Gangland Style pack
+466|STORE|GEM|5000|From the Gangland Style pack
+468|STORE|GEM|5000|From the Gangland Style pack
+474|STORE|GEM|5000|From the Gangland Style pack
+474|STORE|GEM|5000|From the Gangland Style pack
+470|STORE|GEM|5000|From the Gangland Style pack
+472|STORE|GEM|5000|From the Gangland Style pack
+480|STORE|GEM|5000|From the Gangland Style pack
+478|STORE|GEM|5000|From the Gangland Style pack (10 inside)
+
+// Racing action pack
+428|STORE|GEM|3500|From the Racing Action Pack
+430|STORE|GEM|3500|From the Racing Action Pack
+410|STORE|GEM|3500|From the Racing Action Pack (2 inside)
+482|STORE|GEM|3500|From the Racing Action Pack (2 inside)
+484|STORE|GEM|3500|From the Racing Action Pack
+486|STORE|GEM|3500|From the Racing Action Pack
+496|STORE|GEM|3500|From the Racing Action Pack
+488|STORE|GEM|3500|From the Racing Action Pack
+490|STORE|GEM|3500|From the Racing Action Pack
+492|STORE|GEM|3500|From the Racing Action Pack
+494|STORE|GEM|3500|From the Racing Action Pack
+
+// Composer's Pack
+412|STORE|GEM|5000|From the Composer's pack (100 random notes)
+414|STORE|GEM|5000|From the Composer's pack (100 random notes)
+416|STORE|GEM|5000|From the Composer's pack (100 random notes)
+418|STORE|GEM|5000|From the Composer's pack (100 random notes)
+420|STORE|GEM|5000|From the Composer's pack (100 random notes)
+422|STORE|GEM|5000|From the Composer's pack (100 random notes)
+424|STORE|GEM|5000|From the Composer's pack (100 random notes)
+
+// Fantasy Pack
+583|STORE|GEM|5000|From the Fantasy Pack
+600|STORE|GEM|5000|From the Fantasy Pack
+604|STORE|GEM|5000|From the Fantasy Pack
+594|STORE|GEM|5000|From the Fantasy Pack
+606|STORE|GEM|5000|From the Fantasy Pack (10 inside)
+608|STORE|GEM|5000|From the Fantasy Pack (3 inside)
+596|STORE|GEM|5000|From the Fantasy Pack (3 inside)
+598|STORE|GEM|5000|From the Fantasy Pack (3 inside)
+
+// Education Pack
+650|STORE|GEM|5000|From the Education Pack (10 inside)
+652|STORE|GEM|5000|From the Education Pack (3 inside)
+654|STORE|GEM|5000|From the Education Pack (20 inside)
+658|STORE|GEM|5000|From the Education Pack
+670|STORE|GEM|5000|From the Education Pack (10 inside)
+672|STORE|GEM|5000|From the Education Pack
+674|STORE|GEM|5000|From the Education Pack
+676|STORE|GEM|5000|From the Education Pack
+
+// Dungeon Pack
+680|STORE|GEM|5000|From the Dungeon Pack (20 inside)
+682|STORE|GEM|5000|From the Dungeon Pack (20 inside)
+684|STORE|GEM|5000|From the Dungeon Pack (20 inside)
+686|STORE|GEM|5000|From the Dungeon Pack (3 inside)
+688|STORE|GEM|5000|From the Dungeon Pack (3 inside)
+690|STORE|GEM|5000|From the Dungeon Pack
+694|STORE|GEM|5000|From the Dungeon Pack
+692|STORE|GEM|5000|From the Dungeon Pack
+696|STORE|GEM|5000|From the Dungeon Pack (5 inside)
+
+// Zombie Defense Pack
+768|STORE|GEM|10000|From the Zombie Defense Pack
+790|STORE|GEM|10000|From the Zombie Defense Pack
+788|STORE|GEM|10000|From the Zombie Defense Pack
+774|STORE|GEM|10000|From the Zombie Defense Pack (3 inside)
+786|STORE|GEM|10000|From the Zombie Defense Pack
+782|STORE|GEM|10000|From the Zombie Defense Pack
+776|STORE|GEM|10000|From the Zombie Defense Pack (3 inside)
+780|STORE|GEM|10000|From the Zombie Defense Pack (3 inside)
+784|STORE|GEM|10000|From the Zombie Defense Pack (3 inside)
+764|STORE|GEM|10000|From the Zombie Defense Pack
+
+// Vegas Pack
+740|STORE|GEM|20000|From the Vegas Pack (10 inside)
+743|STORE|GEM|20000|From the Vegas Pack
+1582|STORE|GEM|20000|From the Vegas Pack
+752|STORE|GEM|20000|From the Vegas Pack (4 inside)
+456|STORE|GEM|20000|From the Vegas Pack
+758|STORE|GEM|20000|From the Vegas Pack
+756|STORE|GEM|20000|From the Vegas Pack
+794|STORE|GEM|20000|From the Vegas Pack
+796|STORE|GEM|20000|From the Vegas Pack
+798|STORE|GEM|20000|From the Vegas Pack
+
+// Farm Pack
+872|STORE|GEM|15000|From the Farm Pack
+880|STORE|GEM|15000|From the Farm Pack (10 inside)
+884|STORE|GEM|15000|From the Farm Pack (10 inside)
+888|STORE|GEM|15000|From the Farm Pack (10 inside)
+886|STORE|GEM|15000|From the Farm Pack
+890|STORE|GEM|15000|From the Farm Pack
+892|STORE|GEM|15000|From the Farm Pack
+894|STORE|GEM|15000|From the Farm Pack
+896|STORE|GEM|15000|From the Farm Pack
+898|STORE|GEM|15000|From the Farm Pack
+
+// Science Kit
+906|STORE|GEM|5000|From the Mad Science Kit
+904|STORE|GEM|5000|From the Mad Science Kit
+930|STORE|GEM|5000|From the Mad Science Kit
+772|STORE|GEM|5000|From the Mad Science Kit
+914|STORE|GEM|5000|From the Mad Science Kit
+916|STORE|GEM|5000|From the Mad Science Kit
+918|STORE|GEM|5000|From the Mad Science Kit
+920|STORE|GEM|5000|From the Mad Science Kit
+924|STORE|GEM|5000|From the Mad Science Kit
+
+// City Pack
+994|STORE|GEM|8000|From the City Pack (10 inside)
+986|STORE|GEM|8000|From the City Pack (3 inside)
+990|STORE|GEM|8000|From the City Pack (10 inside)
+996|STORE|GEM|8000|From the City Pack (10 inside)
+988|STORE|GEM|8000|From the City Pack (3 inside)
+1004|STORE|GEM|8000|From the City Pack (10 inside)
+1002|STORE|GEM|8000|From the City Pack
+1006|STORE|GEM|8000|From the City Pack
+998|STORE|GEM|8000|From the City Pack (10 inside)
+1008|STORE|GEM|8000|From the City Pack
+
+// Wild West Pack
+1022|STORE|GEM|8000|From the Wild West Pack
+1030|STORE|GEM|8000|From the Wild West Pack
+1026|STORE|GEM|8000|From the Wild West Pack
+1028|STORE|GEM|8000|From the Wild West Pack
+1024|STORE|GEM|8000|From the Wild West Pack
+1016|STORE|GEM|8000|From the Wild West Pack
+1032|STORE|GEM|8000|From the Wild West Pack
+1034|STORE|GEM|8000|From the Wild West Pack
+1036|STORE|GEM|8000|From the Wild West Pack
+1040|STORE|GEM|8000|From the Wild West Pack
+1044|STORE|GEM|8000|From the Wild West Pack
+1048|STORE|GEM|8000|From the Wild West Pack
+1020|STORE|GEM|8000|From the Wild West Pack
+1038|STORE|GEM|8000|From the Wild West Pack (10 inside)
+1046|STORE|GEM|8000|From the Wild West Pack (10 inside)
+1042|STORE|GEM|8000|From the Wild West Pack (5 inside)
+
+// Astro Pack
+1140|STORE|GEM|5000|From the Astro Pack
+1142|STORE|GEM|5000|From the Astro Pack
+1144|STORE|GEM|5000|From the Astro Pack
+1146|STORE|GEM|5000|From the Astro Pack
+1148|STORE|GEM|5000|From the Astro Pack
+1130|STORE|GEM|5000|From the Astro Pack
+1154|STORE|GEM|5000|From the Astro Pack (6 inside)
+1152|STORE|GEM|5000|From the Astro Pack
+1160|STORE|GEM|5000|From the Astro Pack
+1164|STORE|GEM|5000|From the Astro Pack
+1162|STORE|GEM|5000|From the Astro Pack
+1128|STORE|GEM|5000|From the Astro Pack
+
+// Surgical Kit
+1240|STORE|GEM|12000|From the Surgical Kit
+1256|STORE|GEM|12000|From the Surgical Kit
+1258|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1260|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1262|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1264|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1266|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1268|STORE|GEM|12000|From the Surgical Kit (5 inside)
+1270|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4308|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4310|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4312|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4314|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4316|STORE|GEM|12000|From the Surgical Kit (5 inside)
+4318|STORE|GEM|12000|From the Surgical Kit (5 inside)
+
+// Prehistoric Pack
+1330|STORE|GEM|5000|From the Prehistoric Pack
+1332|STORE|GEM|5000|From the Prehistoric Pack
+1334|STORE|GEM|5000|From the Prehistoric Pack
+1336|STORE|GEM|5000|From the Prehistoric Pack
+1338|STORE|GEM|5000|From the Prehistoric Pack
+1340|STORE|GEM|5000|From the Prehistoric Pack
+1342|STORE|GEM|5000|From the Prehistoric Pack
+1322|STORE|GEM|5000|From the Prehistoric Pack (10 inside)
+1324|STORE|GEM|5000|From the Prehistoric Pack (5 inside)
+1326|STORE|GEM|5000|From the Prehistoric Pack
+1328|STORE|GEM|5000|From the Prehistoric Pack (3 inside)
+
+// Shop Pack
+1422|STORE|GEM|10000|From the Shop Pack (4 inside)
+1426|STORE|GEM|10000|From the Shop Pack
+1428|STORE|GEM|10000|From the Shop Pack
+1430|STORE|GEM|10000|From the Shop Pack
+1432|STORE|GEM|10000|From the Shop Pack
+1434|STORE|GEM|10000|From the Shop Pack
+1436|STORE|GEM|10000|From the Shop Pack
+1420|STORE|GEM|10000|From the Shop Pack
+
+// Home Pack
+1448|STORE|GEM|5000|From the Shop Pack
+1480|STORE|GEM|5000|From the Shop Pack (2 inside)
+1450|STORE|GEM|5000|From the Shop Pack (4 inside)
+1482|STORE|GEM|5000|From the Shop Pack
+1472|STORE|GEM|5000|From the Shop Pack
+1454|STORE|GEM|5000|From the Shop Pack
+1476|STORE|GEM|5000|From the Shop Pack
+1478|STORE|GEM|5000|From the Shop Pack
+1474|STORE|GEM|5000|From the Shop Pack
+
+// Cinema Pack
+1592|STORE|GEM|6000|From the Cinema Pack
+1588|STORE|GEM|6000|From the Cinema Pack
+1590|STORE|GEM|6000|From the Cinema Pack
+1594|STORE|GEM|6000|From the Cinema Pack (6 inside)
+1598|STORE|GEM|6000|From the Cinema Pack (6 inside)
+1600|STORE|GEM|6000|From the Cinema Pack
+1604|STORE|GEM|6000|From the Cinema Pack (4 inside)
+1606|STORE|GEM|6000|From the Cinema Pack (6 inside)
+1608|STORE|GEM|6000|From the Cinema Pack
+1596|STORE|GEM|6000|From the Cinema Pack (4 inside)
+
+// Adventure Pack
+1696|STORE|GEM|20000|From the Adventure Pack
+1698|STORE|GEM|20000|From the Adventure Pack
+1700|STORE|GEM|20000|From the Adventure Pack
+1702|STORE|GEM|20000|From the Adventure Pack
+1682|STORE|GEM|20000|From the Adventure Pack (4 inside)
+1684|STORE|GEM|20000|From the Adventure Pack (4 inside)
+4704|STORE|GEM|20000|From the Adventure Pack
+4706|STORE|GEM|20000|From the Adventure Pack (4 inside)
+1692|STORE|GEM|20000|From the Adventure Pack
+1704|STORE|GEM|20000|From the Adventure Pack
+4780|STORE|GEM|20000|From the Adventure Pack
+
+// Rockin' Pack
+1710|STORE|GEM|9999|From the Adventure Pack (Random instrument)
+1712|STORE|GEM|9999|From the Adventure Pack (Random instrument)
+1714|STORE|GEM|9999|From the Adventure Pack (Random instrument)
+1720|STORE|GEM|9999|From the Adventure Pack
+1718|STORE|GEM|9999|From the Adventure Pack
+1724|STORE|GEM|9999|From the Adventure Pack
+1728|STORE|GEM|9999|From the Adventure Pack (6 inside)
+1730|STORE|GEM|9999|From the Adventure Pack (6 inside)
+1726|STORE|GEM|9999|From the Adventure Pack (6 inside)
+
+// Game Pack
+1616|STORE|GEM|50000|From the Game Pack (4 inside)
+1618|STORE|GEM|50000|From the Game Pack (4 inside)
+1622|STORE|GEM|50000|From the Game Pack (4 inside)
+1656|STORE|GEM|50000|From the Game Pack (4 inside)
+1658|STORE|GEM|50000|From the Game Pack (4 inside)
+1660|STORE|GEM|50000|From the Game Pack
+
+// Superhero Pack 
+// Crime Wave
+2292|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2294|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2296|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2298|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2300|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2302|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+
+2308|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2310|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2312|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2314|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2316|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+
+2320|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2322|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2324|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2326|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2328|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+
+2332|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2334|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2336|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2338|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+2340|STORE|GEM|5000|From the Crime Wave Pack (5 random cards, 5 types)
+
+2382|STORE|GEM|5000|From the Crime Wave Pack.
+
+// Fashion Pack
+2648|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2650|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2652|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2654|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2656|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2658|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2660|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2662|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2664|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2666|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2668|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2670|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2672|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2674|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2676|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2678|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2680|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2682|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2684|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2686|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2688|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2690|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2692|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+2694|STORE|GEM|4000|From the Fashion Pack (3 random clothing)
+
+2708|STORE|GEM|4000|From the Fashion Pack (3 inside)
+2646|STORE|GEM|4000|From the Fashion Pack
+
+// Sportsball Pack
+2898|STORE|GEM|20000|From the Sportsball Pack (2 inside)
+2896|STORE|GEM|20000|From the Sportsball Pack (2 inside)
+2892|STORE|GEM|20000|From the Sportsball Pack (5 inside)
+2894|STORE|GEM|20000|From the Sportsball Pack (5 inside)
+6668|STORE|GEM|20000|From the Sportsball Pack (10 inside)
+2902|STORE|GEM|20000|From the Sportsball Pack
+2904|STORE|GEM|20000|From the Sportsball Pack
+6674|STORE|GEM|20000|From the Sportsball Pack
+6672|STORE|GEM|20000|From the Sportsball Pack
+6670|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+6676|STORE|GEM|20000|From the Sportsball Pack
+2880|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+2886|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+2888|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+2890|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+2906|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+2878|STORE|GEM|20000|From the Sportsball Pack (Random sport item)
+
+// Fishin' Pack
+3004|STORE|GEM|10000|From the Fishin' Pack (10 inside)
+3002|STORE|GEM|10000|From the Fishin' Pack
+5522|STORE|GEM|10000|From the Fishin' Pack
+5524|STORE|GEM|10000|From the Fishin' Pack
+3044|STORE|GEM|10000|From the Fishin' Pack (10 inside)
+2912|STORE|GEM|10000|From the Fishin' Pack
+2914|STORE|GEM|10000|From the Fishin' Pack (10 inside)
+
+// Fish Trainin' Pack
+// This gets overriden by individual store items
+//5536|STORE|GEM|10000|From the Fish Trainin' Pack (2 inside)
+//5532|STORE|GEM|10000|From the Fish Trainin' Pack (2 inside)
+5530|STORE|GEM|10000|From the Fish Trainin' Pack
+
+// Firefighter Pack
+3048|STORE|GEM|10000|From the Firefighter Pack
+3056|STORE|GEM|10000|From the Firefighter Pack
+3060|STORE|GEM|10000|From the Firefighter Pack
+3052|STORE|GEM|10000|From the Firefighter Pack
+3066|STORE|GEM|10000|From the Firefighter Pack
+3072|STORE|GEM|10000|From the Firefighter Pack
+
+// Steampack
+3260|STORE|GEM|20000|From the Steampack (10 inside)
+3270|STORE|GEM|20000|From the Steampack (2 inside)
+3284|STORE|GEM|20000|From the Steampack (2 inside)
+3282|STORE|GEM|20000|From the Steampack (2 inside)
+3280|STORE|GEM|20000|From the Steampack (2 inside)
+3292|STORE|GEM|20000|From the Steampack
+
+// Painter's Pack
+3494|STORE|GEM|30000|From the Painter's Pack
+3478|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3480|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3482|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3484|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3486|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3488|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3490|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+3492|STORE|GEM|30000|From the Painter's Pack (20 random paint)
+
+// B.O.O Training Pack
+3714|STORE|GEM|10000|From the B.O.O Training Pack
+3716|STORE|GEM|10000|From the B.O.O Training Pack
+3710|STORE|GEM|10000|From the B.O.O Training Pack
+3720|STORE|GEM|10000|From the B.O.O Training Pack (10 inside)
+
+// Ghost Hunter's Pack
+//3720|STORE|GEM|10000|From the B.O.O Training Pack
+6090|STORE|GEM|10000|From the Ghost Hunter's Pack (Chance)
+6084|STORE|GEM|10000|From the Ghost Hunter's Pack (Chance)
+//Jars
+6082|STORE|GEM|10000|From the Ghost Hunter's Pack (Chance)
+6062|STORE|GEM|10000|From the Ghost Hunter's Pack (Chance)
+6060|STORE|GEM|10000|From the Ghost Hunter's Pack (Rare Chance)
+
+// Paleontologist's Kit
+4132|STORE|GEM|20000|From the Paleontologist's Kit (5 inside)
+3932|STORE|GEM|20000|From the Paleontologist's Kit
+3934|STORE|GEM|20000|From the Paleontologist's Kit
+4128|STORE|GEM|20000|From the Paleontologist's Kit
+3938|STORE|GEM|20000|From the Paleontologist's Kit
+
+// Chemsynth Pack
+4432|STORE|GEM|10000|From the Chemsynth Pack (10 inside)
+4430|STORE|GEM|10000|From the Chemsynth Pack
+4434|STORE|GEM|10000|From the Chemsynth Pack
+4436|STORE|GEM|10000|From the Chemsynth Pack
+4438|STORE|GEM|10000|From the Chemsynth Pack
+4440|STORE|GEM|10000|From the Chemsynth Pack
+4442|STORE|GEM|10000|From the Chemsynth Pack
+
+// Eye Drop Pack
+5458|STORE|GEM|30000|From the Eye Drop Pack (Random 10)
+5460|STORE|GEM|30000|From the Eye Drop Pack (Random 10)
+5462|STORE|GEM|30000|From the Eye Drop Pack (Random 10)
+5464|STORE|GEM|30000|From the Eye Drop Pack (Random 10)
+5466|STORE|GEM|30000|From the Eye Drop Pack (Random 10)
+5468|STORE|GEM|30000|From the Eye Drop Pack
+
+// CyBlocks Starter Pack
+5668|STORE|GEM|5000|From the CyBlocks Starter Pack
+// Commands
+5672|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5674|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5676|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5678|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5680|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5682|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5684|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5686|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5688|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5690|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5692|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5694|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5696|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5698|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5700|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5702|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+5704|STORE|GEM|2000|From the CyBlocks Command Pack (Random 10)
+
+// CyBot Pack
+5668|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5670|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5708|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5710|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5780|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5782|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5784|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5786|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5788|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5790|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5792|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5794|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5796|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5798|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5800|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+5802|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
+
+// Guild Chest Pack
+5954|STORE|GEM|15000|From the Guild Chest Pack (10 inside)
+
+// Galactic Goodies
+6518|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6520|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6522|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6524|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6526|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6528|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6530|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6532|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6534|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6536|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6538|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6540|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
+6416|STORE|GEM|25000|From the Galactic Goodies (25 inside)
+
+//IOTM
+6338|STORE|GEM|200000|Item Of The Month for July 2018
 
 //Other
 3144|STORE|GEM|200000|During Night of the Comet
