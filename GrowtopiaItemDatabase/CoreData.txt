@@ -6311,36 +6311,36 @@
 6303|Summer Blaster Glasses Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6304|Ultra Summer Blaster Glasses|999|NoSeed, Dropless|Clothing|002157|FF89BF|0|3600|Face
 6305|Ultra Summer Blaster Glasses Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6306|null_item6306|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EE1610|F3042B|0|31|None
-6307|null_item6306 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6308|null_item6308|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B9A644|A2B25C|0|31|None
-6309|null_item6308 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6310|null_item6310|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DD563B|EC3414|0|31|None
-6311|null_item6310 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6312|null_item6312|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D4D713|C2EC0E|0|31|None
-6313|null_item6312 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6314|null_item6314|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|01D167|618F6E|0|31|None
-6315|null_item6314 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6316|null_item6316|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|14C572|AF747B|0|31|None
-6317|null_item6316 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6318|null_item6318|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7FC961|0AF33F|0|31|None
-6319|null_item6318 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6320|null_item6320|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8DC34E|C93D39|0|31|None
-6321|null_item6320 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6322|null_item6322|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|24B568|F2312D|0|31|None
-6323|null_item6322 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6324|null_item6324|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E2350A|96FD0F|0|31|None
-6325|null_item6324 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6326|null_item6326|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|306F9D|CC317A|0|31|None
-6327|null_item6326 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6328|null_item6328|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|5FD85F|B3B950|0|31|None
-6329|null_item6328 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6330|null_item6330|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|74630A|8A6EA7|0|31|None
-6331|null_item6330 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6332|null_item6332|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|68BB2E|04C93A|0|31|None
-6333|null_item6332 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6334|null_item6334|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|36D672|8C9D03|0|31|None
-6335|null_item6334 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6306|Bubble Machine|999|MultiFacing, Wrenchable, NoSeed, Dropless|Toggleable_Foreground|6F6F6F|3C6590|10|3600|None
+6307|Bubble Machine Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6308|Beach Ball|999|NoSeed, Dropless|Clothing|7A3D0C|F3730D|0|3600|Hand
+6309|Beach Ball Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6310|Watermelon|999|NoSeed, Dropless|Clothing|2B2B2B|5A4932|0|3600|Hand
+6311|Watermelon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6312|Phoenix Sword|999|NoSeed, Dropless, NoSelf|Clothing|D6E5E8|964222|0|3600|Hand
+6313|Phoenix Sword Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6314|Crushed Ice|999|NoSeed, Dropless|Consummable|8AABAE|F4BEDA|10|3600|None
+6315|Crushed Ice Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6316|Deep-Fried Tropical Ice Cream|999|NoSeed, Dropless|Consummable|CFBA89|EFCF4F|4|3600|None
+6317|Deep-Fried Tropical Ice Cream Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6318|Firefin Leash|999|NoSeed, Dropless|Clothing|77CAFF|FFAA8B|0|80|Hand
+6319|Firefin Leash Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6320|Flaming Floaties|999|NoSeed, Dropless|Clothing|F8D516|FBBE07|0|3600|Hand
+6321|Flaming Floaties Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6322|Growmoji Fireworks|999|NoSeed, Dropless|Consummable|B80E1D|D5CBCC|5|3600|None
+6323|Growmoji Fireworks Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6324|Deck Chair|999|MultiFacing, NoSeed, Dropless|Foreground_Block|9A6B42|B27642|8|3600|None
+6325|Deck Chair Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6326|Flying Disc|999|NoSeed, Dropless|Consummable|EFEFEF|808080|2|3600|None
+6327|Flying Disc Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6328|Crab Wall Mount|999|MultiFacing, Wrenchable, NoSeed, Dropless|Fish_Mount|855F3D|FFC53F|6|3600|None
+6329|Crab Wall Mount Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6330|Embers|999|NoSeed, Dropless|Consummable|F31309|FFEC21|9|3600|None
+6331|Embers Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6332|Flaming Feathers|999|NoSeed, Dropless|Component|F31309|FFEC21|9|3600|None
+6333|Flaming Feathers Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6334|Danieldd's Chimera Wings|999|NoSeed, Dropless|Clothing|FC8E00|FFF7D7|0|3600|Back
+6335|Danieldd's Chimera Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6336|null_item6336|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB931F|E27B4C|0|31|None
 6337|null_item6336 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6338|Mighty Tiger|999|NoSeed, Dropless|Clothing|F17E29|662F06|0|3600|Feet
@@ -6681,28 +6681,28 @@
 6673|Growmoji Football Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6674|Ref's Jersey|44|NoSeed|Clothing|ECECEC|333333|0|86504|Shirt
 6675|Ref's Jersey Seed|44|NoSeed|Seed|000000|000000|20|0|None
-6676|World Cup Winner's Jersey|999|NoSeed, Dropless|Component|19567B|D72B3E|3|3600|None
-6677|World Cup Winner's Jersey Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6678|null_item6678|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|49DE6D|E81B76|0|31|None
-6679|null_item6678 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6680|null_item6680|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|67D622|E0500E|0|31|None
-6681|null_item6680 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6682|null_item6682|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C2983A|F80A10|0|31|None
-6683|null_item6682 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6684|null_item6684|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7AD75E|58BA17|0|31|None
-6685|null_item6684 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6686|null_item6686|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|076B4D|FB1543|0|31|None
-6687|null_item6686 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6688|null_item6688|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D57927|CB7618|0|31|None
-6689|null_item6688 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6690|null_item6690|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A2F01A|06D477|0|31|None
-6691|null_item6690 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6692|null_item6692|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA00BC|52F43C|0|31|None
-6693|null_item6692 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6694|null_item6694|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D6850E|E37902|0|31|None
-6695|null_item6694 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6696|null_item6696|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E23A5E|2FEF21|0|31|None
-6697|null_item6696 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6676|World Cup Winner's Jersey 2018|999|NoSeed, Dropless|Clothing|007EFF|07447F|0|3600|Shirt
+6677|World Cup Winner's Jersey 2018 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6678|Super Utility Helmet - Red|88|NoSeed|Clothing|19567B|D72B3E|0|684112|Hat
+6679|Super Utility Helmet - Red Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6680|Super Utility Shirt - Red|88|NoSeed|Clothing|19567B|D72B3E|0|684112|Shirt
+6681|Super Utility Shirt - Red Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6682|Super Utility Tights - Red|88|NoSeed|Clothing|19567B|D72B3E|0|684112|Pants
+6683|Super Utility Tights - Red Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6684|Super Utility Belt|999|NoSeed|Clothing|19567B|D72B3E|0|3600|Chest
+6685|Super Utility Belt Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6686|Super Utility Boots - Red|88|NoSeed|Clothing|19567B|D72B3E|0|684112|Feet
+6687|Super Utility Boots - Red Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6688|Super Utility Helmet - Yellow|88|NoSeed|Clothing|19567B|EAAB02|0|684112|Hat
+6689|Super Utility Helmet - Yellow Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6690|Super Utility Shirt - Yellow|88|NoSeed|Clothing|19567B|EAAB02|0|684112|Shirt
+6691|Super Utility Shirt - Yellow Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6692|Super Utility Tights - Yellow|88|NoSeed|Clothing|19567B|EAAB02|0|684112|Pants
+6693|Super Utility Tights - Yellow Seed|88|NoSeed|Seed|000000|000000|20|0|None
+6694|Super Utility Wings|999|NoSeed|Clothing|19567B|EAAB02|0|3600|Back
+6695|Super Utility Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6696|Super Utility Boots - Yellow|88|NoSeed|Clothing|19567B|EAAB02|0|684112|Feet
+6697|Super Utility Boots - Yellow Seed|88|NoSeed|Seed|000000|000000|20|0|None
 6698|Starship Hull - EXT Roof (RED)|1|NoSeed, Dropless, Mod|Bedrock|2E8C5B|2FDD84|4|31|None
 6699|Starship Hull - EXT Roof (RED) Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
 6700|Starship Hull - EXT Roof Top Corner (R) (RED)|1|NoSeed, Dropless, Mod|Bedrock|EF5305|C0716C|4|31|None
