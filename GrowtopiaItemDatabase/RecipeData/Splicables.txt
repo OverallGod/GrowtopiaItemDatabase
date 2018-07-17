@@ -2365,8 +2365,11 @@
 // Chocolate Swirl Block [R60] = White Chocolate Block Seed + Chocolate Block Seed
 5374|5373|2565
 
+// Chocolate Cherry Block [R73] = Dark Chocolate Block Seed + Cherry Seed
+5380|2567|4767
+
 // Black Eye Drops [R65] = Eye Cleaning Solution Seed + The Darkness
-5464|5467|298
+5464|5467|299
 
 // Red Eye Drops [R36] = Eye Cleaning Solution Seed + Dark Red Block Seed
 5458|5467|2015
