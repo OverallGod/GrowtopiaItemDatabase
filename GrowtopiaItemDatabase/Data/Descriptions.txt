@@ -9435,7 +9435,8 @@
 
 // DD Chimera Wings
 6334|Forged from bladed feathers of flame and fury, these wings will let you tear through the skies with the might of the chimera! Sponsored by Danieldd!
-6336|
+
+// null_item6336
 
 // Mighty Tiger
 6338|The terror of dark jungles and rustling fields has been tamed! This awesome beast comes to you from distant lands, willing to lend its primal might - and incredible stride - to your efforts! Rise up to the challenge of your rivals with your new feline friend!
@@ -9497,7 +9498,7 @@
 // MagTron LightCycle
 6376|Flaring with HyperTech superluminal banding and an everlasting reactor, this bike is unstoppably cool AND eco-friendly. It'll never run out of juice, and as long as you're riding it, you'll never be out of style.
 
-//Ferungi Ears
+// Ferungi Ears
 6378|A race of a galactic merchants and business dealers, the Ferungi love to chat. That's why theirs ears are so huge - they never want to miss a conversation (or a potential trade secret)!
 
 // Startopian Empire - Force Shield & Phase Blaster
@@ -9567,88 +9568,112 @@
 6426|With the help of advanced medicines, space-age surgical gear, and extra-soft pillows, the starship sickbay is the perfect place to perform surgery! Cure your patients here for a chance at some interesting new items, too...
 
 // Imperial Starship Helm - Mk.I
-6428|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides a very small amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6428|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides a Ship Rating of 30. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Imperial Starship Helm - Mk.II
-6430|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides a small amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6430|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides a Ship Rating of 200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
-// Imperial Starship Helm - Mk.II
-6432|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides an average amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+// Imperial Starship Helm - Mk.III
+6432|Navigate to distant suns in the name of the Emperor with the Imperial helm! Provides a Ship Rating of 280. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Imperial Starship Reactor - Mk.I
-6434|Empower your ship in the name of the Emperor with the Imperial reactor! Provides a very small amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6434|Empower your ship in the name of the Emperor with the Imperial reactor! Provides a Ship Rating of 30. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Imperial Starship Reactor - Mk.II
-6436|Empower your ship in the name of the Emperor with the Imperial reactor! Provides a small amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6436|Empower your ship in the name of the Emperor with the Imperial reactor! Provides a Ship Rating of 200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Imperial Starship Reactor - Mk.III
-6438|Empower your ship in the name of the Emperor with the Imperial reactor! Provides an average amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6438|Empower your ship in the name of the Emperor with the Imperial reactor! Provides a Ship Rating of 280. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Imperial Starship Viewscreen - Mk.I
-6440|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides a very small amount of Ship Rating and Repuration. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
+6440|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides a Ship Rating of 30. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
 
 // Imperial Starship Viewscreen - Mk.II
-6442|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides a small amount of Ship Rating and Repuration. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
+6442|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides a Ship Rating of 200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
 
 // Imperial Starship Viewscreen - Mk.III
-6444|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides an average amount of Ship Rating and Repuration. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
+6444|Negotiate with alien kings and space outposts in the name of the Emperor with the Imperial viewscreen! Provides a Ship Rating of 280. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to view your Star Stats!
 
 // Stellarix Union Starship Helm - Mk.I
-6446|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a somewhat improved amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6446|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 720. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Stellarix Union Starship Helm - Mk.II
-6448|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a moderately improved amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6448|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 900. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
-// Stellarix Reactor Mk.I
-6452|Give your ship a technologically-boosted power source with the Stellarix Union reactor! Provides a somewhat improved amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+// Stellarix Union Starship Helm - Mk.III
+6450|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 1080. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
-// Stellarix Reactor Mk.II
-6454|Give your ship a technologically-boosted power source with the Stellarix Union reactor! Provides a moderately improved amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+// Stellarix Union Starship Reactor Mk.I
+6452|Give your ship a technologically-boosted power source with the Stellarix Union reactor! Provides a Ship Rating of 720. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+
+// Stellarix Union Starship Reactor Mk.II
+6454|Give your ship a technologically-boosted power source with the Stellarix Union reactor! Provides a Ship Rating of 900. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+
+// Stellarix Union Starship Reactor Mk.III
+6456|Give your ship a technologically-boosted power source with the Stellarix Union reactor! Provides a Ship Rating of 1080. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Stellarix Union Starship Viewscreen - Mk.I
-6458|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a somewhat improved amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6458|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 720. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Stellarix Union Starship Viewscreen - Mk.II
-6460|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a moderately improved amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6460|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 900. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+
+// Stellarix Union Starship Viewscreen - Mk.III
+6462|Engage in calcualting diplomacy and intergalactic discussions with the Stellarix Union viewscreen! Provides a Ship Rating of 1080. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Greezak Horde Starship Helm - Mk.I
-6464|Set course for knowledge and understanding of the cosmos with the Stellarix Union helm! Provides a nicely boosted amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6464|Set course for knowledge and understanding of the cosmos with the Stellarix Union helm! Provides a Ship Rating of 2000. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Greezak Horde Starship Helm - Mk.II
-6466|Set course for knowledge and understanding of the cosmos with the Stellarix Union helm! Provides a excellently boosted amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6466|Set course for knowledge and understanding of the cosmos with the Stellarix Union helm! Provides a Ship Rating of 2310. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+
+// Greezak Horde Starship Helm - Mk.III
+6468|Set course for knowledge and understanding of the cosmos with the Stellarix Union helm! Provides a Ship Rating of 2640. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starsip. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+
+// Greezak Horde Starship Reactor - Mk.I
+6470|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2000. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+
+// Greezak Horde Starship Reactor - Mk.II
+6472|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2310. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+
+// Greezak Horde Starship Reactor - Mk.III
+6477|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2640. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Greezak Horde Starship Viewscreen - Mk.I
-6476|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a nicely boosted amount of Ship Rating and Reputation. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6476|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a Ship Rating of 2000. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Greezak Horde Starship Viewscreen - Mk.II
-6478|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a excellently boosted amount of Ship Rating and Reputation. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6478|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a Ship Rating of 2310. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+
+// Greezak Horde Starship Viewscreen - Mk.III
+6480|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a Ship Rating of 2640. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Helm - Mk.I
-6482|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a decently overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6482|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 4200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Helm - Mk.II
-6484|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a wonderfully overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6484|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 4690. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Helm - Mk.III
-6486|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a massively overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6486|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 5200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Reactor - Mk.I
-6488|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a decently overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6488|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 4200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Reactor - Mk.II
-6490|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a wonderfully overclocked amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6490|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a Ship Rating of 4690. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Hypertech Starship Reactor - Mk.III
-6492|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a massively overclocked amount of Ship Rating and Ship Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6492|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a Ship Rating of 5200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Hypertech Starship Viewscreen - Mk.I
-6494|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a decently overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6494|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a Ship Rating of 4200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Viewscreen - Mk.II
-6496|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a wonderfully overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6496|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a Ship Rating of 4690. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Viewscreen - Mk.III
-6498|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a massively overclocked amount of Ship Rating and Crew Health. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6498|Experince the cosmos in crystal clarity with the HyperTech viewscreen as your window to the galaxy! Provides a Ship Rating of 5200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Bastion Tactical Console - Mk. I
 6500|Track your foes to their atoms with a Bastion Tactical Console onboard! Provides a solid boost to your Ship Rating for all Ship-related challenges!
@@ -9674,7 +9699,7 @@
 // Vitahope Life Support System - Mk.II
 6514|Keep yourself and your crew the picture of health with the salubirous strength of the Vitahope Life Sypport System! Provides a great boost to your Ship Rating for all Crew-related challenges!
 
-// Vitahope Life Support System - Mk.II
+// Vitahope Life Support System - Mk.III
 6516|Keep yourself and your crew the picture of health with the salubirous strength of the Vitahope Life Sypport System! Provides a fantastic boost to your Ship Rating for all Crew-related challenges!
 
 // HyperShields
@@ -9720,7 +9745,11 @@
 6544|Glowing with high-tech power! These walls are a must-have for the discerning starship captain - nobody wants to walk around on a dull ship, after all!
 
 // Data Starship Hull
+6546|No info.
+
 // Space door
+6548|No info.
+
 // Starship Hulls
 6550|No info.
 6552|No info.
@@ -9800,7 +9829,7 @@
 6676|To make this jersey, we had to steal a sports almanac from the distant future and used it to find the winners of this year's World Cup! Allez Les Bleus!
 
 // Crime V2
-6678|Hide your identity with this red helmet - but not your might!
+6678|Start seeing red with this superheroic helm!
 6680|Stop crime and look great! It's a super shirt for a super Growtopia!
 6682|Toss on these tights for a beautiful - yet breathable - superhero style!
 6684|Keep all your superheroing gadgets close at hand and well-organized with this helpful utility belt! Oh, and keep your pants up, too. That's important for fighting crime.
@@ -9843,3 +9872,6 @@
 
 // Growmoji Alien
 6744|Pop an awesome alien into your chat! Just consume this to add it to your available growmojis!
+
+// Space
+6746|No info.

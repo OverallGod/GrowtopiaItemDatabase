@@ -2465,7 +2465,7 @@
 6400|6387|555
 
 // Star Tools [R87] = Starship Console Panel + Teeny Blocks Seed
-6520|6395|3785|6540
+6518|6395|3785|6540
 
 // Starship Floor Grill [R51] = Sharship Floor Tile + Steel Girder
 6542|6387|623
