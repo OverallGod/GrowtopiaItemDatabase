@@ -9487,7 +9487,7 @@
 6368|Lock onto your prey and fire! This incredibly deadly cannon is designed to leave a Greezak warrior's hands free so he can fight and fire at the same time! The plasma bolts it shoots are low-energy, so they don't ruin animal pelts.
 
 // LordStar Environment Mask
-6370|TThe mask of a daring outlaw king! Raid ancient alien treasures and splash your name across the cosmos from behind this fantastic mask! All will (probably) remember you!
+6370|The mask of a daring outlaw king! Raid ancient alien treasures and splash your name across the cosmos from behind this fantastic mask! All will (probably) remember you!
 
 // Space Thruster Boost Boots
 6372|Zip through space and hover like a champ with these high-tech boost boots! Thanks to a HyperTech dynamo core, these can keep you off the ground forever, meaning you'll never have dirty shoes again! Now THAT'S progress!
