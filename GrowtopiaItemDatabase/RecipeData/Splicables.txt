@@ -2389,6 +2389,9 @@
 // Command - Move Left [R19] = Olde Timey Radio Seed + Pointy Sign
 5672|65|24|5680
 
+// Ice Crust Block [R19] = Glass Block Seed + Water Bucket Seed
+5602|548|823
+
 // Command - Basic Shot Left [R24] = Olde Timey Radio Seed + Exclamation Sign Seed
 5682|65|1433|5688
 
