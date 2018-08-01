@@ -560,6 +560,7 @@
 
 //IOTM
 6338|STORE|GEM|200000|Item Of The Month for July 2018
+6756|STORE|GEM|200000|Item Of The Month for August 2018
 
 //Other
 3144|STORE|GEM|200000|During Night of the Comet

@@ -4897,7 +4897,11 @@
 6192|NONE
 
 // Guild Steed
+6194|NONE
+
 // Guild Night Stallion
+6196|NONE
+
 // Summer Token
 // Gold Architect Chest
 // Silver Architect Chest
@@ -5048,13 +5052,24 @@
 // DD Chimera Wings
 6334|NONE
 
-6336|
+//6336|
+
+// Yellow Shirt
+6344|NONE
 
 // Red Shirt
 6346|NONE
 
+// Green Shirt
+6348|NONE
+
 // Phase Blaster
 6350|NONE
+
+// Startopian
+6352|NONE
+6354|NONE
+6356|NONE
 
 // Combat Rifle
 6358|NONE
@@ -5066,6 +5081,9 @@
 
 // Greezak Horde - Warrior Armor
 6364|NONE
+
+// Greezak Necklace
+6366|NONE
 
 // Shoulder Cannon
 6368|NONE
@@ -5217,3 +5235,13 @@
 6688|NONE
 6690|NONE
 6692|NONE
+
+// August IOTM and 4th branch
+6750|NONE
+6752|NONE
+6754|NONE
+6756|NONE
+6758|NONE
+
+// Gravity Well
+6772|WIND

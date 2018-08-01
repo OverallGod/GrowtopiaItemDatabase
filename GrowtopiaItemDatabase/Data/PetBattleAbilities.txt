@@ -50,7 +50,7 @@
 4940|Air|Bouncy Barrier|Bounce attacks back for 25 damage if hit within 4s.|11|bloo|bouncer
 4938|Air|Pumped Up|Pump yourself up to regenerate health. Heals 30 life.|20|boon|bloon
 5004|Air|Playful Wind|Grants you a 15% chance to do double damage for 8 seconds. Inflicts 6 Air damage.|4|spry|spyte
-5122|Air|Self Sacrifice|If struck in the next 4 seconds, avoid it completely and swap out instead (if able to swap). The moke left behind helps your teammate dodge all attacks for 4 seconds. Isn't visible to your enemy.|20|rapid|giver
+5122|Air|Self Sacrifice|If struck in the next 4 seconds, avoid it completely and swap out instead (if able to swap). The smoke left behind helps your teammate dodge all attacks for 4 seconds. Isn't visible to your enemy.|20|rapid|giver
 
 //////////////
 //EARTH PETS//
