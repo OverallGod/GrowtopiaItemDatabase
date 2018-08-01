@@ -6753,18 +6753,18 @@
 6745|Growmoji Alien Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6746|Space|1|NoSeed, Dropless, Mod|Bedrock|EF6449|C24115|2|31|None
 6747|Space Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
-6748|null_item6748|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F0560F|51EB73|0|31|None
-6749|null_item6748 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6750|null_item6750|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|38C59C|A73AE5|0|31|None
-6751|null_item6750 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6752|null_item6752|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E3390C|1CBB7C|0|31|None
-6753|null_item6752 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6754|null_item6754|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D26A83|62FB18|0|31|None
-6755|null_item6754 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6756|null_item6756|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|19E926|86B468|0|31|None
-6757|null_item6756 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6758|null_item6758|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F2377A|86E31A|0|31|None
-6759|null_item6758 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6748|null_item6747|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F0560F|51EB73|0|31|None
+6749|null_item6747 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6750|Summer Blaster Mohawk|999|NoSeed, Dropless|Clothing|672124|A22B30|0|3600|Hair
+6751|Summer Blaster Mohawk Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6752|ULTRA Summer Blaster Mohawk|999|NoSeed, Dropless|Clothing|672124|FF2121|0|3600|Hair
+6753|ULTRA Summer Blaster Mohawk Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6754|Squirrel King|999|NoSeed, Dropless|Clothing|AF5D23|F8993A|0|3600|Back
+6755|Squirrel King Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6756|Scepter of the Honor Guard|999|NoSeed, Dropless|Clothing|56A1BF|57C52B|0|3600|Hand
+6757|Scepter of the Honor Guard Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6758|Cloak of Hoveration|999|NoSeed, Dropless|Clothing|3E123B|F45D92|0|3600|Back
+6759|Cloak of Hoveration Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6760|null_item6760|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|03F316|DE330B|0|31|None
 6761|null_item6760 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6762|null_item6762|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EA6345|00C006|0|31|None
@@ -6777,8 +6777,8 @@
 6769|null_item6768 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6770|null_item6770|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CA3D04|8BBC5F|0|31|None
 6771|null_item6770 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6772|null_item6772|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|0D8D96|BA0C2D|0|31|None
-6773|null_item6772 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6772|Gravity Well|999|Wrenchable, NoSeed, Permanent, Dropless, NoShadow, AutoPickup|Unknown|440E62|C27FFC|8|3600|None
+6773|Gravity Well Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6774|null_item6774|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A3C65A|53B396|0|31|None
 6775|null_item6774 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6776|null_item6776|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3CFB07|FD2111|0|31|None
@@ -6829,43 +6829,11 @@
 6821|null_item6820 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6822|null_item6822|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|25A19B|B42635|0|31|None
 6823|null_item6822 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6824|null_item6824|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|4ED937|CA734B|0|31|None
-6825|null_item6824 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6826|null_item6826|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|31CB7B|BFB140|0|31|None
-6827|null_item6826 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6828|null_item6828|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC4071|C27405|0|31|None
-6829|null_item6828 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6830|null_item6830|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F84E17|AA9B3C|0|31|None
-6831|null_item6830 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6832|null_item6832|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C92750|E15417|0|31|None
-6833|null_item6832 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6834|null_item6834|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39BE61|649FBA|0|31|None
-6835|null_item6834 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6836|null_item6836|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F91E72|AEE808|0|31|None
-6837|null_item6836 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6838|null_item6838|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C1B215|B5EE1A|0|31|None
-6839|null_item6838 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6840|null_item6840|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6DB17|7DCE69|0|31|None
-6841|null_item6840 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6842|null_item6842|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39D87D|9EC812|0|31|None
-6843|null_item6842 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6844|null_item6844|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|256F8C|E54C2E|0|31|None
-6845|null_item6844 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6846|null_item6846|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3EDE3D|710642|0|31|None
-6847|null_item6846 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6848|null_item6848|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|77D828|86FE0F|0|31|None
-6849|null_item6848 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6850|null_item6850|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF6E1E|BC9129|0|31|None
-6851|null_item6850 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6852|null_item6852|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF2166|32F91A|0|31|None
-6853|null_item6852 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6854|null_item6854|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|816BD8|8AC07C|0|31|None
-6855|null_item6854 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6856|null_item6856|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|0CCA85|1DF603|0|31|None
-6857|null_item6856 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6858|null_item6858|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E53669|259EAD|0|31|None
-6859|null_item6858 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6860|30-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
-6861|30-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6862|365-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
-6863|365-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6824|Growmoji Pizza|999|NoSeed, Dropless|Consummable|EA8800|FFF799|5|3600|None
+6825|Growmoji Pizza Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6826|Anomalizing Delicate Trowel|999|NoSeed, Dropless|Clothing|5D5034|4A301A|0|3600|Hand
+6827|Anomalizing Delicate Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6828|Anomalizing Pristine Trowel|999|NoSeed, Dropless|Clothing|567281|A1C1D2|0|3600|Hand
+6829|Anomalizing Pristine Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6830|Anomalizing Exquisite Trowel|999|NoSeed, Dropless|Clothing|9C6300|E6AD00|0|3600|Hand
+6831|Anomalizing Exquisite Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
