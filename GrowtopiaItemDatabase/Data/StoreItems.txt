@@ -325,15 +325,15 @@
 4780|STORE|GEM|20000|From the Adventure Pack
 
 // Rockin' Pack
-1710|STORE|GEM|9999|From the Adventure Pack (Random instrument)
-1712|STORE|GEM|9999|From the Adventure Pack (Random instrument)
-1714|STORE|GEM|9999|From the Adventure Pack (Random instrument)
-1720|STORE|GEM|9999|From the Adventure Pack
-1718|STORE|GEM|9999|From the Adventure Pack
-1724|STORE|GEM|9999|From the Adventure Pack
-1728|STORE|GEM|9999|From the Adventure Pack (6 inside)
-1730|STORE|GEM|9999|From the Adventure Pack (6 inside)
-1726|STORE|GEM|9999|From the Adventure Pack (6 inside)
+1710|STORE|GEM|9999|From the Rockin' Pack (Random instrument)
+1712|STORE|GEM|9999|From the Rockin' Pack (Random instrument)
+1714|STORE|GEM|9999|From the Rockin' Pack (Random instrument)
+1720|STORE|GEM|9999|From the Rockin' Pack
+1718|STORE|GEM|9999|From the Rockin' Pack
+1724|STORE|GEM|9999|From the Rockin' Pack
+1728|STORE|GEM|9999|From the Rockin' Pack (6 inside)
+1730|STORE|GEM|9999|From the Rockin' Pack (6 inside)
+1726|STORE|GEM|9999|From the Rockin' Pack (6 inside)
 
 // Game Pack
 1616|STORE|GEM|50000|From the Game Pack (4 inside)
@@ -560,7 +560,7 @@
 
 //IOTM
 6338|STORE|GEM|200000|Item Of The Month for July 2018
-6756|STORE|GEM|200000|Item Of The Month for August 2018
+6758|STORE|GEM|200000|Item Of The Month for August 2018
 
 //Other
 3144|STORE|GEM|200000|During Night of the Comet
