@@ -1046,7 +1046,8 @@
 696|Keeps the dank out in your dungeons! Well, it reduces it slightly. You can punch this to turn it on or off.
 
 // Meow Ears
-698|Meow's super special ears that nobody else gets.
+// Original Description - Meow's super special ears that nobody else gets.
+698|Super-special kitty ears, now yours to wear! Once only for a select few, meow yours to wear with pride!
 
 // Sombrero
 700|Aqul esta el sombrero. El sombrero es miuy bien.
@@ -9894,7 +9895,15 @@
 // Gravity Well
 6772|When GrowTech accidently spawned a swarm of minature black holes, shareholders were worried the damage to spacetime might hurt business. Fortunately, their engineers were able to harness the power of singularity to create these irresistible blocks! Punch to turn it on and feel the pull of the void!
 
+// Hoodies
+6774|My, what fine fashion you have! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
+//6776|
+6778|Break out of the routine and set your own style as long as it's purple)! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
+
 // Trowels
 6826|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break! Use with care!
 6828|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Delicate version)! Use with care!
 6830|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version)! Use with care!
+
+// Weather Machine - Digital Rain
+6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.

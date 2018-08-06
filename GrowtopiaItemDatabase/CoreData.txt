@@ -6779,12 +6779,12 @@
 6771|null_item6770 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6772|Gravity Well|999|Wrenchable, NoSeed, Permanent, Dropless, NoShadow, AutoPickup|Unknown|440E62|C27FFC|8|3600|None
 6773|Gravity Well Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6774|null_item6774|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A3C65A|53B396|0|31|None
-6775|null_item6774 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6776|null_item6776|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3CFB07|FD2111|0|31|None
-6777|null_item6776 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6778|null_item6778|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D26215|148F30|0|31|None
-6779|null_item6778 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6774|Little Red Hoodie|999|NoSeed, Dropless|Clothing|940D0D|C40B0B|0|3600|Shirt
+6775|Little Red Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6776|Big Bad Blue Hoodie|999|NoSeed, Dropless|Clothing|0C317D|2C5EC5|0|3600|Shirt
+6777|Big Bad Blue Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6778|Punk Purple Hoodie|999|NoSeed, Dropless|Clothing|6A0F8B|930CC4|0|3600|Shirt
+6779|Punk Purple Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6780|null_item6780|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|4DCC36|66BE00|0|31|None
 6781|null_item6780 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6782|null_item6782|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|64FB0C|B76F38|0|31|None
@@ -6827,8 +6827,8 @@
 6819|null_item6818 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6820|null_item6820|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|55ED40|3A96B0|0|31|None
 6821|null_item6820 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6822|null_item6822|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|25A19B|B42635|0|31|None
-6823|null_item6822 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6822|Growmoji Party|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+6823|Growmoji Party Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6824|Growmoji Pizza|999|NoSeed, Dropless|Consummable|EA8800|FFF799|5|3600|None
 6825|Growmoji Pizza Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6826|Anomalizing Delicate Trowel|999|NoSeed, Dropless|Clothing|5D5034|4A301A|0|3600|Hand
@@ -6837,3 +6837,27 @@
 6829|Anomalizing Pristine Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6830|Anomalizing Exquisite Trowel|999|NoSeed, Dropless|Clothing|9C6300|E6AD00|0|3600|Hand
 6831|Anomalizing Exquisite Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6832|null_item6832|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C92750|E15417|0|31|None
+6833|null_item6832 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6834|null_item6834|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39BE61|649FBA|0|31|None
+6835|null_item6834 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6836|null_item6836|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F91E72|AEE808|0|31|None
+6837|null_item6836 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6838|null_item6838|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C1B215|B5EE1A|0|31|None
+6839|null_item6838 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6840|null_item6840|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6DB17|7DCE69|0|31|None
+6841|null_item6840 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6842|null_item6842|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39D87D|9EC812|0|31|None
+6843|null_item6842 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6844|null_item6844|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|256F8C|E54C2E|0|31|None
+6845|null_item6844 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6846|null_item6846|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3EDE3D|710642|0|31|None
+6847|null_item6846 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6848|null_item6848|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|77D828|86FE0F|0|31|None
+6849|null_item6848 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6850|null_item6850|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF6E1E|BC9129|0|31|None
+6851|null_item6850 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6852|null_item6852|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF2166|32F91A|0|31|None
+6853|null_item6852 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6854|Weather Machine - Digital Rain|999|Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Weather_Machine_S1|15AC16|9FECFD|10|3600|None
+6855|Weather Machine - Digital Rain Seed|999|NoSeed|Seed|000000|000000|20|0|None

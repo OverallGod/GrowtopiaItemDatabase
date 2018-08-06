@@ -5245,3 +5245,16 @@
 
 // Gravity Well
 6772|WIND
+
+// Hoodies
+6774|NONE
+6776|NONE
+6778|NONE
+
+// Trowels
+6826|NONE
+6828|NONE
+6830|NONE
+
+// Weather Machine - Digital Rain
+6854|WIND
