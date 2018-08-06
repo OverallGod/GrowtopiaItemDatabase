@@ -9638,7 +9638,7 @@
 6472|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2310. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Greezak Horde Starship Reactor - Mk.III
-6477|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2640. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
+6474|Make sure your ship can survive the rigors of a lengthy hunt with the Greezak Horde Reactor! Provides a Ship Rating of 2640. One of the three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Greezak Horde Starship Viewscreen - Mk.I
 6476|Listen to your prey cower as you chase them across the stars with the Greezak Horde viewscreen! Provides a Ship Rating of 2000. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
@@ -9659,7 +9659,7 @@
 6486|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 5200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
 
 // Hypertech Starship Reactor - Mk.I
-6488|Blast off into the great unknown at ludicrous speeds with the HyperTech helm as your navigator! Provides a Ship Rating of 4200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to start a Star Mission (but make sure you have enough Star Tools)!
+6488|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a Ship Rating of 4200. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
 
 // Hypertech Starship Reactor - Mk.II
 6490|Enkpy power for generations of exploration and adventure with the HyperTech reactor at your back! Provides a Ship Rating of 4690. One of three components - Helm, Viewscreen, and Reactor - needed to fly a starship. Wrench this to add Star Fuel to your ship!
