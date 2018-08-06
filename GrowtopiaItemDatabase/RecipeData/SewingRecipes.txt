@@ -70,6 +70,9 @@
 4950|SEW|White|White|Locking|Grey|Zigzag
 4952|SEW|Black|Black|Locking|Grey|Zigzag
 
+// Hoodies
+6778|SEW|Purple|Purple|Locking|Purple|Zigzag
+
 //Misc
 3394|SEW|Aqua|Purple|Zigzag|Yellow|Overcasting
 3628|SEW|Red|Grey|Locking|Black|Saddle
