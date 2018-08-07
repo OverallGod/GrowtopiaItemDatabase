@@ -6789,12 +6789,12 @@
 6781|null_item6780 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6782|null_item6782|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|64FB0C|B76F38|0|31|None
 6783|null_item6782 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6784|null_item6784|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F16C26|EB475D|0|31|None
-6785|null_item6784 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6786|null_item6786|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D68251|C21719|0|31|None
-6787|null_item6786 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6788|null_item6788|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA0590|DB556F|0|31|None
-6789|null_item6788 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6784|Rhinestone Evening Dress|65|NoSeed, Dropless|Clothing|F3B883|E4DDD5|0|276575|Shirt
+6785|Rhinestone Evening Dress Seed|65|NoSeed|Seed|000000|000000|20|0|None
+6786|Plaid Skirt|999|NoSeed, Dropless|Clothing|821D12|494E69|0|3600|Pants
+6787|Plaid Skirt Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6788|Peplum Top|27|NoSeed, Dropless|Clothing|A6D7FF|91B6D5|0|20493|Shirt
+6789|Peplum Top Seed|27|NoSeed|Seed|000000|000000|20|0|None
 6790|null_item6790|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|1C7914|E9570B|0|31|None
 6791|null_item6790 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6792|null_item6792|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7B7117|9C3CAD|0|31|None
@@ -6819,14 +6819,14 @@
 6811|null_item6810 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6812|null_item6812|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3FE87A|63D710|0|31|None
 6813|null_item6812 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6814|null_item6814|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC5A5D|F90BA5|0|31|None
-6815|null_item6814 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6814|Bubblicious Hair|999|NoSeed, Dropless|Clothing|0293D6|A3DFFC|0|3600|Hair
+6815|Bubblicious Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6816|null_item6816|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6BC2F|4FCD7C|0|31|None
 6817|null_item6816 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6818|null_item6818|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7E1583|A9DF07|0|31|None
 6819|null_item6818 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6820|null_item6820|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|55ED40|3A96B0|0|31|None
-6821|null_item6820 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6820|Crystal Shard Necklace|999|NoSeed, Dropless|Clothing|BACED2|FFD907|0|3600|Chest
+6821|Crystal Shard Necklace Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6822|Growmoji Party|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
 6823|Growmoji Party Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6824|Growmoji Pizza|999|NoSeed, Dropless|Consummable|EA8800|FFF799|5|3600|None

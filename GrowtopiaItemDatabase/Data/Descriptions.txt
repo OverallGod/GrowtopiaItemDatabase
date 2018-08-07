@@ -9900,6 +9900,12 @@
 6776|Time to huff, puff, and blue your hood down! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
 6778|Break out of the routine and set your own style as long as it's purple)! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
 
+// Peplum Top
+6788|A cute color for an even cuter Growtopian!
+
+// Crystal Shard Necklace
+6820|Shimmering crystals and gems to adorn only the fanciest of necks! Strangely magnetic, these crystals must aplify the personal pull of those who wear them! Careful, though - these shards are sharp!
+
 // Trowels
 6826|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break! Use with care!
 6828|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Delicate version)! Use with care!

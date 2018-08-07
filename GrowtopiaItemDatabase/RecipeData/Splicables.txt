@@ -2482,3 +2482,5 @@
 // Ref's Jersey [R44] = Checker Wallpaper + Card Block
 6674|285|743
 
+// Peplum Top [R27] = Pastel Blue Wallpaper + Flowery Wallpaper
+6788|2507|199
