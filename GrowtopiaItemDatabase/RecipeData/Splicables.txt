@@ -2482,5 +2482,8 @@
 // Ref's Jersey [R44] = Checker Wallpaper + Card Block
 6674|285|743
 
+// Rhinestone Evening Dress [R65] = Sandstone + Marquee Block
+6784|333|1599
+
 // Peplum Top [R27] = Pastel Blue Wallpaper + Flowery Wallpaper
 6788|2507|199
