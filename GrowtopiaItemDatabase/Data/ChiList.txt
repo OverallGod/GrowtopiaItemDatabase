@@ -5236,12 +5236,18 @@
 6690|NONE
 6692|NONE
 
+// Hypertech Field
+6748|WIND
+
 // August IOTM and 4th branch
 6750|NONE
 6752|NONE
 6754|NONE
 6756|NONE
 6758|NONE
+
+// Rara Skirt
+6770|NONE
 
 // Gravity Well
 6772|WIND

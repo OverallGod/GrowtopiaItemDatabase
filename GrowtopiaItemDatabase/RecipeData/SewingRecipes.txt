@@ -69,6 +69,7 @@
 4806|SEW|Floral|Red|Saddle|Yellow|Zigzag
 4950|SEW|White|White|Locking|Grey|Zigzag
 4952|SEW|Black|Black|Locking|Grey|Zigzag
+6770|SEW|Blue|Blue|Saddle|Purple|Locking
 
 // Hoodies
 6778|SEW|Purple|Purple|Locking|Purple|Zigzag

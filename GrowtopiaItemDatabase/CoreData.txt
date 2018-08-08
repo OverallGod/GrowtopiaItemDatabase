@@ -6753,8 +6753,8 @@
 6745|Growmoji Alien Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6746|Space|1|NoSeed, Dropless, Mod|Bedrock|EF6449|C24115|2|31|None
 6747|Space Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
-6748|null_item6747|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F0560F|51EB73|0|31|None
-6749|null_item6747 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6748|HyperTech Antigravity Field|999|NoSeed, Dropless, NoShadow|Foreground_Block|00FF88|33E0DD|8|3600|None
+6749|HyperTech Antigravity Field Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6750|Summer Blaster Mohawk|999|NoSeed, Dropless|Clothing|672124|A22B30|0|3600|Hair
 6751|Summer Blaster Mohawk Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6752|ULTRA Summer Blaster Mohawk|999|NoSeed, Dropless|Clothing|672124|FF2121|0|3600|Hair
@@ -6775,8 +6775,8 @@
 6767|null_item6766 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6768|null_item6768|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|9DC838|FD592E|0|31|None
 6769|null_item6768 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6770|null_item6770|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CA3D04|8BBC5F|0|31|None
-6771|null_item6770 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6770|Rara Skirt|999|NoSeed, Dropless|Clothing|DC35BE|4C60E4|0|3600|Pants
+6771|Rara Skirt Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6772|Gravity Well|999|Wrenchable, NoSeed, Permanent, Dropless, NoShadow, AutoPickup|Unknown|440E62|C27FFC|8|3600|None
 6773|Gravity Well Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6774|Little Red Hoodie|999|NoSeed, Dropless|Clothing|940D0D|C40B0B|0|3600|Shirt
@@ -6795,10 +6795,10 @@
 6787|Plaid Skirt Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6788|Peplum Top|27|NoSeed, Dropless|Clothing|A6D7FF|91B6D5|0|20493|Shirt
 6789|Peplum Top Seed|27|NoSeed|Seed|000000|000000|20|0|None
-6790|null_item6790|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|1C7914|E9570B|0|31|None
-6791|null_item6790 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6792|null_item6792|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7B7117|9C3CAD|0|31|None
-6793|null_item6792 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6790|Stripy Jumpsuit|999|NoSeed, Dropless|Clothing|18236E|50588E|0|3600|Shirt
+6791|Stripy Jumpsuit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6792|French Maid's Dress|999|NoSeed, Dropless|Clothing|2B2B2B|D9D9D9|0|3600|Shirt
+6793|French Maid's Dress Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6794|null_item6794|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC300A|DA14C3|0|31|None
 6795|null_item6794 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6796|null_item6796|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|963CE7|E8CE00|0|31|None
@@ -6807,8 +6807,8 @@
 6799|null_item6798 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6800|null_item6800|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A310C7|E227A0|0|31|None
 6801|null_item6800 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6802|null_item6802|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA4835|9214B6|0|31|None
-6803|null_item6802 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6802|Mega Growtoken|999|NoSeed, Dropless, Untradable|Component|FFDB00|B6A61E|2|3600|None
+6803|Mega Growtoken Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6804|null_item6804|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D7119B|26C299|0|31|None
 6805|null_item6804 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6806|null_item6806|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7AE929|5DDB31|0|31|None
