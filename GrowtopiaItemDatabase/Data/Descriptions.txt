@@ -9895,6 +9895,12 @@
 // Gravity Well
 6772|When GrowTech accidently spawned a swarm of minature black holes, shareholders were worried the damage to spacetime might hurt business. Fortunately, their engineers were able to harness the power of singularity to create these irresistible blocks! Punch to turn it on and feel the pull of the void!
 
+// Rhinestone Evening Dress
+6784|All eyes will be on you when you stride into the ballroom in this vintage dress! It sparkles and shines like a constellation, setting you among the stars!
+
+// Plaid Skirt
+6786|Perfectly plaid for the budding lady lumberjack in you!
+
 // Hoodies
 6774|My, what fine fashion you have! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
 6776|Time to huff, puff, and blue your hood down! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
