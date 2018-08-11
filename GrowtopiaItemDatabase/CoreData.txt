@@ -6765,16 +6765,16 @@
 6757|Scepter of the Honor Guard Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6758|Cloak of Hoveration|999|NoSeed, Dropless|Clothing|3E123B|F45D92|0|3600|Back
 6759|Cloak of Hoveration Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6760|null_item6760|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|03F316|DE330B|0|31|None
-6761|null_item6760 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6762|null_item6762|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EA6345|00C006|0|31|None
-6763|null_item6762 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6764|null_item6764|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FF8F05|AFC81E|0|31|None
-6765|null_item6764 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6766|null_item6766|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|88D405|B804A1|0|31|None
-6767|null_item6766 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6768|null_item6768|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|9DC838|FD592E|0|31|None
-6769|null_item6768 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6760|Red Contact Lens|999|0|Consummable|D11F1F|D1D1D1|1|3600|None
+6761|Red Contact Lens Seed|999|0|Seed|000000|000000|20|0|None
+6762|Green Contact Lens|999|0|Consummable|4DC68B|D1D1D1|1|3600|None
+6763|Green Contact Lens Seed|999|0|Seed|000000|000000|20|0|None
+6764|Blue Contact Lens|999|0|Consummable|3D5EE4|D1D1D1|1|3600|None
+6765|Blue Contact Lens Seed|999|0|Seed|000000|000000|20|0|None
+6766|Black Contact Lens|999|0|Consummable|363636|D1D1D1|1|3600|None
+6767|Black Contact Lens Seed|999|0|Seed|000000|000000|20|0|None
+6768|Contact Lens Cleaning Solution|999|0|Consummable|BCD1EF|286099|1|3600|None
+6769|Contact Lens Cleaning Solution Seed|999|0|Seed|000000|000000|20|0|None
 6770|Rara Skirt|999|NoSeed, Dropless|Clothing|DC35BE|4C60E4|0|3600|Pants
 6771|Rara Skirt Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6772|Gravity Well|999|Wrenchable, NoSeed, Permanent, Dropless, NoShadow, AutoPickup|Unknown|440E62|C27FFC|8|3600|None
@@ -6785,8 +6785,8 @@
 6777|Big Bad Blue Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6778|Punk Purple Hoodie|999|NoSeed, Dropless|Clothing|6A0F8B|930CC4|0|3600|Shirt
 6779|Punk Purple Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6780|null_item6780|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|4DCC36|66BE00|0|31|None
-6781|null_item6780 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6780|Dabstep Low Top Sneakers|999|NoSeed, Dropless|Clothing|29D8FF|F7B412|0|3600|Feet
+6781|Dabstep Low Top Sneakers Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6782|null_item6782|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|64FB0C|B76F38|0|31|None
 6783|null_item6782 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6784|Rhinestone Evening Dress|65|NoSeed, Dropless|Clothing|F3B883|E4DDD5|0|276575|Shirt
@@ -6799,32 +6799,32 @@
 6791|Stripy Jumpsuit Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6792|French Maid's Dress|999|NoSeed, Dropless|Clothing|2B2B2B|D9D9D9|0|3600|Shirt
 6793|French Maid's Dress Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6794|null_item6794|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC300A|DA14C3|0|31|None
-6795|null_item6794 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6796|null_item6796|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|963CE7|E8CE00|0|31|None
-6797|null_item6796 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6798|null_item6798|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|19F238|01D032|0|31|None
-6799|null_item6798 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6794|Twintail Hair|999|NoSeed, Dropless|Clothing|F6D4AC|D6393D|0|3600|Hair
+6795|Twintail Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6796|Braided Hair|44|NoSeed, Dropless|Clothing|432F17|634A2D|0|86504|Hair
+6797|Braided Hair Seed|44|NoSeed|Seed|000000|000000|20|0|None
+6798|Growmoji Face Mask|999|NoSeed, Dropless, Foreground|Clothing|DDC48C|FFFFFF|0|3600|Face
+6799|Growmoji Face Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6800|null_item6800|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A310C7|E227A0|0|31|None
 6801|null_item6800 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6802|Mega Growtoken|999|NoSeed, Dropless, Untradable|Component|FFDB00|B6A61E|2|3600|None
 6803|Mega Growtoken Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6804|null_item6804|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D7119B|26C299|0|31|None
-6805|null_item6804 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6806|null_item6806|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7AE929|5DDB31|0|31|None
-6807|null_item6806 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6808|null_item6808|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CE373F|F55935|0|31|None
-6809|null_item6808 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6810|null_item6810|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|17F74A|307B55|0|31|None
-6811|null_item6810 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6812|null_item6812|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3FE87A|63D710|0|31|None
-6813|null_item6812 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6804|Bubble Gun|999|NoSeed, Dropless|Clothing|0083B2|3EC6F9|0|3600|Hand
+6805|Bubble Gun Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6806|Oink-Oink Nose|999|NoSeed, Dropless|Clothing|F0A9B5|B37B84|0|3600|Face
+6807|Oink-Oink Nose Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6808|Sheet Music: Violin Note|18|WorldLock|Sheet_Music|895324|F1A94F|3|6372|None
+6809|Sheet Music: Violin Note Seed|18|0|Seed|000000|000000|20|0|None
+6810|Sheet Music: Sharp Violin|26|WorldLock|Sheet_Music|895324|F1A94F|3|18356|None
+6811|Sheet Music: Sharp Violin Seed|26|0|Seed|000000|000000|20|0|None
+6812|Sheet Music: Flat Violin|19|WorldLock|Sheet_Music|895324|F1A94F|3|7429|None
+6813|Sheet Music: Flat Violin Seed|19|0|Seed|000000|000000|20|0|None
 6814|Bubblicious Hair|999|NoSeed, Dropless|Clothing|0293D6|A3DFFC|0|3600|Hair
 6815|Bubblicious Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6816|null_item6816|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6BC2F|4FCD7C|0|31|None
 6817|null_item6816 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6818|null_item6818|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7E1583|A9DF07|0|31|None
-6819|null_item6818 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6818|Nightwings|999|NoSeed, Dropless|Clothing|5E207C|15497F|0|3600|Back
+6819|Nightwings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6820|Crystal Shard Necklace|999|NoSeed, Dropless|Clothing|BACED2|FFD907|0|3600|Chest
 6821|Crystal Shard Necklace Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6822|Growmoji Party|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
@@ -6837,27 +6837,35 @@
 6829|Anomalizing Pristine Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6830|Anomalizing Exquisite Trowel|999|NoSeed, Dropless|Clothing|9C6300|E6AD00|0|3600|Hand
 6831|Anomalizing Exquisite Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6832|null_item6832|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C92750|E15417|0|31|None
-6833|null_item6832 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6834|null_item6834|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39BE61|649FBA|0|31|None
-6835|null_item6834 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6836|null_item6836|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F91E72|AEE808|0|31|None
-6837|null_item6836 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6838|null_item6838|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C1B215|B5EE1A|0|31|None
-6839|null_item6838 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6840|null_item6840|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6DB17|7DCE69|0|31|None
-6841|null_item6840 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6832|Anomalizing Delicate Cultivator|999|NoSeed, Dropless|Clothing|5D5034|4A301A|0|3600|Hand
+6833|Anomalizing Delicate Cultivator Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6834|Anomalizing Pristine Cultivator|999|NoSeed, Dropless|Clothing|567281|A1C1D2|0|3600|Hand
+6835|Anomalizing Pristine Cultivator Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6836|Anomalizing Exquisite Cultivator|999|NoSeed, Dropless|Clothing|9C6300|E6AD00|0|3600|Hand
+6837|Anomalizing Exquisite Cultivator Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6838|Amber Resin|999|NoSeed, Dropless|Consummable|F66C0A|FFD542|6|3600|None
+6839|Amber Resin Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6840|Dreamcatcher Staff|999|NoSeed, Dropless|Clothing|513839|F45D92|0|3600|Hand
+6841|Dreamcatcher Staff Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6842|null_item6842|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39D87D|9EC812|0|31|None
 6843|null_item6842 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6844|null_item6844|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|256F8C|E54C2E|0|31|None
-6845|null_item6844 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6844|Amber Necklace|999|NoSeed, Dropless|Clothing|DE3605|FCC339|0|3600|Chest
+6845|Amber Necklace Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6846|null_item6846|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3EDE3D|710642|0|31|None
 6847|null_item6846 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6848|null_item6848|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|77D828|86FE0F|0|31|None
-6849|null_item6848 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6848|Luminous Eyes|999|NoSeed, Dropless, Foreground|Clothing|C231C2|FF77FF|0|3600|Face
+6849|Luminous Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6850|null_item6850|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF6E1E|BC9129|0|31|None
 6851|null_item6850 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6852|null_item6852|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF2166|32F91A|0|31|None
 6853|null_item6852 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6854|Weather Machine - Digital Rain|999|Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Weather_Machine_S1|15AC16|9FECFD|10|3600|None
 6855|Weather Machine - Digital Rain Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6856|3-Day Free Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+6857|3-Day Free Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6858|14-Day Free Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+6859|14-Day Free Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6860|30-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+6861|30-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6862|365-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+6863|365-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
