@@ -2487,3 +2487,9 @@
 
 // Peplum Top [R27] = Pastel Blue Wallpaper + Flowery Wallpaper
 6788|2507|199
+
+// Sheet Music: Sharp Violin [R26] = Sheet Music: Violin Note + Death Spike
+6810|6809|163
+
+// Sheet Music: Flat Violin [R19] = Sheet Music: Violin Note + Rock
+6812|6809|11

@@ -2229,7 +2229,8 @@
 1484|AtomicShadow might actually be evil.
 
 // Growtoken
-1486|You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in the store on special items!
+// Old Description - You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in the store on special items!
+1486|You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in the store on special items! If you have 100 Growtokens, you can tap them in your inventory to combine them into a Mega Growtoken!
 
 // Experience Potion
 1488|SNIFF' ahh. The smell of XP. "DRINKING" YACK! Omg! Yay Level Up!
@@ -9895,6 +9896,13 @@
 // Cloak of Hoveration
 6758|Say hello to the friendliest threads around! This cape will take you to and fro with style, and happily yank you high into the air whenever you desire! It's like a very loyal blanket, but with a touch of magic to make your day extra lofty!
 
+// Contact Lenses
+6760|Give your eyes an overhaul and get the red in these pupil-painting lenses! You may need multiple lenses - and other colors - to achieve a desired effect.
+6762|Give your eyes an overhaul and go for the green by popping in these pupil-painting lenses! You may need multiple lenses - and other colors - to achieve a desired effect.
+6764|Give your eyes an overhaul in a beautifully blue way with these pupil-painting lenses! You may need multiple lenses - and other colors - to achieve a desired effect.
+6766|Wrap your pupils in ebon darkness with these bleakly black lenses. When your friends stare into your eyes, the void will stare back! You may need multiple lenses - and other colors - to achieve a desired effect.
+6768|Tired of your current pupil color? Give them a wash with this hygienic cleaning solution! Note: You might need more than one application to finish the job!
+
 // Rara Skirt
 6770|You'll be a "rara" beauty when you don this skirt! Who can resist those colors?
 
@@ -9906,6 +9914,9 @@
 6776|Time to huff, puff, and blue your hood down! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
 6778|Break out of the routine and set your own style as long as it's purple)! This hoodie will keep you warm and, more importantly, looking great in all kinds of weather!
 
+// Dabstep Low Top
+6780|Light up every footfall and move to a better beat with these dabulous shoes! When you're wearing these, the world is your dance floor!
+
 // Rhinestone Evening Dress
 6784|All eyes will be on you when you stride into the ballroom in this vintage dress! It sparkles and shines like a constellation, setting you among the stars!
 
@@ -9915,6 +9926,9 @@
 // Peplum Top
 6788|A cute color for an even cuter Growtopian!
 
+// Mega Growtoken
+6802|Now you're talking! This is worth 100 growtokens! Double-tab this in your inventory to break it back down into 100 growtokens. Spend them in the store on special items! Try dialing 12345 or 53785 on your Telephone for details!
+
 // Crystal Shard Necklace
 6820|Shimmering crystals and gems to adorn only the fanciest of necks! Strangely magnetic, these crystals must aplify the personal pull of those who wear them! Careful, though - these shards are sharp!
 
@@ -9923,5 +9937,14 @@
 6828|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Delicate version)! Use with care!
 6830|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version)! Use with care!
 
+// Amber Resin
+6838|Polished by eons, this ancient tree sap has hardened into a beautiful jewel! I wonder what you could do with it...
+
+// Amber Necklace
+6844|The ancient magic of this necklace calls back to the creatures of a long-lost age, bringing them closer to your world! Gives you a 5% chance of getting double fossils when smashing Fossil Rocks!
+
 // Weather Machine - Digital Rain
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
+
+// 365-D Sub
+6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!

@@ -5246,25 +5246,45 @@
 6756|NONE
 6758|NONE
 
-// Rara Skirt
-6770|NONE
-
-// Gravity Well
-6772|WIND
+// Contact Lenses
+6760|FIRE
+6762|EARTH
+6764|WATER
+6766|WIND
+6768|WATER
 
 // Hoodies
 6774|NONE
 6776|NONE
 6778|NONE
 
+6780|NONE
+
 6782|NONE
 6784|NONE
 6786|NONE
+
+// Mega Growtoken
+6802|WIND
 
 // Trowels
 6826|NONE
 6828|NONE
 6830|NONE
 
+// Cultivators
+6832|NONE
+6834|NONE
+6836|NONE
+
+// Amber Resin
+6838|FIRE
+
+// Amber Necklace
+6844|NONE
+
 // Weather Machine - Digital Rain
 6854|WIND
+
+// 365-D Sub
+6862|EARTH

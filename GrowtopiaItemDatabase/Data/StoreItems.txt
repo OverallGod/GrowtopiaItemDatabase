@@ -27,8 +27,9 @@
 // Guild
 6238|STORE|GEM|5000|During Block Bashers guild event
 6244|STORE|GEM|5000|During Harvest Heroes guild event
-6250|STORE|GEM|5000|During Surgery Stars guild event
+6250|STORE|GEM|3500|During Surgery Stars guild event
 6256|STORE|GEM|5000|During Fishing Fanatics guild event
+6256|STORE|GEM|5000|During Speedy Splicers guild event
 
 // Weather Machines
 932|STORE|GEM|1000
@@ -67,6 +68,7 @@
 3166|STORE|GEM|100000
 3316|STORE|GEM|7000
 4992|STORE|GEM|450000
+6780|STORE|GEM|30000
 
 //Tokens
 3804|STORE|TOKEN|5
@@ -91,7 +93,9 @@
 
 // Paw, Mod items
 698|STORE|TOKEN|200
-1444|STORE|TOKEN|2000
+1444|STORE|TOKEN|200
+1440|STORE|TOKEN|200
+820|STORE|TOKEN|200
 
 // Door Pack
 12|STORE|GEM|15|From the Door & Sign Hello Pack
@@ -562,6 +566,13 @@
 6538|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
 6540|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
 6416|STORE|GEM|25000|From the Galactic Goodies (25 inside)
+
+// Contact Lens
+6760|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
+6762|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
+6764|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
+6766|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
+6768|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
 
 //IOTM
 6338|STORE|GEM|200000|Item Of The Month for July 2018
