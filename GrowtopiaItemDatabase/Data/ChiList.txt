@@ -5264,8 +5264,25 @@
 6784|NONE
 6786|NONE
 
+// French Maid Dress
+6792|NONE
+
+// Twintail Hair
+6794|NONE
+
+// Growmoji Face Mask
+6798|NONE
+
 // Mega Growtoken
 6802|WIND
+
+// Violin
+6808|WIND
+6810|WIND
+6812|WIND
+
+// Nightwings
+6818|NONE
 
 // Trowels
 6826|NONE
@@ -5280,11 +5297,20 @@
 // Amber Resin
 6838|FIRE
 
+// Raven Wings
+6842|NONE
+
 // Amber Necklace
 6844|NONE
 
+// Ring of Nature
+6846|NONE
+
 // Weather Machine - Digital Rain
 6854|WIND
+
+// 14-D Sub
+6858|EARTH
 
 // 365-D Sub
 6862|EARTH

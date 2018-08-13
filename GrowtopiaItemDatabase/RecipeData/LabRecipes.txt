@@ -191,7 +191,7 @@
 ////
 
 6786|MIX|6342|1|922|5|4444|5
-6838|MIX|5772|1|5808|1|6370|1
+6798|MIX|5772|1|5808|1|6370|1
 
 // Harvest Festival
 //Songpyeon = 1056|Prosperity = 1098|Longevity = 1096|Harmony = 1058|Peace = 1094

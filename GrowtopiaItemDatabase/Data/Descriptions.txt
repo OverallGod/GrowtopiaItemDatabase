@@ -9926,8 +9926,23 @@
 // Peplum Top
 6788|A cute color for an even cuter Growtopian!
 
+// French Maid Dress
+6792|Ooh la la! Grab your feather duster and put on your best French accent, because this dress is made to impress! Oui, mademoiselle!
+
+// Twintail Hair
+6794|When one tail o' hair just won't do, try doubling up with these twins! Your locks never looked so good!
+
+// Growmoji Face Mask
+6798|When you're tired of using all those crazy facial muscles, this mask is here to help! Hide your tired human face with this reliable, totally-not-creepy one instead!
+
 // Mega Growtoken
 6802|Now you're talking! This is worth 100 growtokens! Double-tab this in your inventory to break it back down into 100 growtokens. Spend them in the store on special items! Try dialing 12345 or 53785 on your Telephone for details!
+
+// Violin
+6808|Maestro! This sheet will play a violin note for you, as along as you aren't in range of a boombox. Put it in different places for different pitches!
+
+// Nightwings
+6818|Wrap yourself in harrowing darkness and take to the skies! These wings are spun from midnight shadows, harvested from those with a touch of the starry void in their souls - dare you wear them?
 
 // Crystal Shard Necklace
 6820|Shimmering crystals and gems to adorn only the fanciest of necks! Strangely magnetic, these crystals must aplify the personal pull of those who wear them! Careful, though - these shards are sharp!
@@ -9937,14 +9952,28 @@
 6828|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Delicate version)! Use with care!
 6830|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version)! Use with care!
 
+// Cultivators
+6832|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected splices! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break! Use with care!
+6834|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected splices! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Delicate version)! Use with care!
+6836|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected splices! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version)! Use with care!
+
 // Amber Resin
 6838|Polished by eons, this ancient tree sap has hardened into a beautiful jewel! I wonder what you could do with it...
+
+// Raven Wings
+6842|CAW! Feathers dropped by a dark valkyrie have been collected and reforged to make these gorgeous wings. Richly dark with velvet tips, they'll cut through the skies and tickle your hands!
 
 // Amber Necklace
 6844|The ancient magic of this necklace calls back to the creatures of a long-lost age, bringing them closer to your world! Gives you a 5% chance of getting double fossils when smashing Fossil Rocks!
 
+// Ring of Nature
+6846|The call of the wild... in the palm of your hand! Wear this ring and enjoy a special bond with all things that grow! Gives you a 25% chance of speeding up the growth of seeds by 1% when planting or splicing!
+
 // Weather Machine - Digital Rain
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
+
+// 14-D Sub
+6858|Consume this fourteen full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
 
 // 365-D Sub
 6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
