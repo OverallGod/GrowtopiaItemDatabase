@@ -6787,8 +6787,8 @@
 6779|Punk Purple Hoodie Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6780|Dabstep Low Top Sneakers|999|NoSeed, Dropless|Clothing|29D8FF|F7B412|0|3600|Feet
 6781|Dabstep Low Top Sneakers Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6782|null_item6782|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|64FB0C|B76F38|0|31|None
-6783|null_item6782 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6782|Horns of Infinity|999|NoSeed, Dropless|Clothing|150A1F|56A1BF|0|3600|Hat
+6783|Horns of Infinity Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6784|Rhinestone Evening Dress|65|NoSeed, Dropless|Clothing|F3B883|E4DDD5|0|276575|Shirt
 6785|Rhinestone Evening Dress Seed|65|NoSeed|Seed|000000|000000|20|0|None
 6786|Plaid Skirt|999|NoSeed, Dropless|Clothing|821D12|494E69|0|3600|Pants
@@ -6805,8 +6805,8 @@
 6797|Braided Hair Seed|44|NoSeed|Seed|000000|000000|20|0|None
 6798|Growmoji Face Mask|999|NoSeed, Dropless, Foreground|Clothing|DDC48C|FFFFFF|0|3600|Face
 6799|Growmoji Face Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6800|null_item6800|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A310C7|E227A0|0|31|None
-6801|null_item6800 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6800|Pet Rock|999|NoSeed, Dropless|Clothing|808080|C8C8C8|0|90|Hand
+6801|Pet Rock Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6802|Mega Growtoken|999|NoSeed, Dropless, Untradable|Component|FFDB00|B6A61E|2|3600|None
 6803|Mega Growtoken Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6804|Bubble Gun|999|NoSeed, Dropless|Clothing|0083B2|3EC6F9|0|3600|Hand
@@ -6821,8 +6821,8 @@
 6813|Sheet Music: Flat Violin Seed|19|0|Seed|000000|000000|20|0|None
 6814|Bubblicious Hair|999|NoSeed, Dropless|Clothing|0293D6|A3DFFC|0|3600|Hair
 6815|Bubblicious Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6816|null_item6816|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6BC2F|4FCD7C|0|31|None
-6817|null_item6816 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6816|Fire Punk Hair|999|NoSeed, Dropless|Clothing|FF220E|FFDC1D|0|3600|Hair
+6817|Fire Punk Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6818|Nightwings|999|NoSeed, Dropless|Clothing|5E207C|15497F|0|3600|Back
 6819|Nightwings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6820|Crystal Shard Necklace|999|NoSeed, Dropless|Clothing|BACED2|FFD907|0|3600|Chest
@@ -6847,12 +6847,12 @@
 6839|Amber Resin Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6840|Dreamcatcher Staff|999|NoSeed, Dropless|Clothing|513839|F45D92|0|3600|Hand
 6841|Dreamcatcher Staff Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6842|null_item6842|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|39D87D|9EC812|0|31|None
-6843|null_item6842 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6842|Raven Wings|999|NoSeed, Dropless|Clothing|171340|3E3874|0|3600|Back
+6843|Raven Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6844|Amber Necklace|999|NoSeed, Dropless|Clothing|DE3605|FCC339|0|3600|Chest
 6845|Amber Necklace Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6846|null_item6846|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3EDE3D|710642|0|31|None
-6847|null_item6846 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6846|Ring of Nature|999|NoSeed, Dropless, Untradable|Clothing|FBD969|00D9D9|0|3600|Hand
+6847|Ring of Nature Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6848|Luminous Eyes|999|NoSeed, Dropless, Foreground|Clothing|C231C2|FF77FF|0|3600|Face
 6849|Luminous Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6850|null_item6850|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF6E1E|BC9129|0|31|None
