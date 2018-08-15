@@ -356,7 +356,37 @@
 5262|Neon Gum|Dazzle your friends as super funky neon lines course across your skin.|Party's over.
 5264|Neon Nerves|Let the dazzling commence!|I'm all dazzled out!
 5276|Celestial Lance|You're a demon slayer!|Seriously? Are you joking? You're totally joking!
+// Winterfest crowns
 5424|Winter Frost Bow|That is one cool looking bow, man!|You are no longer cool!
+5426|Cold Embrace!|The cold envelopes you! Fire does 50% less damage.|You're free from the cold.
+5456|Silver Shimmer Bow|Getting ready for the war!|
+5480|Rayman Fists!|Who needs arms when you have these?|Got your arms back.
+5648|Fleet of foot|Run like the wind!|Your feet are back on the ground!
+5650|Fleet of foot|Run like the wind!|Your feet are back on the ground!
+5754|Draconic Wings|Leap into the sky with Draconic magic!|No more magic for you!
+5984|Food: High Jump|Your feet spring to life.|Your feet shrink back to normal.
+6004|Spirit Form|You are one with your spirit animal!|Back to the realm of the living!
+6026|Whip of Truth|The truth is yours!|
+6058|Armed And Dangerous|You shoot bullets instead of punching!|You are disarmed.
+6086|Ghost Puncher|You can hurt ghosts!|You can't hurt ghosts.
+6144|Aurora!|These are some fine looking wings!
+6196|Saddled Up!|You're a tiny prancer!|No more prancing for you!
+6260|FEEL THE FORCE|The force is strong!|The Amulet is sad!
+6262|GIANTASTIC!|Phew, back to your normal size!|You suddenly feel a wave of vertigo!
+6284|Flame On!|Aural Flames surround you!|Flames extinguished!
+6294|Raptor Legs|Run like a dinosaur!|Millions of years have aged to your legs!
+6316|Food: Surgery XP|Gain 50% more XP from Surgery!|Your stomach's rumbling.
+6298|Smoog|Bareback Dragon riding!|Smoog is tired, night-night, sweet dreams!
+6338|Eye of the Tiger|Hear me roar!|Meee-oww!|Purrrrrr!
+6350|Phase Blaster|Phaser set to "punch"!|Battery at 0%
+6368|GREEZAK!|Gree-ak-gree-zak!|kaz-eerg-ka-eerg
+6372|Thrusters engaged!|I'm a rocket man!|What a rush!
+6376|MAGnificent!|What pretty lights you have!|Lights... fading!
+6694|Super Utility Wings!|Nooooo, you're back to normal!|The flying hero or the fly?
 6756|For Honor|Come forth my honor guard!|I return thee to thy realm!
 6758|Hoveration!|This cloak is amazing!|Back in the closet you go!
+6800|Geology Rocks!|Totally heavy, man!|Lighten up!
+6804|Lock 'n' Load|Come get sum!|
+6818|Night|Phew, the moonlight is back!|Where did the moonlight go?
 6844|Extra Fossils from fossil rocks...|Bontiful harvest!|Aw, no more bonus fossils.
+6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.

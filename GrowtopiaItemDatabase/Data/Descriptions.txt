@@ -1230,7 +1230,8 @@
 818|Rippling bands of dark energy carry you aloft. Sponsored by Ripply.
 
 // Seil's Magic Orbs
-820|Seil is some kind of evil wizard.
+//820|Seil is some kind of evil wizard.
+820|Dark orbs for a dark heart, these floating spheres still radiate evil from their long-lost master...
 
 // Water Bucket
 822|Splash it around to make things wet. It can also scoop up water, though there's a good chance you'll just spill it. Butterfingers.
@@ -2160,13 +2161,15 @@
 1438|This tool, made to honor Diichaan's service as a moderator, is worth more than the stuff you mine with it!
 
 // Evil Space Helmet
-1440|Zerkon commands a starship too small to actually board.
+//1440|Zerkon commands a starship too small to actually board.
+1440|Found in a teeny-tiny spaceship, this helmet is surprisingly normal-sized. What brave star traveler could have worn this?
 
 // Burning Face
 1442|Styx has a burning sensation.
 
 // Frosty Hair
-1444|Coldplay is cold.
+//1444|Coldplay is cold.
+1444|Brr! This shivering style is only for the coldest of the cold. Whoever created it must have been a chilly soul indeed - where could they be now?
 
 // Open Sign
 1446|You can punch this to switch it between Open and Closed! Let people know if you're around.
@@ -2226,7 +2229,8 @@
 1482|Tell time in Growtopia! This clock displays the current Growtopia Time for you.
 
 // Atomic Shadow Scythe
-1484|AtomicShadow might actually be evil.
+//1484|AtomicShadow might actually be evil.
+1484|So sharp it can slice atoms, this scythe is part shadow and all malice. The person to wield it must have been very, very evil.
 
 // Growtoken
 // Old Description - You can earn these from Crazy Jim and Sales-Man - try dialing 12345 or 53785 on your Telephone for details! Spend them in the store on special items!
@@ -9925,6 +9929,9 @@
 // Dabstep Low Top
 6780|Light up every footfall and move to a better beat with these dabulous shoes! When you're wearing these, the world is your dance floor!
 
+// Horns of Infinity
+6782|Ripped from the endless gulf between the stars, these wisted horns still carry a touch of hyperspace! They'll accelerate you into the great beyond, but just remember - when you stare into the void... the void stares back!
+
 // Rhinestone Evening Dress
 6784|All eyes will be on you when you stride into the ballroom in this vintage dress! It sparkles and shines like a constellation, setting you among the stars!
 
@@ -9933,6 +9940,9 @@
 
 // Peplum Top
 6788|A cute color for an even cuter Growtopian!
+
+// Stripy Jumpsuit
+6790|They say stripes are slimming, but nobody ever mentioned how good they look on you!
 
 // French Maid Dress
 6792|Ooh la la! Grab your feather duster and put on your best French accent, because this dress is made to impress! Oui, mademoiselle!
@@ -9946,14 +9956,32 @@
 // Mega Growtoken
 6802|Now you're talking! This is worth 100 growtokens! Double-tab this in your inventory to break it back down into 100 growtokens. Spend them in the store on special items! Try dialing 12345 or 53785 on your Telephone for details!
 
+// Bubble Gun
+6804|Pop! Pop! Bring a boatload of bubbles to any occasion with this poppin' fresh firearm!
+
+// Oink-Oink Nose
+6806|Got a nose for food? Or is it truffles? Either way, for those who need to show the world their piggy powers, this nose knows best!
+
 // Violin
 6808|Maestro! This sheet will play a violin note for you, as along as you aren't in range of a boombox. Put it in different places for different pitches!
+
+// Bubblicious Hair
+6814|Dying for that fresh-out-of-the-bubble-bath look? Well, die no more! Top your melon with these bodacious bubbles and LIVE! Whoever snagged this hairdo had to be quick so the bibbles wouldn't pop and super-chilly so they'd stay in place, all to bring it to you!
+
+// Fire Punk Hair
+6816|Are you fed up with the status quo? Want to burn the system and start anew? Then start with your hair! This sizzling style will show oyu're not just a thorn in the system - you're making anarchy look GOOD. Whoever snagged this hairdo had to be quick so the flames wouldn't go out and super-hot so they'd stay bright, all to bring it to you!
 
 // Nightwings
 6818|Wrap yourself in harrowing darkness and take to the skies! These wings are spun from midnight shadows, harvested from those with a touch of the starry void in their souls - dare you wear them?
 
 // Crystal Shard Necklace
 6820|Shimmering crystals and gems to adorn only the fanciest of necks! Strangely magnetic, these crystals must aplify the personal pull of those who wear them! Careful, though - these shards are sharp!
+
+// Growmoji Party
+6822|Slide a pizza slice into your chat! Mmm, just like mom used to make! Just consume this to add it to your available growmojis!
+
+// Growmoji Pizza
+6824|Don't be a party pooper - pop a party vibe into your chat! Just consume this to add it to your available growmojs!
 
 // Trowels
 6826|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break! Use with care!
@@ -9968,6 +9996,9 @@
 // Amber Resin
 6838|Polished by eons, this ancient tree sap has hardened into a beautiful jewel! I wonder what you could do with it...
 
+// Dreamcatcher
+6840|Empowered by bountiful spirits from the Other Side, this delicate dreamcatcher will grant its wielder clear skies... and 2% chance of getting extra blocks from harvesting trees!
+
 // Raven Wings
 6842|CAW! Feathers dropped by a dark valkyrie have been collected and reforged to make these gorgeous wings. Richly dark with velvet tips, they'll cut through the skies and tickle your hands!
 
@@ -9977,11 +10008,22 @@
 // Ring of Nature
 6846|The call of the wild... in the palm of your hand! Wear this ring and enjoy a special bond with all things that grow! Gives you a 25% chance of speeding up the growth of seeds by 1% when planting or splicing!
 
+// Luminous Eyes
+6848|My, what crazy eyes you have! Besides looking amazing, these pristine peepers give you a bonus 2.5% chance of finding crystals using a Geiger Counter!
+
+// null_items
+//6850
+//6852
+
 // Weather Machine - Digital Rain
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
 
+// 3-D Sub
+
 // 14-D Sub
 6858|Consume this fourteen full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
+
+// 30-D Sub
 
 // 365-D Sub
 6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
