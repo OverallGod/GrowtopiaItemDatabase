@@ -377,16 +377,19 @@
 6294|Raptor Legs|Run like a dinosaur!|Millions of years have aged to your legs!
 6316|Food: Surgery XP|Gain 50% more XP from Surgery!|Your stomach's rumbling.
 6298|Smoog|Bareback Dragon riding!|Smoog is tired, night-night, sweet dreams!
+6310|Mouthfull of Seeds|Spit seeds at your enemies.|Your mouth is free again.
 6338|Eye of the Tiger|Hear me roar!|Meee-oww!|Purrrrrr!
 6350|Phase Blaster|Phaser set to "punch"!|Battery at 0%
 6368|GREEZAK!|Gree-ak-gree-zak!|kaz-eerg-ka-eerg
 6372|Thrusters engaged!|I'm a rocket man!|What a rush!
 6376|MAGnificent!|What pretty lights you have!|Lights... fading!
 6694|Super Utility Wings!|Nooooo, you're back to normal!|The flying hero or the fly?
+6754|Acorns!|Nuts overload!|These acorns taste too good to throw away!
 6756|For Honor|Come forth my honor guard!|I return thee to thy realm!
 6758|Hoveration!|This cloak is amazing!|Back in the closet you go!
 6800|Geology Rocks!|Totally heavy, man!|Lighten up!
 6804|Lock 'n' Load|Come get sum!|
 6818|Night|Phew, the moonlight is back!|Where did the moonlight go?
+6842|Caw Caw!|Protect the crown jewels!|Where did my wings go?
 6844|Extra Fossils from fossil rocks...|Bontiful harvest!|Aw, no more bonus fossils.
 6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.

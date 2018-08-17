@@ -9950,8 +9950,14 @@
 // Twintail Hair
 6794|When one tail o' hair just won't do, try doubling up with these twins! Your locks never looked so good!
 
+// Braided Hair
+6796|As bright, fresh, and braided as a fine pastry, this hair doesn't just look stylish - it also looks DELICIOUS.
+
 // Growmoji Face Mask
 6798|When you're tired of using all those crazy facial muscles, this mask is here to help! Hide your tired human face with this reliable, totally-not-creepy one instead!
+
+// Pet Rock
+6800|Brought to you by popular demand, meet the most playful, incredibly popular, and astonishingly amazing friend for all Growtopians... A ROCK! All sales final.
 
 // Mega Growtoken
 6802|Now you're talking! This is worth 100 growtokens! Double-tab this in your inventory to break it back down into 100 growtokens. Spend them in the store on special items! Try dialing 12345 or 53785 on your Telephone for details!
@@ -9964,6 +9970,12 @@
 
 // Violin
 6808|Maestro! This sheet will play a violin note for you, as along as you aren't in range of a boombox. Put it in different places for different pitches!
+
+// Flat Violin
+6810|Maestro! This sheet will play a violin note for you - a half-step higher note than Sheet Music: Violin Note - as along as you aren't in range of a boombox. Put it in different places for different pitches!
+
+// Sharp Violin
+6812|Maestro! This sheet will play a violin note for you - a half-step lower note than Sheet Music: Violin Note - as along as you aren't in range of a boombox. Put it in different places for different pitches!
 
 // Bubblicious Hair
 6814|Dying for that fresh-out-of-the-bubble-bath look? Well, die no more! Top your melon with these bodacious bubbles and LIVE! Whoever snagged this hairdo had to be quick so the bibbles wouldn't pop and super-chilly so they'd stay in place, all to bring it to you!
@@ -10019,11 +10031,13 @@
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
 
 // 3-D Sub
+6858|Consume this three full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
 
 // 14-D Sub
 6858|Consume this fourteen full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
 
 // 30-D Sub
+6860|Consume this for thirty full days of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, and a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
 
 // 365-D Sub
 6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
