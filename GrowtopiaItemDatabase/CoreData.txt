@@ -6341,8 +6341,8 @@
 6333|Flaming Feathers Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6334|Danieldd's Chimera Wings|999|NoSeed, Dropless|Clothing|FC8E00|FFF7D7|0|3600|Back
 6335|Danieldd's Chimera Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6336|null_item6336|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB931F|E27B4C|0|31|None
-6337|null_item6336 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6336|Growpedia|999|NoSeed, Dropless, Untradable|Consummable|9A6B42|B27642|4|3600|None
+6337|Growpedia Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6338|Mighty Tiger|999|NoSeed, Dropless|Clothing|F17E29|662F06|0|3600|Feet
 6339|Mighty Tiger Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6340|Startopian Empire - Uniform Pants|999|NoSeed, Dropless|Clothing|1F1D1D|A5A5A5|0|3600|Pants
@@ -6855,10 +6855,10 @@
 6847|Ring of Nature Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6848|Luminous Eyes|999|NoSeed, Dropless, Foreground|Clothing|C231C2|FF77FF|0|3600|Face
 6849|Luminous Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6850|null_item6850|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF6E1E|BC9129|0|31|None
-6851|null_item6850 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6852|null_item6852|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AF2166|32F91A|0|31|None
-6853|null_item6852 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6850|Tutorial Exit Door|1|Wrenchable, Mod|Door|9A6B38|FFD11D|5|31|None
+6851|Tutorial Exit Door Seed|1|Mod|Seed|000000|000000|20|0|None
+6852|Tutorial Regen Block|1|NoSeed, Dropless, Public|Foreground_Block|8E5423|DFBC00|3|31|None
+6853|Tutorial Regen Block Seed|1|NoSeed|Seed|000000|000000|20|0|None
 6854|Weather Machine - Digital Rain|999|Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Weather_Machine_S1|15AC16|9FECFD|10|3600|None
 6855|Weather Machine - Digital Rain Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6856|3-Day Free Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
@@ -6869,3 +6869,5 @@
 6861|30-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6862|365-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
 6863|365-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6864|Tutorial Regen BG|1|NoSeed, Dropless, Mod|Background_Block|8E5423|DFBC00|2|31|None
+6865|Tutorial Regen BG Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
