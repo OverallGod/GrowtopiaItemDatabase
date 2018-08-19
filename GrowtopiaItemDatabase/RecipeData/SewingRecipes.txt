@@ -72,6 +72,8 @@
 6770|SEW|Blue|Blue|Saddle|Purple|Locking
 
 // Hoodies
+6774|SEW|Red|Red|Straight|Red|Overcasting
+6776|SEW|Blue|Blue|TripleStretch|Blue|Blind
 6778|SEW|Purple|Purple|Locking|Purple|Zigzag
 
 //Misc

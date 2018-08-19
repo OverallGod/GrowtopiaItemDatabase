@@ -9450,7 +9450,8 @@
 // DD Chimera Wings
 6334|Forged from bladed feathers of flame and fury, these wings will let you tear through the skies with the might of the chimera! Sponsored by Danieldd!
 
-// null_item6336
+// Growpedia
+6336|A helpful tool to guide you on your way! Use this to see your quests - oh, and welcome to Growtopia!
 
 // Mighty Tiger
 6338|The terror of dark jungles and rustling fields has been tamed! This awesome beast comes to you from distant lands, willing to lend its primal might - and incredible stride - to your efforts! Rise up to the challenge of your rivals with your new feline friend!
@@ -10031,7 +10032,7 @@
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
 
 // 3-D Sub
-6858|Consume this three full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
+6856|Consume this three full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!
 
 // 14-D Sub
 6858|Consume this fourteen full days of special treatment! You'll get a chance of doubling any XP earned, 10 season tokens (as long as there's a seasonal clash running), and 100 gems every day!

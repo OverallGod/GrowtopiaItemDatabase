@@ -578,5 +578,9 @@
 6338|STORE|GEM|200000|Item Of The Month for July 2018
 6758|STORE|GEM|200000|Item Of The Month for August 2018
 
+// Halloween
+1180|STORE|GEM|40000|Only during Halloween.
+4184|STORE|GEM|150000|Only during Halloween.
+
 //Other
 3144|STORE|GEM|200000|During Night of the Comet
