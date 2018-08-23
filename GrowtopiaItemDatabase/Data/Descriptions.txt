@@ -10045,4 +10045,3 @@
 
 // Growtorial Entrance
 7066|It's like a wall, except you can choose to let your friends come in! Only usable in the Growtorial!
-7066
