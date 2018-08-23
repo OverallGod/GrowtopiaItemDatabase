@@ -10042,3 +10042,7 @@
 
 // 365-D Sub
 6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
+
+// Growtorial Entrance
+7066|It's like a wall, except you can choose to let your friends come in! Only usable in the Growtorial!
+7066

@@ -69,5 +69,5 @@
 // French Maid Dress
 6792|DROP|6164|6166|6158
 
-// Starship Porthole
+// Violin Notes
 6808|DROP|6396
