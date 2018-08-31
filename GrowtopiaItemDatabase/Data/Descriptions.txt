@@ -5660,7 +5660,7 @@
 3764|For when lava just isn't hot enough!
 
 // Steam Crossover
-3766|This links up to other Steam blocks and can conduct steam power. It's actually 2 unconnected pipes - one runs from left to down, and the other runs from up to right. Use this to keep steam from going places you don't want!
+3766|This links up to other Steam blocks and can conduct steam power. When punched, this pipe rotates between horizontal and vertical. Use your wrench to decide whether to allow the public to adject it.
 
 // Steam Crank
 3768|This links up to other Steam blocks and can conduct steam power. It's actually 2 unconnected pipes - one runs from left to down, and the other runs from up to right. Use this to keep steam from going places you don't want!
@@ -9979,7 +9979,7 @@
 6812|Maestro! This sheet will play a violin note for you - a half-step lower note than Sheet Music: Violin Note - as along as you aren't in range of a boombox. Put it in different places for different pitches!
 
 // Bubblicious Hair
-6814|Dying for that fresh-out-of-the-bubble-bath look? Well, die no more! Top your melon with these bodacious bubbles and LIVE! Whoever snagged this hairdo had to be quick so the bibbles wouldn't pop and super-chilly so they'd stay in place, all to bring it to you!
+6814|Dying for that fresh-out-of-the-bubble-bath look? Well, die no more! Top your melon with these bodacious bubbles and LIVE! Whoever snagged this hairdo had to be quick so the bubbles wouldn't pop and super-chilly so they'd stay in place, all to bring it to you!
 
 // Fire Punk Hair
 6816|Are you fed up with the status quo? Want to burn the system and start anew? Then start with your hair! This sizzling style will show oyu're not just a thorn in the system - you're making anarchy look GOOD. Whoever snagged this hairdo had to be quick so the flames wouldn't go out and super-hot so they'd stay bright, all to bring it to you!
