@@ -6021,7 +6021,7 @@
 6013|Dumb Leader Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
 6014|WOTD Trophy 2018|999|Permanent, AutoPickup|Foreground_Block|FFB007|CDCE0B|10|3600|None
 6015|WOTD Trophy 2018 Seed|999|0|Seed|000000|000000|20|0|None
-6016|GrowScan 9000|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Unknown|D1D8E6|009CE0|10|3600|None
+6016|GrowScan 9000|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Stats_Block|D1D8E6|009CE0|10|3600|None
 6017|GrowScan 9000 Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6018|Element - Earth|999|NoSeed, Dropless, Mod, Untradable|Component|1DBD00|21E000|10|3600|None
 6019|Element - Earth Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
@@ -6065,9 +6065,9 @@
 6057|Bandolier Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6058|Dual Six-Shooters|999|NoSeed, Dropless, NoSelf|Clothing|2B2B2B|5A4932|0|3600|Hand
 6059|Dual Six-Shooters Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6060|Dark Spirit Board|999|Wrenchable, NoSeed, Dropless, WorldLock|Unknown|181818|784D7B|10|3600|None
+6060|Dark Spirit Board|999|Wrenchable, NoSeed, Dropless, WorldLock|Ouija_Board|181818|784D7B|10|3600|None
 6061|Dark Spirit Board Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6062|Spirit Board|53|Wrenchable|Unknown|7B6750|C9A26F|10|150467|None
+6062|Spirit Board|53|Wrenchable|Ouija_Board|7B6750|C9A26F|10|150467|None
 6063|Spirit Board Seed|53|0|Seed|000000|000000|20|0|None
 6064|Spirit Guide|999|NoSeed, Dropless, Foreground|Clothing|9B56C7|CDA9E4|0|3600|Chest
 6065|Spirit Guide Seed|999|NoSeed|Seed|000000|000000|20|0|None
@@ -6089,7 +6089,7 @@
 6081|Mind-Ghost-In-A-Jar Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6082|Ghost Trap|74|0|Consummable|292929|D6CC57|2|407444|None
 6083|Ghost Trap Seed|74|0|Seed|000000|000000|20|0|None
-6084|Containment Field Power Node|999|NoSeed, Dropless|Unknown|292929|D6CC57|15|3600|None
+6084|Containment Field Power Node|999|NoSeed, Dropless|Field_Node|292929|D6CC57|15|3600|None
 6085|Containment Field Power Node Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6086|Neutron Power Glove|999|NoSeed, Dropless|Clothing|292929|D6CC57|0|3600|Hand
 6087|Neutron Power Glove Seed|999|NoSeed|Seed|000000|000000|20|0|None
@@ -6287,7 +6287,7 @@
 6279|Growmoji Evil Devil Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6280|Weather Machine - Guild|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Weather_Machine_S2|2F5567|FFCE0B|12|3600|None
 6281|Weather Machine - Guild Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6282|World Architect|999|MultiFacing, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Unknown|003663|C7B299|20|3600|None
+6282|World Architect|999|MultiFacing, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Architect_Machine|003663|C7B299|20|3600|None
 6283|World Architect Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6284|Flaming Aura|999|NoSeed, Dropless|Clothing|FFD907|DB0E00|0|3600|Back
 6285|Flaming Aura Seed|999|NoSeed|Seed|000000|000000|20|0|None
@@ -6433,95 +6433,95 @@
 6425|Greezak Starship Blast Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6426|Starship Sickbay Bed|999|MultiFacing, NoSeed, Dropless|Foreground_Block|CFB17E|32C39A|7|3600|None
 6427|Starship Sickbay Bed Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6428|Imperial Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|B1B1B1|0054A6|12|3600|None
+6428|Imperial Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Starship|B1B1B1|0054A6|12|3600|None
 6429|Imperial Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6430|Imperial Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6430|Imperial Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|B1B1B1|0054A6|12|3600|None
 6431|Imperial Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6432|Imperial Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6432|Imperial Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|B1B1B1|0054A6|12|3600|None
 6433|Imperial Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6434|Imperial Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|585858|0072BC|12|3600|None
+6434|Imperial Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Starship|585858|0072BC|12|3600|None
 6435|Imperial Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6436|Imperial Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|585858|0072BC|12|3600|None
+6436|Imperial Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|585858|0072BC|12|3600|None
 6437|Imperial Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6438|Imperial Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|585858|0072BC|12|3600|None
+6438|Imperial Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|585858|0072BC|12|3600|None
 6439|Imperial Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6440|Imperial Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Unknown|B1B1B1|0054A6|12|3600|None
+6440|Imperial Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Permanent, Dropless, AutoPickup|Starship|B1B1B1|0054A6|12|3600|None
 6441|Imperial Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6442|Imperial Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6442|Imperial Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|B1B1B1|0054A6|12|3600|None
 6443|Imperial Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6444|Imperial Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|B1B1B1|0054A6|12|3600|None
+6444|Imperial Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|B1B1B1|0054A6|12|3600|None
 6445|Imperial Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6446|Stellarix Union Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6446|Stellarix Union Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6447|Stellarix Union Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6448|Stellarix Union Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6448|Stellarix Union Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6449|Stellarix Union Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6450|Stellarix Union Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6450|Stellarix Union Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6451|Stellarix Union Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6452|Stellarix Union Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6452|Stellarix Union Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Starship|284630|BE5416|12|3600|None
 6453|Stellarix Union Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6454|Stellarix Union Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6454|Stellarix Union Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Starship|284630|BE5416|12|3600|None
 6455|Stellarix Union Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6456|Stellarix Union Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Unknown|284630|BE5416|12|3600|None
+6456|Stellarix Union Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Starship|284630|BE5416|12|3600|None
 6457|Stellarix Union Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6458|Stellarix Union Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6458|Stellarix Union Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6459|Stellarix Union Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6460|Stellarix Union Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6460|Stellarix Union Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6461|Stellarix Union Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6462|Stellarix Union Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|427450|DD590B|12|3600|None
+6462|Stellarix Union Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|427450|DD590B|12|3600|None
 6463|Stellarix Union Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6464|Greezak Horde Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6464|Greezak Horde Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6465|Greezak Horde Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6466|Greezak Horde Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6466|Greezak Horde Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6467|Greezak Horde Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6468|Greezak Horde Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6468|Greezak Horde Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6469|Greezak Horde Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6470|Greezak Horde Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6470|Greezak Horde Starship Reactor - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|9DD548|12|3600|None
 6471|Greezak Horde Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6472|Greezak Horde Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6472|Greezak Horde Starship Reactor - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|9DD548|12|3600|None
 6473|Greezak Horde Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6474|Greezak Horde Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|9DD548|12|3600|None
+6474|Greezak Horde Starship Reactor - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|9DD548|12|3600|None
 6475|Greezak Horde Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6476|Greezak Horde Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6476|Greezak Horde Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6477|Greezak Horde Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6478|Greezak Horde Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6478|Greezak Horde Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6479|Greezak Horde Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6480|Greezak Horde Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|6C4877|87C429|12|3600|None
+6480|Greezak Horde Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|6C4877|87C429|12|3600|None
 6481|Greezak Horde Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6482|HyperTech Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6482|HyperTech Starship Helm - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6483|HyperTech Starship Helm - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6484|HyperTech Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6484|HyperTech Starship Helm - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6485|HyperTech Starship Helm - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6486|HyperTech Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6486|HyperTech Starship Helm - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6487|HyperTech Starship Helm - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6488|HyperTech Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6488|HyperTech Starship Reactor - Mk.I|999|Wrenchable, NoSeed, Dropless|Starship|5B1621|FFF738|12|3600|None
 6489|HyperTech Starship Reactor - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6490|HyperTech Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6490|HyperTech Starship Reactor - Mk.II|999|Wrenchable, NoSeed, Dropless|Starship|5B1621|FFF738|12|3600|None
 6491|HyperTech Starship Reactor - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6492|HyperTech Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Unknown|5B1621|FFF738|12|3600|None
+6492|HyperTech Starship Reactor - Mk.III|999|Wrenchable, NoSeed, Dropless|Starship|5B1621|FFF738|12|3600|None
 6493|HyperTech Starship Reactor - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6494|HyperTech Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6494|HyperTech Starship Viewscreen - Mk.I|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6495|HyperTech Starship Viewscreen - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6496|HyperTech Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6496|HyperTech Starship Viewscreen - Mk.II|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6497|HyperTech Starship Viewscreen - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6498|HyperTech Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Unknown|922334|E8CA38|12|3600|None
+6498|HyperTech Starship Viewscreen - Mk.III|999|MultiFacing, Wrenchable, NoSeed, Dropless|Starship|922334|E8CA38|12|3600|None
 6499|HyperTech Starship Viewscreen - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6500|Bastion Tactical Console - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6500|Bastion Tactical Console - Mk.I|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|BABABA|12|3600|None
 6501|Bastion Tactical Console - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6502|Bastion Tactical Console - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6502|Bastion Tactical Console - Mk.II|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|8AA9D2|12|3600|None
 6503|Bastion Tactical Console - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6504|Bastion Tactical Console - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6504|Bastion Tactical Console - Mk.III|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|E78C80|12|3600|None
 6505|Bastion Tactical Console - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6506|Oracle Science Station - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6506|Oracle Science Station - Mk.I|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|BABABA|12|3600|None
 6507|Oracle Science Station - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6508|Oracle Science Station - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6508|Oracle Science Station - Mk.II|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|8AA9D2|12|3600|None
 6509|Oracle Science Station - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6510|Oracle Science Station - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6510|Oracle Science Station - Mk.III|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|E78C80|12|3600|None
 6511|Oracle Science Station - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6512|Vitahope Life Support System - Mk.I|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|BABABA|12|3600|None
+6512|Vitahope Life Support System - Mk.I|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|BABABA|12|3600|None
 6513|Vitahope Life Support System - Mk.I Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6514|Vitahope Life Support System - Mk.II|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|8AA9D2|12|3600|None
+6514|Vitahope Life Support System - Mk.II|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|8AA9D2|12|3600|None
 6515|Vitahope Life Support System - Mk.II Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6516|Vitahope Life Support System - Mk.III|999|MultiFacing, NoSeed, Dropless|Unknown|DBCF7A|E78C80|12|3600|None
+6516|Vitahope Life Support System - Mk.III|999|MultiFacing, NoSeed, Dropless|Starship|DBCF7A|E78C80|12|3600|None
 6517|Vitahope Life Support System - Mk.III Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6518|HyperShields|87|RandomGrow|Component|133B4D|158EB3|4|661113|None
 6519|HyperShields Seed|87|RandomGrow|Seed|000000|000000|20|0|None
@@ -6871,36 +6871,36 @@
 6863|365-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6864|Tutorial Regen BG|1|NoSeed, Dropless, Mod|Background_Block|8E5423|DFBC00|2|31|None
 6865|Tutorial Regen BG Seed|1|NoSeed, Mod|Seed|000000|000000|20|0|None
-6866|null_item6866|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BAED13|E27619|0|31|None
-6867|null_item6866 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6868|null_item6868|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B75851|D25843|0|31|None
-6869|null_item6868 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6870|null_item6870|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|9CF311|6FDE34|0|31|None
-6871|null_item6870 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6872|null_item6872|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DB1A06|1DBC4D|0|31|None
-6873|null_item6872 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6874|null_item6874|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F80AB4|B35648|0|31|None
-6875|null_item6874 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6876|null_item6876|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|83CA40|E54752|0|31|None
-6877|null_item6876 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6878|null_item6878|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|44C36E|29CD3C|0|31|None
-6879|null_item6878 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6880|null_item6880|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DE087D|31EF64|0|31|None
-6881|null_item6880 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6882|null_item6882|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CB25AE|B73A81|0|31|None
-6883|null_item6882 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6884|null_item6884|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|6C2132|FA2F37|0|31|None
-6885|null_item6884 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6886|null_item6886|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D0914D|EC5412|0|31|None
-6887|null_item6886 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6888|null_item6888|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B83F5D|43EF47|0|31|None
-6889|null_item6888 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6890|null_item6890|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BB9239|B18B52|0|31|None
-6891|null_item6890 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6892|null_item6892|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|2FBE39|26BE55|0|31|None
-6893|null_item6892 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6894|null_item6894|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D56B60|D95085|0|31|None
-6895|null_item6894 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6866|Raw Gauntlet of Elements|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6867|Raw Gauntlet of Elements Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6868|Gauntlet of Elements - Tier I|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6869|Gauntlet of Elements - Tier I Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6870|Gauntlet of Elements - Tier II|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6871|Gauntlet of Elements - Tier II Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6872|Gauntlet of Elements - Tier III|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6873|Gauntlet of Elements - Tier III Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6874|Gauntlet of Elements - Tier IV|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6875|Gauntlet of Elements - Tier IV Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6876|Gauntlet of Elements - Tier V|999|NoSeed, Dropless, Untradable|Clothing|82595D|FCBD00|0|3600|Hand
+6877|Gauntlet of Elements - Tier V Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6878|Exquisite Gauntlet of Elements|999|NoSeed, Dropless, Untradable|Clothing|8C00B4|FCBD00|0|3600|Hand
+6879|Exquisite Gauntlet of Elements Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6880|Life Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6881|Life Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6882|Wind Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6883|Wind Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6884|Death Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6885|Death Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6886|Fire Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6887|Fire Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6888|Water Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6889|Water Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6890|Earth Stone|999|NoSeed, Dropless, Untradable|Consummable|951BB7|D35FF3|9|3600|None
+6891|Earth Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6892|Sorcerer's Tunic of Mystery|999|NoSeed, Dropless|Clothing|BC8D00|FCBD00|0|3600|Shirt
+6893|Sorcerer's Tunic of Mystery Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6894|Growmoji Clapping Hands|999|NoSeed, Dropless|Consummable|2076A0|DDC48C|5|3600|None
+6895|Growmoji Clapping Hands Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6896|null_item6896|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B68979|AF7664|0|31|None
 6897|null_item6896 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6898|null_item6898|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CD646D|75C589|0|31|None
