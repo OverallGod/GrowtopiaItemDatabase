@@ -29,7 +29,8 @@
 6244|STORE|GEM|5000|During Harvest Heroes guild event
 6250|STORE|GEM|3500|During Surgery Stars guild event
 6256|STORE|GEM|5000|During Fishing Fanatics guild event
-6256|STORE|GEM|5000|During Speedy Splicers guild event
+6828|STORE|GEM|5000|During Block Builders guild event
+6834|STORE|GEM|5000|During Speedy Splicers guild event
 
 // Weather Machines
 932|STORE|GEM|1000
@@ -550,22 +551,22 @@
 5802|STORE|GEM|15000|From the CyBot Pack (Random CyBot)
 
 // Guild Chest Pack
-5954|STORE|GEM|15000|From the Guild Chest Pack (10 inside)
+5954|STORE|GEM|20000|From the Guild Chest Pack (10 inside)
 
 // Galactic Goodies
-6518|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6520|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6522|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6524|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6526|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6528|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6530|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6532|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6534|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6536|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6538|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6540|STORE|GEM|25000|From the Galactic Goodies (5 of each tool)
-6416|STORE|GEM|25000|From the Galactic Goodies (25 inside)
+6518|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6520|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6522|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6524|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6526|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6528|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6530|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6532|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6534|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6536|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6538|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6540|STORE|GEM|15000|From the Galactic Goodies (5 of each tool)
+6416|STORE|GEM|15000|From the Galactic Goodies (25 inside)
 
 // Contact Lens
 6760|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
@@ -575,8 +576,31 @@
 6768|STORE|GEM|15000|From the Contact Lens Pack. (Random 10 lenses)
 
 //IOTM
+4534|STORE|GEM|100000|Item Of The Month for March 2017
+4590|STORE|GEM|100000|Item Of The Month for April 2017
+4628|STORE|GEM|100000|Item Of The Month for May 2017
+
+4746|STORE|GEM|100000|Item Of The Month for June 2017
+4748|STORE|GEM|100000|Item Of The Month for June 2017
+4750|STORE|GEM|100000|Item Of The Month for June 2017
+
+4802|STORE|GEM|200000|Item Of The Month for July 2017
+4988|STORE|GEM|200000|Item Of The Month for August 2017
+5020|STORE|GEM|200000|Item Of The Month for September 2017
+5088|STORE|GEM|200000|Item Of The Month for October 2017
+5206|STORE|GEM|200000|Item Of The Month for November 2017
+5322|STORE|GEM|200000|Item Of The Month for December 2017
+5318|STORE|GEM|200000|Item Of The Month for December 2017
+
+5480|STORE|GEM|200000|Item Of The Month for January 2018
+5638|STORE|GEM|200000|Item Of The Month for February 2018
+5712|STORE|GEM|200000|Item Of The Month for March 2018
+5958|STORE|GEM|200000|Item Of The Month for April 2018
+6016|STORE|GEM|200000|Item Of The Month for May 2018
+6294|STORE|GEM|200000|Item Of The Month for June 2018
 6338|STORE|GEM|200000|Item Of The Month for July 2018
 6758|STORE|GEM|200000|Item Of The Month for August 2018
+6892|STORE|GEM|200000|Item Of The Month for September 2018
 
 // Halloween
 1180|STORE|GEM|40000|Only during Halloween.

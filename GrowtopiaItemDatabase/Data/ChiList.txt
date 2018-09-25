@@ -5337,3 +5337,50 @@
 6886|FIRE
 6888|WATER
 6890|EARTH
+
+// Beat Root
+6956|EARTH
+6958|EARTH
+
+// Bio-Waste
+6970|EARTH
+
+// Primordial
+6988|EARTH
+6990|EARTH
+
+// Mengu Koi
+7022|NONE
+
+// Kimonos
+7030|NONE
+
+// Ornamental Hair
+7032|NONE
+
+// Master Sensei's White Eyebrows
+7042|NONE
+
+// Jade Axe
+7044|NONE
+
+// Cherry Blossom
+7046|EARTH
+
+// Jade Spikes
+7048|EARTH
+
+// Coconut
+7050|EARTH
+
+// Coconut Milk
+7054|EARTH
+
+// Coconut Tart
+7056|EARTH
+
+// Purity Mooncake
+7058|WIND
+
+// Growmoji Songpyeon
+7062|EARTH

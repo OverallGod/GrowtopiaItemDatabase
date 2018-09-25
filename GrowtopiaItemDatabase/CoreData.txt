@@ -6901,48 +6901,48 @@
 6893|Sorcerer's Tunic of Mystery Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6894|Growmoji Clapping Hands|999|NoSeed, Dropless|Consummable|2076A0|DDC48C|5|3600|None
 6895|Growmoji Clapping Hands Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6896|null_item6896|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B68979|AF7664|0|31|None
-6897|null_item6896 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6898|null_item6898|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CD646D|75C589|0|31|None
-6899|null_item6898 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6900|null_item6900|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CE3D34|90F120|0|31|None
-6901|null_item6900 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6902|null_item6902|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|3596B3|88DF23|0|31|None
-6903|null_item6902 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6904|null_item6904|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|86D43E|14BF48|0|31|None
-6905|null_item6904 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6906|null_item6906|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A89D2A|A57F4B|0|31|None
-6907|null_item6906 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6908|null_item6908|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|1FE171|EA1504|0|31|None
-6909|null_item6908 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6910|null_item6910|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E418A0|21E611|0|31|None
-6911|null_item6910 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6912|null_item6912|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CD3FA3|C3624B|0|31|None
-6913|null_item6912 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6914|null_item6914|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B122EC|F66352|0|31|None
-6915|null_item6914 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6916|null_item6916|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|22DD53|CC6F22|0|31|None
-6917|null_item6916 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6918|null_item6918|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|66E513|F24731|0|31|None
-6919|null_item6918 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6920|null_item6920|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|4990C2|0B939F|0|31|None
-6921|null_item6920 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6922|null_item6922|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|CC4E84|A4926B|0|31|None
-6923|null_item6922 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6924|null_item6924|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|ED6E4F|BB2239|0|31|None
-6925|null_item6924 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6926|null_item6926|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E3232B|9F9D85|0|31|None
-6927|null_item6926 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6928|null_item6928|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|7AD55D|56C809|0|31|None
-6929|null_item6928 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6930|null_item6930|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|74BB26|D96178|0|31|None
-6931|null_item6930 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6932|null_item6932|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|15F856|2AF26E|0|31|None
-6933|null_item6932 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6934|null_item6934|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|40CF8B|6EC364|0|31|None
-6935|null_item6934 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6936|null_item6936|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|1CC18C|18C335|0|31|None
-6937|null_item6936 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6896|Yellow Hardhat|999|NoSeed, Dropless, Untradable|Clothing|EBDD3B|D9B31F|0|3600|Hat
+6897|Yellow Hardhat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6898|Munchin' Straw|999|NoSeed, Dropless, Foreground, Untradable|Clothing|B58D2D|EDC76C|0|3600|Face
+6899|Munchin' Straw Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6900|EMT Jumpsuit|999|NoSeed, Dropless, Untradable|Clothing|214EAD|FFFA6D|0|3600|Shirt
+6901|EMT Jumpsuit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6902|Fishing Wader Boots|999|NoSeed, Dropless, Untradable|Clothing|6E763F|3E3E3E|0|3600|Feet
+6903|Fishing Wader Boots Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6904|Star Captain's Hat|999|NoSeed, Dropless, Untradable|Clothing|636363|D09400|0|3600|Hat
+6905|Star Captain's Hat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6906|Composer's Cookie|999|NoSeed, Dropless|Consummable|DFB159|252525|1|3600|None
+6907|Composer's Cookie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6908|Glutton's Gazpacho|999|NoSeed, Dropless|Consummable|E8E8E8|F36C4F|1|3600|None
+6909|Glutton's Gazpacho Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6910|Growlectables|999|NoSeed, Dropless|Consummable|E5A35A|6B5140|1|3600|None
+6911|Growlectables Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6912|Skill Spice|999|NoSeed, Dropless|Consummable|EFCA52|F66869|1|3600|None
+6913|Skill Spice Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6914|Gemonade|999|NoSeed, Dropless|Consummable|E6DD38|FFE700|1|3600|None
+6915|Gemonade Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6916|Flashback Flan|999|NoSeed, Dropless|Consummable|F7E576|B18D47|1|3600|None
+6917|Flashback Flan Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6918|Delicate Potion|999|NoSeed, Dropless|Consummable|93A8C6|D97E36|4|3600|None
+6919|Delicate Potion Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6920|Pristine Potion|999|NoSeed, Dropless|Consummable|93A8C6|F9C700|4|3600|None
+6921|Pristine Potion Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6922|Elegant Potion|999|NoSeed, Dropless|Consummable|93A8C6|7BB1C0|4|3600|None
+6923|Elegant Potion Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6924|Exquisite Potion|999|NoSeed, Dropless|Consummable|93A8C6|EBC922|4|3600|None
+6925|Exquisite Potion Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6926|Anomalizing Elegant Hammer|999|NoSeed, Dropless|Clothing|A41515|FF4F74|0|3600|Hand
+6927|Anomalizing Elegant Hammer Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6928|Anomalizing Elegant Scythe|999|NoSeed, Dropless|Clothing|A41515|FF4F74|0|3600|Hand
+6929|Anomalizing Elegant Scythe Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6930|Anomalizing Elegant Bone Saw|999|NoSeed, Dropless|Clothing|275485|E99282|0|3600|Hand
+6931|Anomalizing Elegant Bone Saw Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6932|Elegant Anomarod|999|NoSeed, Dropless|Clothing|68000D|275485|0|3600|Hand
+6933|Elegant Anomarod Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6934|Anomalizing Elegant Trowel|999|NoSeed, Dropless|Clothing|FF4F74|E6AD00|0|3600|Hand
+6935|Anomalizing Elegant Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6936|Anomalizing Elegant Cultivator|999|NoSeed, Dropless|Clothing|DD3357|CD8200|0|3600|Hand
+6937|Anomalizing Elegant Cultivator Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6938|null_item6938|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|03EC4B|C29D56|0|31|None
 6939|null_item6938 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6940|null_item6940|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|97FE09|B3955A|0|31|None
@@ -6951,82 +6951,82 @@
 6943|null_item6942 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6944|null_item6944|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E32772|E202C2|0|31|None
 6945|null_item6944 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6946|null_item6946|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|5DBAA5|DF0F6D|0|31|None
-6947|null_item6946 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6948|null_item6948|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D44473|E56A47|0|31|None
-6949|null_item6948 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6950|null_item6950|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|6DC17E|C23B60|0|31|None
-6951|null_item6950 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6952|null_item6952|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B75A99|4B8F1D|0|31|None
-6953|null_item6952 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6954|null_item6954|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|586C6D|F63137|0|31|None
-6955|null_item6954 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6956|null_item6956|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA4E42|4E8F7B|0|31|None
-6957|null_item6956 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6958|null_item6958|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC414C|02E138|0|31|None
-6959|null_item6958 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6960|null_item6960|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|9B22DA|D723BA|0|31|None
-6961|null_item6960 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6962|null_item6962|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C36A54|2AB488|0|31|None
-6963|null_item6962 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6964|null_item6964|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|12EB50|25E179|0|31|None
-6965|null_item6964 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6966|null_item6966|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|947249|7FD868|0|31|None
-6967|null_item6966 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6968|null_item6968|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|6CE92B|28DB50|0|31|None
-6969|null_item6968 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6970|null_item6970|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AA1EF5|C8992E|0|31|None
-6971|null_item6970 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6972|null_item6972|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|0FB941|406DC2|0|31|None
-6973|null_item6972 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6974|null_item6974|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BD053A|C6469D|0|31|None
-6975|null_item6974 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6976|null_item6976|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA2051|6DA69B|0|31|None
-6977|null_item6976 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6978|null_item6978|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|679585|EB15A4|0|31|None
-6979|null_item6978 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6980|null_item6980|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC3B17|1DBD48|0|31|None
-6981|null_item6980 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6982|null_item6982|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FC5E5E|B77E76|0|31|None
-6983|null_item6982 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6984|null_item6984|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|32C497|74A93A|0|31|None
-6985|null_item6984 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6986|null_item6986|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|9ADF22|C12B1E|0|31|None
-6987|null_item6986 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6988|null_item6988|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C33E5C|D71C93|0|31|None
-6989|null_item6988 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6990|null_item6990|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8DD832|BDCE3B|0|31|None
-6991|null_item6990 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6992|null_item6992|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F21166|8928A9|0|31|None
-6993|null_item6992 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6994|null_item6994|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C10C58|B33CBD|0|31|None
-6995|null_item6994 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6996|null_item6996|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|938322|50EA0F|0|31|None
-6997|null_item6996 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6998|null_item6998|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BE865E|F85740|0|31|None
-6999|null_item6998 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7000|null_item7000|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BDF002|DB0C74|0|31|None
-7001|null_item7000 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7002|null_item7002|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|15E443|6ED969|0|31|None
-7003|null_item7002 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7004|null_item7004|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BECE1D|33D528|0|31|None
-7005|null_item7004 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7006|null_item7006|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F43B81|F25007|0|31|None
-7007|null_item7006 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7008|null_item7008|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A14E44|BF871D|0|31|None
-7009|null_item7008 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7010|null_item7010|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|C48036|56C167|0|31|None
-7011|null_item7010 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7012|null_item7012|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|61E853|DD3F3F|0|31|None
-7013|null_item7012 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7014|null_item7014|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|AE6266|D3524A|0|31|None
-7015|null_item7014 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7016|null_item7016|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A4B559|F40A46|0|31|None
-7017|null_item7016 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7018|null_item7018|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DCB602|7EE143|0|31|None
-7019|null_item7018 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7020|null_item7020|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|5DC08F|80AE4D|0|31|None
-7021|null_item7020 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6946|Gaia's Beacon|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|ItemSucker|29983D|49423E|42|3600|None
+6947|Gaia's Beacon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6948|Unstable Tesseract|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|ItemSucker|CBA342|43A2EE|42|3600|None
+6949|Unstable Tesseract Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6950|Heart of Gaia|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Unknown|189F37|49423E|42|3600|None
+6951|Heart of Gaia Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6952|Tesseract Manipulator|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Unknown|EDC76C|10CDE5|42|3600|None
+6953|Tesseract Manipulator Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6954|Techno-Organic Engine|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Unknown|28B3E9|197B30|42|3600|None
+6955|Techno-Organic Engine Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6956|Beat-root Block|999|NoSeed, Dropless|Foreground_Block|5C1017|C91B2C|6|3600|None
+6957|Beat-root Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6958|Beat-root Puree|999|NoSeed, Dropless|Component|5C1017|74A9BC|6|3600|None
+6959|Beat-root Puree Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6960|Carrot Block|999|NoSeed, Dropless|Foreground_Block|FF5E02|9DB048|6|3600|None
+6961|Carrot Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6962|Bloccoli Mini-Tree|999|MultiFacing, NoSeed, Dropless|Foreground_Block|7C892F|B1CC44|6|3600|None
+6963|Bloccoli Mini-Tree Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6964|Strawberry Block|999|NoSeed, Dropless|Foreground_Block|BB0B1F|F26522|6|3600|None
+6965|Strawberry Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6966|Riding Bull|999|NoSeed, Dropless|Clothing|875537|F7A300|0|3600|Feet
+6967|Riding Bull Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6968|Saffron Crocus Flower|999|NoSeed, Dropless|Foreground_Block|20A919|BF57C9|6|3600|None
+6969|Saffron Crocus Flower Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6970|Bio-Waste|999|NoSeed, Dropless|Foreground_Block|6C4431|9A7B65|6|3600|None
+6971|Bio-Waste Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6972|Toffee Block|999|NoSeed, Dropless|Foreground_Block|DCAB4A|FFDD8E|6|3600|None
+6973|Toffee Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6974|Caramel|999|NoSeed, Dropless|Component|DCAB48|AAD7E4|6|3600|None
+6975|Caramel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6976|Electrical Power Cube|999|NoSeed, Dropless|Deadly_Block|46B2D0|71FAF9|6|3600|None
+6977|Electrical Power Cube Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6978|Operating Theater Lamp|999|MultiFacing, Wrenchable, NoSeed, Dropless|Toggleable_Foreground|EAEAEA|A5EFFF|6|3600|None
+6979|Operating Theater Lamp Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6980|Tiled Staircase|999|MultiFacing, NoSeed, Dropless|Platform|62676B|EAEAEA|6|3600|None
+6981|Tiled Staircase Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6982|Wheelchair Speedster|999|NoSeed, Dropless|Clothing|2B2B2B|C10000|0|3600|Feet
+6983|Wheelchair Speedster Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6984|Slip 'n' Slide Slime Floor|999|NoSeed, Dropless|Slippery_Block|7A8318|D0DD25|6|3600|None
+6985|Slip 'n' Slide Slime Floor Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6986|Aquamarine Stone|999|NoSeed, Dropless|Component|33AB9C|7DD2AE|6|3600|None
+6987|Aquamarine Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6988|Primordial Ooze|999|NoSeed, Dropless|Pain_Block|273B26|35A456|6|3600|None
+6989|Primordial Ooze Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6990|Primordial Soup|999|NoSeed, Dropless|Component|35A456|CF4421|6|3600|None
+6991|Primordial Soup Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6992|Sea Sponge|999|NoSeed, Dropless|Trampoline_Block|E3913E|FFDF9B|6|3600|None
+6993|Sea Sponge Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6994|Naval Mine|999|NoSeed, Dropless|Deadly_Block|274147|A01519|6|3600|None
+6995|Naval Mine Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6996|Fishing Dinghy|999|NoSeed, Dropless|Clothing|FFFFFF|FFFFFF|0|3600|Feet
+6997|Fishing Dinghy Seed|999|NoSeed|Seed|000000|000000|20|0|None
+6998|Mint|999|NoSeed, Dropless|Foreground_Block|6CBE00|7A9100|6|3600|None
+6999|Mint Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7000|Sprig of Mint|999|NoSeed, Dropless|Component|6CBE00|7A9100|6|3600|None
+7001|Sprig of Mint Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7002|Quantum Starfish|999|NoSeed, Dropless|Foreground_Block|1C1E58|17C2E8|6|3600|None
+7003|Quantum Starfish Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7004|Chrono-Luminescent Liquid|999|NoSeed, Dropless|Component|128ACB|2A3696|6|3600|None
+7005|Chrono-Luminescent Liquid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7006|Space Rock|999|NoSeed, Dropless|Slippery_Block|98A3A5|B337B3|6|3600|None
+7007|Space Rock Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7008|Star Tool Nanoforge|999|Wrenchable, Permanent, AutoPickup|Foreground_Block|5B6D68|35988C|12|3600|None
+7009|Star Tool Nanoforge Seed|999|0|Seed|000000|000000|20|0|None
+7010|Starship Packing Crate|999|NoSeed, Dropless|Foreground_Block|828282|00FFFF|6|3600|None
+7011|Starship Packing Crate Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7012|Encapsulated Galaxy|999|NoSeed, Dropless|Foreground_Block|FFFDB6|11034B|6|3600|None
+7013|Encapsulated Galaxy Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7014|Cosmic 5-Spice Star|999|NoSeed, Dropless|Component|FCBD00|92278F|6|3600|None
+7015|Cosmic 5-Spice Star Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7016|Energy Capsule|999|NoSeed, Dropless|Component|CBA342|0072BC|6|3600|None
+7017|Energy Capsule Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7018|Starship Turbo Fan|999|MultiFacing, NoSeed, Dropless|Pushing_Block|5B6D68|DBCD47|6|3600|None
+7019|Starship Turbo Fan Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7020|Cupcake Apron|999|NoSeed, Dropless, Untradable|Clothing|E9CDCD|75BBD5|0|3600|Shirt
+7021|Cupcake Apron Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7022|null_item7022|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F3358F|790A88|0|31|None
 7023|null_item7022 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7024|null_item7024|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|14F34B|2DE433|0|31|None
@@ -7069,7 +7069,17 @@
 7061|null_item7060 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7062|null_item7062|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E12E9C|0BE878|0|31|None
 7063|null_item7062 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7064|null_item7064|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|98C702|A45D3D|0|31|None
-7065|null_item7064 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7064|Dumb Farmer|999|NoSeed, Dropless, Beta, Mod|Component|98C702|A45D3D|1|3600|None
+7065|Dumb Farmer Seed|999|0|Seed|000000|000000|20|0|None
 7066|Growtorial Entrance|1|MultiFacing, Wrenchable, NoSeed, Dropless|Gateway|DBDBDB|FFD11D|5|31|None
 7067|Growtorial Entrance Seed|1|NoSeed|Seed|000000|000000|20|0|None
+7068|Dumb Surgeon|999|NoSeed, Dropless, Beta, Mod|Component|D45935|D70C13|1|3600|None
+7069|Dumb Surgeon Seed|999|0|Seed|000000|000000|20|0|None
+7070|Dumb Builder|999|NoSeed, Dropless, Beta, Mod|Component|BFDB03|FE2B8B|1|3600|None
+7071|Dumb Builder Seed|999|0|Seed|000000|000000|20|0|None
+7072|Dumb Fisher|999|NoSeed, Dropless, Beta, Mod|Component|4BFC48|1DC371|1|3600|None
+7073|Dumb Fisher Seed|999|0|Seed|000000|000000|20|0|None
+7074|Dumb Star Captain|999|NoSeed, Dropless, Beta, Mod|Component|BC0777|B74C50|1|3600|None
+7075|Dumb Star Captain Seed|999|0|Seed|000000|000000|20|0|None
+7076|Dumb Cook|999|NoSeed, Dropless, Beta, Mod|Component|C78574|C88163|1|3600|None
+7077|Dumb Cook Seed|999|0|Seed|000000|000000|20|0|None

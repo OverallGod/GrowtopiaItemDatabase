@@ -10060,5 +10060,132 @@
 6888|Raw elemental power surges within this strange stone! Somewhere in its shimmering depths is the power to command Water, but without something to channel and control it, its unfiltered might would destroy you! Better find the proper artifact to hold it...
 6890|Raw elemental power surges within this strange stone! Somewhere in its shimmering depths is the power to command Earth, but without something to channel and control it, its unfiltered might would destroy you! Better find the proper artifact to hold it...
 
+// Growmoji Clap
+6894|Show your appreciation - pop an applause into your chat! Just consume this to add it to your available growmojis!
+
+// Yellow Hardhat
+6896|Show off your builder bong fides and keep your noggin safe with this bright beautiful hat!
+
+// EMT Jumpsuit
+6900|Show off your surgery skills and dress for the next big emergency with this hypoallergenic coverall!
+
+// Fishing Wader Boots
+6902|Show off your fishing finesse and keep your toes ncie and dry with these water-proof waders!
+
+// Captain's Hat
+6904|Show off your starship strengths and command the respect of your crew with this dashing cap!
+
+// Composer's Cookie
+6906|Take a bite and enjoy a symphony of flavors! Food Buff: Consuming this cookie will allow you to see musical notes in the world!
+
+// Glutton's
+6908|Glutton's Gazpacho: A soup for the discerning overeater, one sip and you'll find that everything just tastes better! Food Buff: Eat to increase the duration of food buffs received from other food items by 30%! Note; Will only affect food buffs consumed after consuming the Glutton's Gazpacho!
+
+// Growlectables
+6910|Fine gourmet treats for only the most delicate and refined palates! Food Buff: Take a bite to gain a 25% chance of getting DOUBLE Growtokens from completing Daily Quests!
+
+// Skill Spice
+6912|The true spice of life (and starships, for some reason)! Food Buff: Munch on this to halve your chances of getting a skill fail in surgery and/or Startopia missions! 
+
+// Gemonade
+6914|Sparklier than the most pristine sparkling water! Food Buff: This high-value treat will give anyone who consumes it BONUS gems from fish catches (125 gems). surgeries (250 gems), cooking recipes (300 gems) and Startopia missions (500 gems)!
+
+// Flashback Flan
+6916|Pulsing with temporal goodness, this treat is in a constant state of flantum flux! Use this on an eligible block in your world and marvel as time rewinds and the block returns to your inventory!
+
+// Potions
+6918|Don't drop it! This bubbling potion is very fragile! Take a super-careful sip... Food Buff: Increases the points by you gain trom ALL delicate anomalizers (when used during an active Season Event)! 
+6920|Ooh! It's almost too perfect to drink! If you can bear to disturbthis beautiful potion, drinking it will... Food Buff: Increase the points by you gain from ALL pristine anomalizers (when used during an active Season Event)!
+6922|Now THIS is a classy drink! Show you're a Growtopian of refinement and grace by taking a sip of this... Food Buff: Increase the points by 10% you gain from All elegant anomalizers (when used during an active Season Event)!
+6924|The most marvelous of all potions! Aged to perfection, this fizzing drink is only for the highest of the high-class potion specialists. Food Buff: Increase the points by 10% you gain from All exquisite anomalizers (when used during an active Season Event)!
+
+// Gaia's Beacon
+6946|The pulse of nature calls to its own! Place this beacon to start summoning seeds! Simply tune this bioform to the seed of your choosing, and it will collect and store any that drop in your world! Only collects seeds from breaking blocks and harvesting!
+
+// Unstable Tesseract
+6948|A spatial vortex is a dangerous thing, but this one... can be controlled! Place this techno hazard to start summoning blocks! Simply target this tear to the block ot your choosing, and it will collect and store any that drop in your world! Only collects blocks trom breaking blocks and harvesting!
+
+// Heart of Gaia
+6950|Tired of harvesting trees on your own? Perhaps it's time we made nature work for US, for a change! Empower this pulsing Heart with enough Gems, tell it to target any tree of your choosing, and it will harvest them AUTOMAGICALLY!
+
+// Tesseract Manipulator
+6952|Tired at smashing blocks on your own? Perhaps it's time we meddled in the darker side of science and made our lives easier! Fuel this advanced machinery with enough Gems, tell it to target any block of your choosing, and it will break them AUTOMATICALLY! Note: Blocks broken by this device will not drop gems! It's convenient, but inefficient!
+
+// Techno-Organic
+6954|What has science DONE?! By fusing the verdant powers of nature and the chaotic energies of the void, you've managed to create a device capable of breaking blocks OR harvesting trees, then collecting a target drop, all in one go! Just fuel it with enough Gems, set a target, and let 'er rip! Note: Blocks broken by this device will not drop gems! It's confinient, but inefficient!
+
+// Beat Root
+6956|Now here's a thumping good treat that can't be beet! This musical root (or perhaps the root of all music) has a tempo all its own and a taste that's even louder!
+6958|The product of many beaten beets, this puree is pulsing with good times (and tastes)!
+
+// Bio Waste
+6970|It might not be much of a looker, but this compost is full of nutrients and fertilizer, giving it all kinds of useful applications (definitely not perfume, though - yuck)!
+
+// Toffee Block
+6972|A sweet treat! These chunks of goodness can be enjoyed on their own, but perhaps it's best to see if you could make something even tastier with them...
+
+// Electrical Power Cube
+6976|Ouch! YOu've managed to store a storm of energy in a block... and it's not happy about it! This thing is dangerous to the touch, but perhaps it has other uses... (besides injuring yourself, of course)
+
+// Operating Theater Lamp
+6978|Nurse! Lights! Turn up the brightness in your operating room with this lamp and get a better look at all grisly wounds and diseases your fellow Growtopians tend to collect!
+
+// Wheelchair
+6982|Tear up the streets with triple-wheeled power! This chair isn't just incredibly comfortable and supportive - it also features GrowTech-powered wheels to propel you wherever you need to go! Take a seat and get ready to roll!
+
+// Primordial
+6988|The building block of life! They say that all living things in Growtopia got their start in a pool of goo like this! Really makes you think... Think about what YOU can make with it, that is!
+6990|Deliciously developmental! This soup is pure evolution in a can! Fun fact: Turns out the chemical basis for all organic life tastes a lot like tomato bisque! Who knew?
+
+// Star Tool Nanoforge
+7008|Thanks to a breakthrough in our understanding of HyperTech, we've unlocked the secrets of nano-scale industrial processing! Wrench this device to reconfigure your Star Tools, and by "reconfigure", we mean exchange 20 of one Star Tool for 1 of every other Star Tool!
+
+// Starship Packing Crate
+7010|Need to transport something valuable across the gulf of space. Well, you can't trust someone to just carry it by hand, and you can't pack it in a lame, ground-based crate! Enter: The Starship Packing Crate! Specially made to endude the rigors of the void, this will - hopefully - keep the goods inside it safe, aswell.
+
+// Mengu Koi
+7022|A traditional facemask obtained from an even more traditional fish! You can't help looking great (and traditional) while you're wearing this!
+
+// Kimonos
+7030|Sleeve your arms (and the rest of yourself) in shimmering silk. Dyed an adorable orange and hand-stitched by crafty artisans, it's the perfect look for your next tea ceremony or historical reenactment!
+
+// Ornamental Hair
+7032|Style yourself with the perfect hair, and then keep it in place with thse lovely lacquered chopsticks at no additional charge! Two-for-one deals are very traditional, you know.
+
+// Geisha Makeup
+7036|Applied with exacting precision and exquisite materials, this makeup is a statement to the world that its bearer is poised, beautiful, and probably displeased with shenanigans. ANY shenanigans.
+
+// Master Sensei's White Eyebrows
+7042|You! Your eyebrows are weak! SMALL! UNWISE! They are unworthy, and should be replaced by THESE eyebrows, which are the true mark of ancient arts and knowledge. Put these perfectly-sized, immaculately-groomed eyebrows on and become the font of skill and understanding you know in your heat you should be.
+
+// Jade Axe
+7044|Honed over centuries by very bored monks and layered with precious stones and runed filigrees, this axe is a masterwork of ancient magic and EVEN MORE ANCIENT weaponsmithing. Wield it and you'll tear through foes, blocks, and butter like... um... even softer butter!
+
+// Cherry Blossom
+7046|Serene leaves drift down from this beautiful blooming tree. A mark of traditional beauty and peaceful landscapes, they are not, unfortunately, associated with tasty desserts. Apparently, traditional cherry blossom trees don't make very tasty cherries! Ah, well - at least it still looks pretty!
+
+// Jade Spikes
+7048|Extra-beautiful means extra-deadly, right? THese spikes are hand-carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
+
+// Coconut
+7050|Beloved by castaways, curry-makers, and hipsters the world over, this is the best fruit that's also a drink! Crack open a lukewarm one today!
+
+// Coconut Milk
+7054|A delicious component in many fine curries and dishes, this is made from crushing coconut meat and has many applications! Makes for great desserts, drinks, sauces, and more! So much better than coconut water, right?
+
+// Coconut Tart
+7056|Sweet and silky, this tart is made from tropically-ripened coconuts and some very precise, very ancients baking secrets! These secrets are so ancient, in fact, that they're able to connect with the ghosts of other coconut aficionados! Food Buff: Grants anyone who eats this tart 50 XP from capturing ghosts! Note: Apparently, all ghosts REALLY enjoy coconut, so this bonus applies to any of them! Who knew?
+
+// Purity Mooncake
+7058|Perfection is a powerful message, and it's clearly this astonishingly fine mooncake! Anyone who partakes of such a lovely and delicate treat will be empowered by the ancestors of the Harvest... Food Buff: Reduces the chance of suffering any Hand Scythe breakages by 5%
+
+// Gmoji Songpyeon
+7062|Celebrate the harvest in your chat as well as your worlds! Just consume this to add it to your available growmojis!
+
 // Growtorial Entrance
 7066|It's like a wall, except you can choose to let your friends come in! Only usable in the Growtorial!
+
+// Ezio's Set
+7080|Conceal your features from the watchful eyes of the Templars with this iconic hood.
+7084|Weighted just right to catch the winds, this cape will help you stick a death-defying landing and look cool the whole time.
+7086|Just loaded with knives. Like, there are more weapons in an Assasin's pants than fabric.
