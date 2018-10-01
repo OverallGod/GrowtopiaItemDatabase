@@ -7099,7 +7099,105 @@
 7091|Ezio's Beard Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7092|Ezio's Hair|999|NoSeed, Dropless|Clothing|705C37|A78851|0|3600|Hair
 7093|Ezio's Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7094|Ezio's Boots|999|NoSeed, Dropless|Clothing|F49DC3|535364|0|3600|Feet
+7094|Ezio's Boots|999|NoSeed, Dropless|Clothing|544114|8D6812|0|3600|Feet
 7095|Ezio's Boots Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7096|Hay Cart|999|MultiFacing, NoSeed, Dropless|Foreground_Block|B38854|DFC692|2|3600|None
+7096|Hay Cart|999|MultiFacing, NoSeed, Permanent, Dropless, AutoPickup, Foreground|Foreground_Block|B38854|DFC692|8|3600|None
 7097|Hay Cart Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7098|null_item7098|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EA0116|6BBC9B|0|31|None
+7099|null_item7098 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7100|null_item7100|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F45A24|E82E0E|0|31|None
+7101|null_item7100 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7102|null_item7102|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA0043|FA2E17|0|31|None
+7103|null_item7102 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7104|null_item7104|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6927D|13DB47|0|31|None
+7105|null_item7104 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7106|Cat Eyes|999|NoSeed, Dropless|Clothing|262626|A01519|0|3600|Face
+7107|Cat Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7108|null_item7108|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E93825|D6551E|0|31|None
+7109|null_item7108 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7110|null_item7110|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BC5812|65B559|0|31|None
+7111|null_item7110 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7112|null_item7112|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EC4C21|B60ECF|0|31|None
+7113|null_item7112 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7114|null_item7114|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6E022|4EB87A|0|31|None
+7115|null_item7114 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7116|null_item7116|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|2DB521|DC761B|0|31|None
+7117|null_item7116 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7118|null_item7118|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8AC755|89CC4A|0|31|None
+7119|null_item7118 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7120|null_item7120|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DA0C54|65DF59|0|31|None
+7121|null_item7120 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7122|null_item7122|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8A7724|E9731A|0|31|None
+7123|null_item7122 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7124|null_item7124|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|22D612|0AF55D|0|31|None
+7125|null_item7124 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7126|null_item7126|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE491B|75B371|0|31|None
+7127|null_item7126 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7128|null_item7128|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE5723|0ABFA0|0|31|None
+7129|null_item7128 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7130|null_item7130|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E86713|E43A29|0|31|None
+7131|null_item7130 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7132|null_item7132|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D4E100|34B089|0|31|None
+7133|null_item7132 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7134|null_item7134|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B7330F|F23245|0|31|None
+7135|null_item7134 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7136|Ethereal Rainbow Dragon|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Chest
+7137|Ethereal Rainbow Dragon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7138|Heroic Tights of Prevention|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Pants
+7139|Heroic Tights of Prevention Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7140|Wriggling Tentacle|999|NoSeed, Dropless|Consummable|C4F190|166B34|3|3600|None
+7141|Wriggling Tentacle Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7142|Tamed Looming Triffid|999|NoSeed, Dropless|Clothing|613875|166B34|0|3600|Hand
+7143|Tamed Looming Triffid Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7144|Magic Carpet|999|NoSeed, Dropless|Clothing|09661F|FFD907|0|3600|Feet
+7145|Magic Carpet Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7146|Mountain Dire Wolf|999|NoSeed, Dropless|Clothing|3F4C58|83796C|0|3600|Feet
+7147|Mountain Dire Wolf Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7148|Super Logo - Fist|999|NoSeed, Dropless|Clothing|C8C8C8|282828|0|3600|Chest
+7149|Super Logo - Fist Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7150|Stone Gargoyle Wings|999|NoSeed, Dropless|Clothing|224344|486060|0|3600|Back
+7151|Stone Gargoyle Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7152|Plasma Hair|999|NoSeed, Dropless|Clothing|005826|FFF200|0|3600|Hair
+7153|Plasma Hair Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7154|Tiled Hospital Wall|999|MultiFacing, NoSeed, Dropless|Background_Block|A28D80|444C6E|6|3600|None
+7155|Tiled Hospital Wall Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7156|Fallen Pillar|999|NoSeed, Dropless|Foreground_Block|DFD7C9|B5A688|6|3600|None
+7157|Fallen Pillar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7158|Oil Slick|999|NoSeed, Dropless|Slippery_Block|606060|212121|6|3600|None
+7159|Oil Slick Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7160|HyperTech Multi-Jet Energy Pulser|999|NoSeed, Dropless|Bouncy|0C0D16|B0B0B0|6|3600|None
+7161|HyperTech Multi-Jet Energy Pulser Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7162|Hour Glass|15|NoSeed, Dropless|Foreground_Block|804B34|BAEFF8|6|3825|None
+7163|Hour Glass Seed|15|NoSeed|Seed|000000|000000|20|0|None
+7164|Red House Entrance|15|Wrenchable, NoSeed, Dropless|Gateway|973D31|F8C600|6|3825|None
+7165|Red House Entrance Seed|15|NoSeed|Seed|000000|000000|20|0|None
+7166|Ancestral Orb of Time|999|NoSeed, Dropless|Artifact|C334EA|C7833B|0|3600|None
+7167|Ancestral Orb of Time Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7168|Ancestral Orb of Time : Level 2|999|NoSeed, Dropless, Untradable|Artifact|C334EA|C7833B|0|3600|None
+7169|Ancestral Orb of Time : Level 2 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7170|Ancestral Orb of Time : Level 3|999|NoSeed, Dropless, Untradable|Artifact|C334EA|C7833B|0|3600|None
+7171|Ancestral Orb of Time : Level 3 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7172|Ancestral Orb of Time : Level 4|999|NoSeed, Dropless, Untradable|Artifact|C334EA|C7833B|0|3600|None
+7173|Ancestral Orb of Time : Level 4 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7174|Ancestral Orb of Time : Level 5|999|NoSeed, Dropless, Untradable|Artifact|C334EA|C7833B|0|3600|None
+7175|Ancestral Orb of Time : Level 5 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7176|Dragon Block|999|MultiFacing, NoSeed, Dropless|Foreground_Block|5E6D10|C69C6D|6|3600|None
+7177|Dragon Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7178|Carnival Ladders|999|NoSeed, Dropless|Platform|EEA52C|EE3636|6|3600|None
+7179|Carnival Ladders Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7180|Carnival Creep Platform|999|NoSeed, Dropless, Mod|Platform|ED1C24|FFCC00|6|3600|None
+7181|Carnival Creep Platform Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
+7182|Disabled Carnival Creep Platform|999|NoSeed, Dropless, NoShadow, Mod|Foreground_Block|8B0A0F|8F7100|6|3600|None
+7183|Disabled Carnival Creep Platform Seed|999|NoSeed, Mod|Seed|000000|000000|20|0|None
+7184|Atomic Gate|999|Wrenchable, NoSeed, Dropless|Door|F23122|FAB60B|5|3600|None
+7185|Atomic Gate Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7186|Crystallized Time|999|MultiFacing, NoSeed, Dropless|Foreground_Block|E6F2FE|9FCDFF|9|3600|None
+7187|Crystallized Time Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7188|Blue Gem Lock|999|Wrenchable, NoSeed, Permanent, AutoPickup|Lock|00FFFF|1B66FF|42|3600|None
+7189|Blue Gem Lock Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7190|Guild Name Changer|999|NoSeed, Dropless|Consummable|F8E3CA|1793C0|3|3600|None
+7191|Guild Name Changer Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7192|Shadow Spirit of the Underworld|999|NoSeed, Dropless|Clothing|252525|CC292E|0|3600|Chest
+7193|Shadow Spirit of the Underworld Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7194|Hacker's Dialog|999|MultiFacing, Wrenchable, Mod|Mailbox|E2E2E2|B78249|4|3600|None
+7195|Hacker's Dialog Seed|999|Mod|Seed|000000|000000|20|0|None

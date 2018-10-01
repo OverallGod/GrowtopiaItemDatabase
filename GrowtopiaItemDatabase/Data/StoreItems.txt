@@ -31,6 +31,7 @@
 6256|STORE|GEM|5000|During Fishing Fanatics guild event
 6828|STORE|GEM|5000|During Block Builders guild event
 6834|STORE|GEM|5000|During Speedy Splicers guild event
+7190|STORE|GEM|100000
 
 // Weather Machines
 932|STORE|GEM|1000
@@ -91,6 +92,7 @@
 1438|STORE|TOKEN|200
 1742|STORE|TOKEN|200
 2952|STORE|TOKEN|200
+7106|STORE|TOKEN|100
 
 // Paw, Mod items
 698|STORE|TOKEN|200
@@ -601,6 +603,7 @@
 6338|STORE|GEM|200000|Item Of The Month for July 2018
 6758|STORE|GEM|200000|Item Of The Month for August 2018
 6892|STORE|GEM|200000|Item Of The Month for September 2018
+7192|STORE|GEM|200000|Item Of The Month for October 2018
 
 // Halloween
 1180|STORE|GEM|40000|Only during Halloween.

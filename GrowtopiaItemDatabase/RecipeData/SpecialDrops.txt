@@ -71,3 +71,6 @@
 
 // Violin Notes
 6808|DROP|6396
+
+// Coconut
+7050|DROP|854

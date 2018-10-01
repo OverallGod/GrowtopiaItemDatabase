@@ -395,3 +395,4 @@
 6842|Caw Caw!|Protect the crown jewels!|Where did my wings go?
 6844|Extra Fossils from fossil rocks...|Bontiful harvest!|Aw, no more bonus fossils.
 6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.
+7142|Punch Range: Tentacle Attack!|Good boy, Triffid!|Back to your nest!

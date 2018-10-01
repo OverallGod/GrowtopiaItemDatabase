@@ -5338,6 +5338,9 @@
 6888|WATER
 6890|EARTH
 
+// Composer's Cookie
+//6906|
+
 // Beat Root
 6956|EARTH
 6958|EARTH
@@ -5384,3 +5387,18 @@
 
 // Growmoji Songpyeon
 7062|EARTH
+
+// Triffid
+7142|NONE
+
+// Hour Glass
+7162|WIND
+
+// Red House Entrance
+7164|EARTH
+
+// C Time
+7186|EARTH
+
+// Blue Gem Lock
+7188|EARTH

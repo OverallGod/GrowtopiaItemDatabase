@@ -10099,6 +10099,14 @@
 6922|Now THIS is a classy drink! Show you're a Growtopian of refinement and grace by taking a sip of this... Food Buff: Increase the points by 10% you gain from All elegant anomalizers (when used during an active Season Event)!
 6924|The most marvelous of all potions! Aged to perfection, this fizzing drink is only for the highest of the high-class potion specialists. Food Buff: Increase the points by 10% you gain from All exquisite anomalizers (when used during an active Season Event)!
 
+// Elegant
+6926|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected blocks! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+6928|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected trees! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+6930|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected patients! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+6932|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected fish! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+6934|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected splices! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+6936|Built to exacting specifications by GrowTech engineers to find and remove temporal anomalies from infected empty spaces in the world! Note: The fragile anomaly-seeking circuitry in these devices is prone to failure and may break (though with less of a chance than a Pristine version, but more than an Exquisite one)! Use with care!
+
 // Gaia's Beacon
 6946|The pulse of nature calls to its own! Place this beacon to start summoning seeds! Simply tune this bioform to the seed of your choosing, and it will collect and store any that drop in your world! Only collects seeds from breaking blocks and harvesting!
 
@@ -10118,6 +10126,18 @@
 6956|Now here's a thumping good treat that can't be beet! This musical root (or perhaps the root of all music) has a tempo all its own and a taste that's even louder!
 6958|The product of many beaten beets, this puree is pulsing with good times (and tastes)!
 
+// Carrot Block
+6960|Popped fresh from the Earth and loaded with color and a crisp snap, these carrot blocks prove the best way to eat your vegetables is by the square!
+
+// Bloccoli
+6962|Tired of being told to eat your broccoli? Well, now its time to chow down on its blockier cousin! Even if you hate good nutrition, you can't deny how bright and leafy these little trees look!
+
+// Strawberry Block
+6964|Picked up at the height of freshness and practically bursting with fruity power, this ripely red block is great in desserts, buildings, and as a mighty snack!
+
+// Riding Bull
+6966|YEEHAW! Saddle up this bucking bull and charge its horns for maximum fury! This beastly bovine is none too happy to have a rider, so make sure you take its fury out on your foes, instead!
+
 // Bio Waste
 6970|It might not be much of a looker, but this compost is full of nutrients and fertilizer, giving it all kinds of useful applications (definitely not perfume, though - yuck)!
 
@@ -10130,18 +10150,53 @@
 // Operating Theater Lamp
 6978|Nurse! Lights! Turn up the brightness in your operating room with this lamp and get a better look at all grisly wounds and diseases your fellow Growtopians tend to collect!
 
+// Tiled Staircase
+6980|Build your way into the skies with the help of these lovely tiled blocks! They're up to code and perfectly angled for even the most precise builder!
+
+
 // Wheelchair
 6982|Tear up the streets with triple-wheeled power! This chair isn't just incredibly comfortable and supportive - it also features GrowTech-powered wheels to propel you wherever you need to go! Take a seat and get ready to roll!
+
+// Slip 'n' Slide Floor
+6984|Whoa! Clean-up on Aisle Slime! Add a truly slippery spill of slime to any deserving surface with this new floor. We recommend applying it to: Fancy balls, graduation ceremonies, choir recitals, and tap-dance competitions!
 
 // Primordial
 6988|The building block of life! They say that all living things in Growtopia got their start in a pool of goo like this! Really makes you think... Think about what YOU can make with it, that is!
 6990|Deliciously developmental! This soup is pure evolution in a can! Fun fact: Turns out the chemical basis for all organic life tastes a lot like tomato bisque! Who knew?
+
+// Sea Sponge
+6992|A delicate denizen of the depths! This little guy is very content to sit around and do nothing, but it's also happy to help your world look great - just so long as you don't use him to clean your dirty dishes!
+
+// Naval Mine
+6994|A relic of long-forgotten war, this mine is still as deadly as the day it was placed! Take care not to swim (or walk, or fly, or, like, breathe) too close! Otherwise, you might find yourself going out with a very big, very dangerous bang!
+
+// Fishing Dinghy
+6996|A lovely personal watercraft, just for you! Perfect for a quiet day on the water, listening to waves lap gently against its hull as you wait for a nibble on your fishing line!
+
+// Mint
+6998|A beautiful plant with a refreshing taste! Gather as much mint as you can to keep your world smelling nice, and even if your visitors have no sense of smell, it'll still look pretty!
+7000|Mmm! Adds freshness to any dish and eliminates bad breath! Whether you're tossing together a bright dish or hoping to co-exist happily with other people, you can't go wrong with mint!
+
+// Quantum Starfish
+7002|Phasing in and out of our reality one limb at a time, this starfish is part cosmos, part ocean, and all mysterious!
+
+// Electro Liquid
+7004|Distilled from living interspatial oddities, this liquid is in a constant state of uncertainty, flowing backward and forward in both space and time with every twist of its container!
 
 // Star Tool Nanoforge
 7008|Thanks to a breakthrough in our understanding of HyperTech, we've unlocked the secrets of nano-scale industrial processing! Wrench this device to reconfigure your Star Tools, and by "reconfigure", we mean exchange 20 of one Star Tool for 1 of every other Star Tool!
 
 // Starship Packing Crate
 7010|Need to transport something valuable across the gulf of space. Well, you can't trust someone to just carry it by hand, and you can't pack it in a lame, ground-based crate! Enter: The Starship Packing Crate! Specially made to endude the rigors of the void, this will - hopefully - keep the goods inside it safe, aswell.
+
+// Encapsulated Galaxy
+7012|Billions of stars, even mroe planets and moons, and who knows how many creatures, all in a single, easy-to-handle container, thanks to GrowTech's Experimental Immortality Division! This miracle of technology wasn't made by shrinking one of OUR galaxies, of course - GrowTech's engineers just took one from a parallel dimension where everything's waaaay smaller.
+
+// Cosmic 5-Spice Star
+7014|Wow. You, uh, ground up an entire galaxy to make this spice. That's, like, uncountable numbers of living things, not to mention planets, stars, asteroids... all of it gone, turned into-well, okay, a COSMICALLY DELICIOUS spice, but still. That's cold, man.
+
+// Turbo Fan
+7018|Blast solar winds wherever you want with this vortex-funneling turbo fan! Warning: Do not use at parties. Well, unless you want your parties to be blown away by turbo winds.
 
 // Mengu Koi
 7022|A traditional facemask obtained from an even more traditional fish! You can't help looking great (and traditional) while you're wearing this!
@@ -10151,6 +10206,9 @@
 
 // Ornamental Hair
 7032|Style yourself with the perfect hair, and then keep it in place with thse lovely lacquered chopsticks at no additional charge! Two-for-one deals are very traditional, you know.
+
+// Oil Paper Umbrella
+7034|Cut the scary part out of falls and look good while you're doing it with this delicate - yet supportive - paper umbrella. May not be the best in a storm, but it'll definitely keep gravity at bay!
 
 // Geisha Makeup
 7036|Applied with exacting precision and exquisite materials, this makeup is a statement to the world that its bearer is poised, beautiful, and probably displeased with shenanigans. ANY shenanigans.
@@ -10185,7 +10243,37 @@
 // Growtorial Entrance
 7066|It's like a wall, except you can choose to let your friends come in! Only usable in the Growtorial!
 
+// Dumb Icons
+7064|not used, it's just an icon.
+7066|not used, it's just an icon.
+7068|not used, it's just an icon.
+7070|not used, it's just an icon.
+7072|not used, it's just an icon.
+7074|not used, it's just an icon.
+7076|not used, it's just an icon.
+
 // Ezio's Set
 7080|Conceal your features from the watchful eyes of the Templars with this iconic hood.
 7084|Weighted just right to catch the winds, this cape will help you stick a death-defying landing and look cool the whole time.
 7086|Just loaded with knives. Like, there are more weapons in an Assasin's pants than fabric.
+
+// Hay Cart
+7096|Incredibly soft and well-padded. You could easily hide in here, and probably even survive a leap of faith into it from hundreds of feet in the air - assuming your aim was perfect!
+
+// Triffid
+7142|Those terrifying tentacles have merged to create... a pet! It looks like this twitching monster is just grateful to be moving around on its own, and doesn't even want to eat your brains! Let's just hope it doesn't get any bigger!
+
+// Hour Glass
+7162|You might think these sands of time are an old-fashioned way to count the hours, but this is not always so predictable. some say it can be like an ocean in a storm...
+
+// Red House Entrance
+7164|It's like a wall, except your friends can come in! ...and it's red! That's an important difference, too!
+
+// Time Artifact
+7166|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours...
+7168|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an improved time reduction on all your providers!
+7170|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an uncommonly-improved time reduction on all your providers!
+7186|A raw chunk of frozen eternity, preserved forever! The glitched-out time eddies surrounding it could certainly be used for something spectacular... or set on a shelf to look pretty!
+
+// Blue Gem Lock
+7188|Locks an entire world - and looks dazzling while it does it! Tap on it your inventory to break it down into 100 Diamond Locks (if you have room in your inventory).
