@@ -394,5 +394,12 @@
 6818|Night|Phew, the moonlight is back!|Where did the moonlight go?
 6842|Caw Caw!|Protect the crown jewels!|Where did my wings go?
 6844|Extra Fossils from fossil rocks...|Bontiful harvest!|Aw, no more bonus fossils.
+6846|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
 6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.
+// Fishing Dinghy, Wheelchair, Riding Bull, All Food Buffs
+7044|Punch Damage: AXE!|Nothing will stand in my way!|The axe returns to its velvet case!
+// Cat Eyes
 7142|Punch Range: Tentacle Attack!|Good boy, Triffid!|Back to your nest!
+7150|Double-Jump: Light as stone!|Those are some evil-lookin' wings!|Time has worn your wings to dust!
+7166|Provider Time Reduced...|Effortless time...|grAw, no more time reduction.
+7192|Build Range: Shadow Force|Spirit summoned!|The spirit is banished!|

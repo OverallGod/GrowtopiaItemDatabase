@@ -2449,7 +2449,7 @@
 
 // Derpy Star Block
 // There probably is a typo in this one, DERP -> DER?
-1628|DERP IM A SUPERSTAR!
+1628|DER IM A SUPERSTAR!
 
 // Lava Cube
 1630|DO NOT TOUCH!
@@ -10024,9 +10024,9 @@
 // Luminous Eyes
 6848|My, what crazy eyes you have! Besides looking amazing, these pristine peepers give you a bonus 2.5% chance of finding crystals using a Geiger Counter!
 
-// null_items
-//6850
-//6852
+// Tutorial
+6850|These magical doors connect all the worlds in Growtopia. Place one and then use your wrench on it to set the destination.
+6852|This block is used in the tutorial AND it regenerates - just wait and see!
 
 // Weather Machine - Digital Rain
 6854|Take the grow pill, and we'll show you how deep the rabbit hole goes! Splash the scrolling code of creation across the skies of your worlds. They say you learn to understand it after a while... Note: You can only have one of these per world.
@@ -10042,6 +10042,9 @@
 
 // 365-D Sub
 6862|Consume this for a full YEAR of extra-special treatment! You'll get access to unique skins, a chance of doubling any XP earned, a growth time reduction for your trees, 20 season tokens (as long as there's a seasonal clash running), and 500 gems every day!
+
+// Tutorial Regen BG
+6864|This block is used in the tutorial AND spawns a block - just wait and see!
 
 // Gauntlet Tiers
 6866|This incredibly strong gauntlet was designed for a single purpose: To hold the six Elemental Stones. While each stone is very powerful individually, combining their might in this gauntlet will grant the wearer the ability to manipulate the very building blocks of reality! Be warned, however, for adding a stone to this gauntlet requires the sacrifice of a soul in similar form. Doing so will bind the Elemental Stone to the guantlet and focus its power!
@@ -10060,11 +10063,17 @@
 6888|Raw elemental power surges within this strange stone! Somewhere in its shimmering depths is the power to command Water, but without something to channel and control it, its unfiltered might would destroy you! Better find the proper artifact to hold it...
 6890|Raw elemental power surges within this strange stone! Somewhere in its shimmering depths is the power to command Earth, but without something to channel and control it, its unfiltered might would destroy you! Better find the proper artifact to hold it...
 
+// Sorcerer's Tunic of Mystery
+6892|Capable of reflecting the true colors of the world around it, this rare tunic is made of captured starlight and aether. If you think knitting with thread is hard, just try doing it with moonbeams and magic! The result is worth it though, as these clothes won't just make you look amazing - you'll be able to channel their inherent power into blasts of cosmic energy!
+
 // Growmoji Clap
 6894|Show your appreciation - pop an applause into your chat! Just consume this to add it to your available growmojis!
 
 // Yellow Hardhat
 6896|Show off your builder bong fides and keep your noggin safe with this bright beautiful hat!
+
+// Munchin' Straw
+6898|Show off your farmer flair and enjoy a long-lasting snack with this tasty wheat!
 
 // EMT Jumpsuit
 6900|Show off your surgery skills and dress for the next big emergency with this hypoallergenic coverall!
@@ -10111,7 +10120,7 @@
 6946|The pulse of nature calls to its own! Place this beacon to start summoning seeds! Simply tune this bioform to the seed of your choosing, and it will collect and store any that drop in your world! Only collects seeds from breaking blocks and harvesting!
 
 // Unstable Tesseract
-6948|A spatial vortex is a dangerous thing, but this one... can be controlled! Place this techno hazard to start summoning blocks! Simply target this tear to the block ot your choosing, and it will collect and store any that drop in your world! Only collects blocks trom breaking blocks and harvesting!
+6948|A spatial vortex is a dangerous thing, but this one... can be controlled! Place this techno hazard to start summoning blocks! Simply target this tear to the block of your choosing, and it will collect and store any that drop in your world! Only collects blocks from breaking blocks and harvesting!
 
 // Heart of Gaia
 6950|Tired of harvesting trees on your own? Perhaps it's time we made nature work for US, for a change! Empower this pulsing Heart with enough Gems, tell it to target any tree of your choosing, and it will harvest them AUTOMAGICALLY!
@@ -10138,14 +10147,20 @@
 // Riding Bull
 6966|YEEHAW! Saddle up this bucking bull and charge its horns for maximum fury! This beastly bovine is none too happy to have a rider, so make sure you take its fury out on your foes, instead!
 
+// Saffron Crocus Flower
+6968|A rare and beautiful flower, this is one of the rarest and most expensive plants you can find! Lucky indeed it's come into your hands, wouldn't you say?
+
 // Bio Waste
 6970|It might not be much of a looker, but this compost is full of nutrients and fertilizer, giving it all kinds of useful applications (definitely not perfume, though - yuck)!
 
 // Toffee Block
 6972|A sweet treat! These chunks of goodness can be enjoyed on their own, but perhaps it's best to see if you could make something even tastier with them...
 
+// Caramel
+6974|Sweet and syrupy with just a hint of salt, this home-made caramel is good on everything... If you keep yourself from eating it all on its own!
+
 // Electrical Power Cube
-6976|Ouch! YOu've managed to store a storm of energy in a block... and it's not happy about it! This thing is dangerous to the touch, but perhaps it has other uses... (besides injuring yourself, of course)
+6976|Ouch! You've managed to store a storm of energy in a block... and it's not happy about it! This thing is dangerous to the touch, but perhaps it has other uses... (besides injuring yourself, of course)
 
 // Operating Theater Lamp
 6978|Nurse! Lights! Turn up the brightness in your operating room with this lamp and get a better look at all grisly wounds and diseases your fellow Growtopians tend to collect!
@@ -10153,12 +10168,14 @@
 // Tiled Staircase
 6980|Build your way into the skies with the help of these lovely tiled blocks! They're up to code and perfectly angled for even the most precise builder!
 
-
 // Wheelchair
 6982|Tear up the streets with triple-wheeled power! This chair isn't just incredibly comfortable and supportive - it also features GrowTech-powered wheels to propel you wherever you need to go! Take a seat and get ready to roll!
 
 // Slip 'n' Slide Floor
 6984|Whoa! Clean-up on Aisle Slime! Add a truly slippery spill of slime to any deserving surface with this new floor. We recommend applying it to: Fancy balls, graduation ceremonies, choir recitals, and tap-dance competitions!
+
+// Aquamarine Stone
+6986|A brilliant jewel of the forgotten depths! See how it shimmers and shifts in the light, like warm sunlight through soft sea foam... Gorgeous!
 
 // Primordial
 6988|The building block of life! They say that all living things in Growtopia got their start in a pool of goo like this! Really makes you think... Think about what YOU can make with it, that is!
@@ -10183,6 +10200,9 @@
 // Electro Liquid
 7004|Distilled from living interspatial oddities, this liquid is in a constant state of uncertainty, flowing backward and forward in both space and time with every twist of its container!
 
+// Space Rock
+7006|You might think this is just like any other rock, but it's NOT, because it was found in SPAAAACE! That makes it at least 55% more spacey, which is, of course, better.
+
 // Star Tool Nanoforge
 7008|Thanks to a breakthrough in our understanding of HyperTech, we've unlocked the secrets of nano-scale industrial processing! Wrench this device to reconfigure your Star Tools, and by "reconfigure", we mean exchange 20 of one Star Tool for 1 of every other Star Tool!
 
@@ -10195,13 +10215,21 @@
 // Cosmic 5-Spice Star
 7014|Wow. You, uh, ground up an entire galaxy to make this spice. That's, like, uncountable numbers of living things, not to mention planets, stars, asteroids... all of it gone, turned into-well, okay, a COSMICALLY DELICIOUS spice, but still. That's cold, man.
 
+// Energy Capsule
+7016|Flickering growlithium energy, a font of immense power, stored in this easy-to-handle capsule! Nice! Just don't drop it, or everything will probably explode.
+
 // Turbo Fan
 7018|Blast solar winds wherever you want with this vortex-funneling turbo fan! Warning: Do not use at parties. Well, unless you want your parties to be blown away by turbo winds.
 
 // Mengu Koi
 7022|A traditional facemask obtained from an even more traditional fish! You can't help looking great (and traditional) while you're wearing this!
 
+// Geta
+7024|Geta pair of these traditional wooden slippers and you'll soon be standing head and shoulders above your style-impaired companions!
+
 // Kimonos
+7026|Sleeve your arms (and the rest of yourself) in shimmering silk. Dyed an passionate pink and hand-stitched by crafty artisans, it's the perfect look for your next tea ceremony or historical reenactment!
+7028|Sleeve your arms (and the rest of yourself) in shimmering silk. Dyed a beautiful blue and hand-stitched by crafty artisans, it's the perfect look for your next tea ceremony or historical reenactment!
 7030|Sleeve your arms (and the rest of yourself) in shimmering silk. Dyed an adorable orange and hand-stitched by crafty artisans, it's the perfect look for your next tea ceremony or historical reenactment!
 
 // Ornamental Hair
@@ -10213,6 +10241,12 @@
 // Geisha Makeup
 7036|Applied with exacting precision and exquisite materials, this makeup is a statement to the world that its bearer is poised, beautiful, and probably displeased with shenanigans. ANY shenanigans.
 
+// Panda Mask
+7038|Aww, it's adorable! Don this mask (with associated suit) and you'll instantly look like the second-cutest type of panda (after red pandas) and second-most monochromatic bear (after polar bears) in the world! Just goes to show that you can be second-place in looks... and first in our hearts.
+
+// Panda Suit
+7040|Aww, it's adorable! Don this suit (with associated mask) and you'll instantly look like the second-cutest type of panda (after red pandas) and second-most monochromatic bear (after polar bears) in the world! Just goes to show that you can be second-place in looks... and first in our hearts.
+
 // Master Sensei's White Eyebrows
 7042|You! Your eyebrows are weak! SMALL! UNWISE! They are unworthy, and should be replaced by THESE eyebrows, which are the true mark of ancient arts and knowledge. Put these perfectly-sized, immaculately-groomed eyebrows on and become the font of skill and understanding you know in your heat you should be.
 
@@ -10223,10 +10257,13 @@
 7046|Serene leaves drift down from this beautiful blooming tree. A mark of traditional beauty and peaceful landscapes, they are not, unfortunately, associated with tasty desserts. Apparently, traditional cherry blossom trees don't make very tasty cherries! Ah, well - at least it still looks pretty!
 
 // Jade Spikes
-7048|Extra-beautiful means extra-deadly, right? THese spikes are hand-carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
+7048|Extra-beautiful means extra-deadly, right? These spikes are hand-carved from ancient jade, but they'll destroy you and anything they touch just as quickly as modern spikes! Now that's long-lasting quality. And pain.
 
 // Coconut
 7050|Beloved by castaways, curry-makers, and hipsters the world over, this is the best fruit that's also a drink! Crack open a lukewarm one today!
+
+// Coconut Water
+7052|Have you ever found yourself drinking water and thinking, "Wow, this doesnt make me feel special, nor does it taste anything like vaguely sweet chalk! I wish there were a stupidly expensive drink I could idolize and brag about drinking to my friends on social media." Well, think no more: Now you can enjoy all that and an insignifican percentage of your daily electrolytes in one gulp with COCONUT WATER! Ah, that's the stuff!
 
 // Coconut Milk
 7054|A delicious component in many fine curries and dishes, this is made from crushing coconut meat and has many applications! Makes for great desserts, drinks, sauces, and more! So much better than coconut water, right?
@@ -10236,6 +10273,9 @@
 
 // Purity Mooncake
 7058|Perfection is a powerful message, and it's clearly this astonishingly fine mooncake! Anyone who partakes of such a lovely and delicate treat will be empowered by the ancestors of the Harvest... Food Buff: Reduces the chance of suffering any Hand Scythe breakages by 5%
+
+// Koi Fish Leash
+7060|The classiest of all fish (by at least 86%) has decided to join you on land! Now its classiness will follow you wherever you go! Thanks, classy koi.
 
 // Gmoji Songpyeon
 7062|Celebrate the harvest in your chat as well as your worlds! Just consume this to add it to your available growmojis!
@@ -10254,14 +10294,55 @@
 
 // Ezio's Set
 7080|Conceal your features from the watchful eyes of the Templars with this iconic hood.
+7082|Comes with hidden pockets for blades, potions, explosives, and snacks.
 7084|Weighted just right to catch the winds, this cape will help you stick a death-defying landing and look cool the whole time.
 7086|Just loaded with knives. Like, there are more weapons in an Assasin's pants than fabric.
+7088|Complete with deadly Hidden Blades, these armguards will help you unleash swift justice on all who side with the Templars.
+7090|Exactly the right amount of grizzled and wise.
+7092|Full of all the roguish charm you need to make the ladies of the Renaissance swoon - even the Templar ones.
+7094|Ready to climb the Leaning Tower of Pisa, leap from the parapets of the Vatican, and knock cruel Templars from their seats of power.
 
 // Hay Cart
 7096|Incredibly soft and well-padded. You could easily hide in here, and probably even survive a leap of faith into it from hundreds of feet in the air - assuming your aim was perfect!
 
+// Cat Eyes
+7106|Wow, pawesome! These new eyes are the cat's meow, and the purrfect addition to any style.
+
+// Heroic Tights of Prevention
+7138|Amazing prismatic pants for a true hero of Growtopia! These glorious tights will keep you safe from villains AND prevent you from picking up floating items in the world! Nothing sticks to you, for you have the power of heroes!
+
+// Wriggling Tentacle
+7140|Oh, gross! This twitching, pulsing lump of flesh is STILL ALIVE! What horrifying creature did it belong to? And how could it survive without food or water for so long? If you brought more tentacles together, do you think it could create something like its former owner...?
+
 // Triffid
 7142|Those terrifying tentacles have merged to create... a pet! It looks like this twitching monster is just grateful to be moving around on its own, and doesn't even want to eat your brains! Let's just hope it doesn't get any bigger!
+
+// Magic Carpet
+7144|More than just a rug! Step on and enter a whole new world! ...well, if you consider hovering slightly above the ground a "new world," that is.
+
+// Mountain Dire Wolf
+7146|AWOOOOOOOOOOOOOOOOOO! Arctic lands shake with the terrifying howl of the monstrous dire wolf! If you find a way to ride this beast, its unnatural speed and deadly claws will be yours to command!
+
+// Super Logo - Fist
+7148|Emblazon this logo on your super costume to fight as... Knuckle Sandwich? Meat Hood? Mr.Fisticuffs? It's up to you!
+
+// Stone Gargoyle Wings
+7150|You wouldn't think these stone wings could soar, but thanks to a thousand-year-old- spell, these have the power to take you to the skies!
+
+// Plasma Hair
+7152|Set your hair afire with the energies of space and time! Inspired by HyperTech and made possible thanks to the mad science of Growtopia's test kitchens, this hair isn't just an elecrtifying fashion statement - it's also edible! WARNING: DO NOT EAT.
+
+// Tiled Hospital Wall
+7154|Guaranteed germ-free! Put enough of these together and you'll have the perfect place for health and recuperation!
+
+// Fallen Pillar
+7156|Nothing beside remains.
+
+// Oil Slick
+7158|Whoa! Careful you don't slip - and DEFINITELY don't light a match around this!
+
+// Multi-Jet Energy
+7160|Boing-oing-oing! Using blasts of prototype repulser power, this HyperTech invention channels energy against anything that touches it, no matter what the angle!
 
 // Hour Glass
 7162|You might think these sands of time are an old-fashioned way to count the hours, but this is not always so predictable. some say it can be like an ocean in a storm...
@@ -10273,7 +10354,34 @@
 7166|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours...
 7168|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an improved time reduction on all your providers!
 7170|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an uncommonly-improved time reduction on all your providers!
+7172|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an extra-improved time reduction on all your providers!
+7174|Incredible forces of immortality and history have been combined with the building blocks of creation to forge this orb. Equip it and mastery of the forth dimension will be yours... Gives you an super-improved time reduction on all your providers!
+
+// Dragon Block
+7176|This dragon is impossibly mighty! Easily the strongest, most deadly creature we've seen in all of Growtopia! It also happens to be very, VERY lazy, however, so it never moves or does anything... but trust us - it's an unstoppable terror when it wants to be!
+
+// Carnival Ladders
+7178|All new and improved ladders! You can still only climb up - not down - but now with lonely carnival colors!
+
+// Carnival Creep Platform
+7180|You might think these platforms float in the air thanks to magic or super-magnets or something extra-weird, but we actually just pumped them full of carnival-grade helium. Science!
+7182|A Carnival Creep Platform turned off. Extra-not for players! Even MORE than the original creepstone platform! Stay away!
+
+// Atomic Gate
+7184|These astonishingly dangerous magical doors connect all the worlds in Growtopia. Place one and then use your Wrench on it to set the destination. Warning, warning! Danger, Growtopian, danger!
+
+// Crystallized Time
 7186|A raw chunk of frozen eternity, preserved forever! The glitched-out time eddies surrounding it could certainly be used for something spectacular... or set on a shelf to look pretty!
 
 // Blue Gem Lock
 7188|Locks an entire world - and looks dazzling while it does it! Tap on it your inventory to break it down into 100 Diamond Locks (if you have room in your inventory).
+
+// Guild Name Changer
+7190|Tired of people making fun of your guild because of one silly spelling error? Or maybe just looking for a change? Use this and get a second shot at it!
+
+// Shadow Spirit
+7192|A demon of the Shadow Plane, this dangerous creature obeys only you, it's master, and lives to shred all others! Nobody knows how it came to be in your service, and it's probably best not to ask. For those who long a darker world, this is definitely your spirit animal!
+
+// Hacker's Dialog
+7194|Hacker's simulator, for developers & QA only. Probabably shouldn't have a description, but if you're actually in the office and bored and reading this, here's a joke: A mexican magician says he will disappear on the count of 3. He says "Uno... Dos..." - poof! - he disappeared without a tres.
+

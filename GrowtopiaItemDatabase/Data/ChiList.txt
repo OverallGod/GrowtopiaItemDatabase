@@ -5388,14 +5388,29 @@
 // Growmoji Songpyeon
 7062|EARTH
 
+// Tentacle
+7140|EARTH
+
 // Triffid
 7142|NONE
+
+// Tiled Hospital Wall
+7154|FIRE
+
+// Fallen Pillar
+7156|EARTH
+
+// Multi-Jet Energy
+7160|WIND
 
 // Hour Glass
 7162|WIND
 
 // Red House Entrance
 7164|EARTH
+
+// Atomic Gate
+7184|EARTH
 
 // C Time
 7186|EARTH
