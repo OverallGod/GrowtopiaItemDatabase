@@ -2074,7 +2074,7 @@
 1380|Hey hey hey!
 
 // Antler Hat
-1382|The red checkers alert other hunters not to shoot you, but the antlers make you a prime target. We've scientifically designed this hat to ensure that your odds of being shot remain precisely the same as if you weren't wearing it. Note: `4Wearing this also makes guns and bows kill you!``
+1382|The red checkers alert other hunters not to shoot you, but the antlers make you a prime target. We've scientifically designed this hat to ensure that your odds of being shot remain precisely the same as if you weren't wearing it. Note: Wearing this also makes guns and bows kill you!
 
 // Glowing Nose
 1384|Warning: wearing this could result in exclusion from reindeer games.
@@ -3847,7 +3847,7 @@
 2556|If the sky were to suddenly open up, there would be no law, there would be no rule. There would only be you and your memories.
 
 // Egg-Hunting Basket
-2558|With this basket, you can track down Easter Eggs hidden all around Growtopia! Once your basket is full, it somehow takes you half an hour to get the egg out of it. Clumsy. `5Easter Eggs can only be found during Easter Week``.
+2558|With this basket, you can track down Easter Eggs hidden all around Growtopia! Once your basket is full, it somehow takes you half an hour to get the egg out of it. Clumsy. Easter Eggs can only be found during Easter Week.
 
 // Full Egg-Hunting Basket
 2560|You found an egg and dropped it in this basket! Now it's buried under all the fake grass. Keep digging at it, you'll re-find it eventually.
@@ -4820,7 +4820,7 @@
 3204|All sorts of baubles and gewgaws to adorn your Giving Tree in true Winterfest style! One decoration won't do much, but you can toss up to 100 decorations on each tree! More decorations will logically result in better gifts, but taking the gift will remove all the decorations with it!
 
 // Lumber Axe
-3206|This axe is precisely balanced to chop down trees in just a single hit! Now, you might not be impressed since you can do that with your bare hands already. But wait - this axe can chop down the `2GROWCH'S`` trees! Of course, doing that will shatter it. They're very special trees.
+3206|This axe is precisely balanced to chop down trees in just a single hit! Now, you might not be impressed since you can do that with your bare hands already. But wait - this axe can chop down the GROWCH'S trees! Of course, doing that will shatter it. They're very special trees.
 
 // Axe Fragment
 3208|This is a broken piece of an axe blade. It's not very high quality, perhaps it could be tempered.
@@ -5375,7 +5375,7 @@
 3574|This hardhat protects you from falling rocks, while the headlamp lights up dark caverns.
 
 // Night Vision Goggles
-3576|Equipping these lets you disregard darkness completely! If you're not in a world you own, they consume 1 D Battery for every minute you wear them. You can wear them without a battery if you just wanna look cool, though. `4Batteries not included.``
+3576|Equipping these lets you disregard darkness completely! If you're not in a world you own, they consume 1 D Battery for every minute you wear them. You can wear them without a battery if you just wanna look cool, though. Batteries not included.
 
 // Hand Torch
 3578|British people would call a Flashlight this, but this is an actual torch, for your hand. As opposed to an Adventure Item or wall torch. Carrying this lights up dark caves. Torches burn out at unpredictable moments, so carry several!
@@ -5726,7 +5726,7 @@
 3808|Use this with a Challenge Timer. Wrench it to set an ID, so it knows which Challenge Timer to work with.
 
 // Fish Wall Mount
-3810|Proud of your catch, but you don't want the responsibility of caring for it? Mount it to this wall plaque with your wrench! You can only display `9Perfect`` or `9Massive`` fish on this mount. Once a fish is mounted, it can never be removed.
+3810|Proud of your catch, but you don't want the responsibility of caring for it? Mount it to this wall plaque with your wrench! You can only display Perfect or `9Massive fish on this mount. Once a fish is mounted, it can never be removed.
 
 // Octopus Head
 3812|This is why aquariums have rules.
@@ -6380,10 +6380,10 @@
 4244|This conical straw hat is useful for full sun protection, as well as carrying stuff!
 
 // Minor Otherworldly Bait
-4246|This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. This bait actually travels through a wormhole into a dark dimension and catches things there, instead of in the water. `4Minorly bad`` things.
+4246|This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. This bait actually travels through a wormhole into a dark dimension and catches things there, instead of in the water. Minorly bad things.
 
 // Lesser Otherworldly Bait
-4248|This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. This bait actually travels through a wormhole into a dark dimension and catches things there, instead of in the water. `4Lesser bad`` things.
+4248|This is bait for fishing. Equip a fishing rod and then use this bait on water that you are standing next to in order to start fishing. This bait actually travels through a wormhole into a dark dimension and catches things there, instead of in the water. Lesser bad things.
 
 // Penguin Mask
 4250|Wanna be as COOL as Master Peng? Not gonna happen. But you can wear this mask and look like a dork.
@@ -6557,7 +6557,7 @@
 4362|This monocle is haunted by the spirit of an ancient wolf! That's more common than you'd expect among monocles.
 
 // Challenge of Fenrir
-//4364|Your prowess in the Wolfworld has caused Fenrir himself to challenge you! Use this summons on `8All Howl's Eve`` to enter the halls of `1Valhowla``. Once inside, you'll have only 3 minutes to search for the 4 treasures. And don't forget `2Climbing Boots`` and a light source!
+//4364|Your prowess in the Wolfworld has caused Fenrir himself to challenge you! Use this summons on All Howl's Eve to enter the halls of Valhowla. Once inside, you'll have only 3 minutes to search for the 4 treasures. And don't forget Climbing Boots and a light source!
 4364|Your progress in the Wolfworld has caused Fenrir himself to challenge you! Use this summons on All Howl's Eve to enter the halls of Valhowla. Once inside, you'll have only 3 minutes to search for the 4 treasures. Also don't forget Climbing Boots and a light source!
 
 // Party Screamer
@@ -6901,16 +6901,16 @@
 4590|When a normal scarf isn't enough... This dragon will assist you, granting Enhanced Digging, but only if you don't have it already. Sponsored by Bretz and Zraei - first to complete all epic quests!
 
 // Homemade Fish Taco
-4592|Homemade Baja taste, with fresh pico de gallo. `2Food Buff``: Gain 1 Gem for every 5lbs. your fish catches weigh.
+4592|Homemade Baja taste, with fresh pico de gallo. Food Buff: Gain 1 Gem for every 5lbs. your fish catches weigh.
 
 // Apple Strudel
-4594|Fresh from the oven! `2Food Buff``: Trees you plant grow 5% faster.
+4594|Fresh from the oven! Food Buff: Trees you plant grow 5% faster.
 
 // Berry Crepes
-4596|It's the really thin pancakes you love so much! Just say it! `2Food Buff``: 30% more XP earned from Surgery.
+4596|It's the really thin pancakes you love so much! Just say it! Food Buff: 30% more XP earned from Surgery.
 
 // BBQ Bacon Burger
-4598|The king of burgers. `2Food Buff``: Get 50 gems for every Villain you defeat.
+4598|The king of burgers. Food Buff: Get 50 gems for every Villain you defeat.
 
 // Beer-Battered Fish And Chips
 4600|Deep fried goodness. Food Buff: Catch 5% larger fish.
@@ -9406,7 +9406,7 @@
 6304|Rock the season with the new ULTRA Summer Blaster style! These glasses don't just say you're ULTRA COOL - they also say you're ULTRA HOT! Try to find another kind of eyewear in a such ultra way! Go on, I'll wait...
 
 // Bubble Machine
-6306|Bubble up! This machine will fill the air with bright and beautiful bubbles - perfect for a summer pool party, a sweet midnight rave pr a really classy pizza night.
+6306|Bubble up! This machine will fill the air with bright and beautiful bubbles - perfect for a summer pool party, a sweet midnight rave or a really classy pizza night.
 
 // Beach Ball
 6308|Inflated with extra summer fun! Bounce this onto the beach and relax in the sun and sand!
@@ -10272,7 +10272,7 @@
 7056|Sweet and silky, this tart is made from tropically-ripened coconuts and some very precise, very ancients baking secrets! These secrets are so ancient, in fact, that they're able to connect with the ghosts of other coconut aficionados! Food Buff: Grants anyone who eats this tart 50 XP from capturing ghosts! Note: Apparently, all ghosts REALLY enjoy coconut, so this bonus applies to any of them! Who knew?
 
 // Purity Mooncake
-7058|Perfection is a powerful message, and it's clearly this astonishingly fine mooncake! Anyone who partakes of such a lovely and delicate treat will be empowered by the ancestors of the Harvest... Food Buff: Reduces the chance of suffering any Hand Scythe breakages by 5%
+7058|Perfection is a powerful message, and it's clearly in full effect with this astonishingly fine mooncake! Anyone who partakes of such a lovely and delicate treat will be empowered by the ancestors of the Harvest... Food Buff: Reduces the chance of suffering any Hand Scythe breakages by 5%
 
 // Koi Fish Leash
 7060|The classiest of all fish (by at least 86%) has decided to join you on land! Now its classiness will follow you wherever you go! Thanks, classy koi.
